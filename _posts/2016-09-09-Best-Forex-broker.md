@@ -22,11 +22,4 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 So, lets take a look the latest list of Forex Broker that i already sort them based on above requirements.
 
 ## Forex Broker List
-|  Broker |   |
-| ------------ | ------------ |
-|  Pepperstone |   |
-|  FXCM |   |
-|  LMAX |   |
-|  ICMarkets |   |
-|  Tickmill |   |
-|  Dukascopy |   |
+
