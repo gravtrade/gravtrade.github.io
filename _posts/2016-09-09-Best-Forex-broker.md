@@ -26,4 +26,8 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+|   |   |
+| ------------ | ------------ |
+|   |   |
+|   |   |
 
