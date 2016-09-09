@@ -22,9 +22,8 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 So, lets take a look the latest list of Forex Broker that i already sort them based on above requirements.
 
 ## Forex Broker List
-|Tables|Are|Cool|
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
