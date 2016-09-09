@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Example content for posts  
-categories: others
+title: 'Example content for posts'
+tags: []
+category: others
 ---
 
 
