@@ -5,7 +5,7 @@ tags:
   - forex
   - broker
 categories:
-  - borex
+  - forex
   - broker
 ---
 # Best Forex Broker List 2016
