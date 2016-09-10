@@ -5,8 +5,8 @@ logo: /static/img/gravtrade-forex-trading-large-logo-white.png
 github: https://github.com
 about: For Successful Trader
 
-baseurl: ""
-url: "http://www.gravtrade.com/"
+baseurl: "http://www.gravtrade.com"
+url: "http://www.gravtrade.com"
 
 disqus_shortname: GravTrade
 google_analytics: UA-83911096-1
