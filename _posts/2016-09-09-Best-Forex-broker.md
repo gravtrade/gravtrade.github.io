@@ -2,8 +2,12 @@
 layout: post
 title: 'Best Forex Broker'
 tags:
-  - 'Forex Broker'
+  - Forex
+  - Broker
 category: 'Forex Broker'
+categories:
+  - Forex
+  - Broker
 ---
 # Best Forex Broker List 2016
 
