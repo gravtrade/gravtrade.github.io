@@ -4,7 +4,6 @@ title: 'Best Forex Broker'
 tags:
   - Forex
   - Broker
-category: 'Forex Broker'
 categories:
   - Forex
   - Broker
