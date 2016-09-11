@@ -42,18 +42,18 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <th class="tg-9hbo">Spread</th>
     <th class="tg-9hbo">Commission</th>
     <th class="tg-9hbo">Platform</th>
-    <th class="tg-9hbo">Scalping Allowed</th>
+    <th class="tg-9hbo">Scalping Strategy Allowed?</th>
     <th class="tg-9hbo">Website</th>
   </tr>
   <tr>
     <td class="tg-yw4l">Pepperstone</td>
-    <td class="tg-b7b8">ASIC Australia</td>
+    <td class="tg-b7b8">ASIC</td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
+    <td class="tg-b7b8">[Pepperstone Broker details](https://pepperstone.com/?a_aid=pro "Pepperstone is our preferred Forex Broker")</td>
   </tr>
   <tr>
     <td class="tg-yw4l">FXCM US</td>
@@ -62,7 +62,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -72,17 +72,17 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">GlobalPrime</td>
-    <td class="tg-b7b8">ASIC Australia</td>
+    <td class="tg-b7b8">ASIC</td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -92,17 +92,17 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">ICMarkets</td>
-    <td class="tg-b7b8">ASIC Australia</td>
+    <td class="tg-b7b8">ASIC</td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -202,7 +202,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -222,7 +222,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -232,7 +232,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -242,7 +242,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -252,7 +252,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -262,7 +262,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -272,7 +272,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -282,7 +282,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -302,7 +302,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -312,7 +312,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -322,7 +322,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -332,7 +332,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -342,7 +342,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -352,7 +352,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -382,7 +382,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -392,7 +392,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -402,7 +402,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -412,7 +412,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -422,7 +422,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -432,7 +432,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -442,7 +442,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -452,7 +452,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -462,7 +462,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -472,7 +472,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -482,7 +482,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -492,7 +492,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -502,7 +502,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -512,7 +512,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -522,7 +522,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -532,7 +532,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -542,7 +542,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -552,7 +552,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -562,7 +562,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -572,7 +572,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -582,7 +582,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -592,7 +592,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -602,7 +602,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -612,7 +612,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -622,7 +622,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -632,7 +632,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -642,7 +642,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -652,7 +652,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -662,7 +662,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -672,7 +672,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -682,7 +682,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -692,7 +692,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -702,7 +702,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -712,7 +712,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -722,7 +722,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -732,7 +732,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -742,7 +742,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -752,7 +752,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -762,7 +762,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -772,7 +772,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -782,7 +782,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -792,7 +792,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -802,7 +802,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -812,7 +812,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -822,7 +822,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -832,7 +832,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -842,7 +842,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -852,7 +852,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -862,7 +862,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -872,7 +872,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -882,7 +882,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -892,7 +892,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -902,7 +902,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -912,7 +912,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -922,7 +922,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -932,7 +932,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -942,7 +942,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -952,7 +952,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -962,7 +962,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -972,7 +972,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -982,7 +982,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -992,7 +992,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1002,7 +1002,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1012,7 +1012,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1022,7 +1022,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1032,7 +1032,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1042,7 +1042,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1052,7 +1052,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1062,7 +1062,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1072,7 +1072,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1082,7 +1082,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1092,7 +1092,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1102,7 +1102,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1112,7 +1112,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1122,7 +1122,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1132,7 +1132,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1142,7 +1142,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1152,7 +1152,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1162,7 +1162,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1172,7 +1172,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -1182,7 +1182,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
