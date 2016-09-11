@@ -39,6 +39,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <th class="tg-9hbo">Broker</th>
     <th class="tg-9hbo">Regulation</th>
     <th class="tg-9hbo">Best Broker Account Type</th>
+	<th class="tg-9hbo">Leverage</th>
     <th class="tg-9hbo">Average Spread</th>
     <th class="tg-9hbo">Commission</th>
     <th class="tg-9hbo">Available Platform</th>
@@ -49,11 +50,12 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l">Pepperstone</td>
     <td class="tg-b7b8">ASIC</td>
     <td class="tg-yw4l">Razor</td>
-    <td class="tg-b7b8">0.0 pip - 0.8 pips</td>
-    <td class="tg-yw4l">0.7 pips</td>
-    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
-    <td class="tg-yw4l">Scalping strategy allowed</td>
-    <td class="tg-b7b8"><a href="https://pepperstone.com/?a_aid=pro">Pepperstone Forex Broker</a></td>
+	<td class="tg-b7b8">Up to 1:500</td>
+    <td class="tg-yw4l">0.0 pip - 0.8 pips</td>
+    <td class="tg-b7b8">0.7 pips</td>
+    <td class="tg-yw4l">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
+    <td class="tg-b7b8">Scalping strategy allowed</td>
+    <td class="tg-yw4l"><a href="https://pepperstone.com/?a_aid=pro">Pepperstone Forex Broker</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">FXCM US</td>
