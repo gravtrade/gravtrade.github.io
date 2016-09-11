@@ -53,7 +53,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
-    <td class="tg-b7b8">[Pepperstone Broker](https://pepperstone.com/?a_aid=pro "Pepperstone Broker")</td>
+    <td class="tg-b7b8"><a href="https://pepperstone.com/?a_aid=pro">Pepperstone Forex Broker</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">FXCM US</td>
