@@ -51,7 +51,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"><a href="https://pepperstone.com/?a_aid=pro">Pepperstone Forex Broker</a></td>
   </tr>
@@ -61,7 +61,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -71,7 +71,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -81,7 +81,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -91,7 +91,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -101,7 +101,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -111,7 +111,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -121,7 +121,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -131,7 +131,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -141,7 +141,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -151,7 +151,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -161,7 +161,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -171,7 +171,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -181,7 +181,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -191,7 +191,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -201,7 +201,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -211,7 +211,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -221,7 +221,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -231,7 +231,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -241,7 +241,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -251,7 +251,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -261,7 +261,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -271,7 +271,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -281,7 +281,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -291,7 +291,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -301,7 +301,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -311,7 +311,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -321,7 +321,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -331,7 +331,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -341,7 +341,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -351,7 +351,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -361,7 +361,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -371,7 +371,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -381,7 +381,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -391,7 +391,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -401,7 +401,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -411,7 +411,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -421,7 +421,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -431,7 +431,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -441,7 +441,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -451,7 +451,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -461,7 +461,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -471,7 +471,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -481,7 +481,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -491,7 +491,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -501,7 +501,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -511,7 +511,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -521,7 +521,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -531,7 +531,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -541,7 +541,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -551,7 +551,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -561,7 +561,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -571,7 +571,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -581,7 +581,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -591,7 +591,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -601,7 +601,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -611,7 +611,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -621,7 +621,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -631,7 +631,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -641,7 +641,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -651,7 +651,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -661,7 +661,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -671,7 +671,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -681,7 +681,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -691,7 +691,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -701,7 +701,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -711,7 +711,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -721,7 +721,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -731,7 +731,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -741,7 +741,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -751,7 +751,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -761,7 +761,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -771,7 +771,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -781,7 +781,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -791,7 +791,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -801,7 +801,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -811,7 +811,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -821,7 +821,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -831,7 +831,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -841,7 +841,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -851,7 +851,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -861,7 +861,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -871,7 +871,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -881,7 +881,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -891,7 +891,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -901,7 +901,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -911,7 +911,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -921,7 +921,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -931,7 +931,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -941,7 +941,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -951,7 +951,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -961,7 +961,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -971,7 +971,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -981,7 +981,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -991,7 +991,7 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
     <td class="tg-yw4l"></td>
     <td class="tg-b7b8"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
