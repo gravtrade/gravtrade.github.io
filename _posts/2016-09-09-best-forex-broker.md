@@ -38,12 +38,12 @@ So, lets take a look the latest list of Forex Broker that i already sort them ba
   <tr>
     <th class="tg-9hbo">Broker</th>
     <th class="tg-9hbo">Regulation</th>
-    <th class="tg-9hbo">Account Type</th>
-    <th class="tg-9hbo">Spread</th>
+    <th class="tg-9hbo">Best Broker Account Type</th>
+    <th class="tg-9hbo">Average Spread</th>
     <th class="tg-9hbo">Commission</th>
-    <th class="tg-9hbo">Platform</th>
+    <th class="tg-9hbo">Available Platform</th>
     <th class="tg-9hbo">Scalping Strategy Allowed?</th>
-    <th class="tg-9hbo">Website</th>
+    <th class="tg-9hbo">More Broker Details</th>
   </tr>
   <tr>
     <td class="tg-yw4l">Pepperstone</td>
