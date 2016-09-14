@@ -26,7 +26,7 @@
                 
         <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
         <meta name="author" content="{{ site.author }}" />
-        <meta name="description" content="{% if site.posts %}{{ content | strip_html | truncatewords: 20 }}{% else %}{{ site.description }}{% endif %}" />
+        <meta name="description" content="{% if site.posts %}{{ content | strip_html | truncatewords: 25 }}{% else %}{{ site.description }}{% endif %}" />
         <meta name="keywords" content="{% if page.title %}{{ page.title }}, {{ site.title }}, {% for categ in page.categories %}{{ categ }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% else %}{{ site.title }}, {% for category in site.categories %}{% capture categories_slug %}{{ category | first }}{% endcapture %}{% for categ in categories_slug %}{{ categ }}{% endfor %}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}" />
 
         <meta content="{{ site.share.fb_appid }}" property="fb:app_id">
@@ -42,7 +42,7 @@
           <meta content="website" property="og:type">
         {% endif %}
         {% if site.posts %}
-          <meta content="{{ content | strip_html | truncatewords: 20 }}" property="og:description">
+          <meta content="{{ content | strip_html | truncatewords: 25 }}" property="og:description">
         {% else %}
           <meta content="{{ site.description }}" property="og:description">
         {% endif %}
@@ -79,8 +79,8 @@
         {% if page.url %}
           <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
         {% endif %}
-        {% if page.description %}
-          <meta name="twitter:description" content="{{ page.description }}">
+        {% if site.posts %}
+          <meta name="twitter:description" content="{{ content | strip_html | truncatewords: 25 }}">
         {% else %}
           <meta name="twitter:description" content="{{ site.description }}">
         {% endif %}
