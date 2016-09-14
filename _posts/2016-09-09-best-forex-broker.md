@@ -2,13 +2,11 @@
 layout: post
 title: 'Best Forex Broker Reviews'
 tags:
-  - forex
-  - broker
-  - reviews
+  - forex broker
+  - broker reviews
 categories:
-  - forex
-  - broker
-  - reviews
+  - forex broker
+  - broker reviews
 ---
 # Best Forex Broker Reviews 2016
 
