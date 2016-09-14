@@ -49,7 +49,7 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
     <th class="tg-9hbo">More Broker Details</th>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://pepperstone.com/?a_aid=pro">Pepperstone Forex Broker</a></td>
+    <td class="tg-yw4l"><a href="https://pepperstone.com/?a_aid=pro">Pepperstone</a></td>
     <td class="tg-b7b8">ASIC</td>
     <td class="tg-yw4l">Razor (ECN,NDD)</td>
 	<td class="tg-b7b8">Up to 500:1</td>
@@ -60,10 +60,10 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-  	<td class="tg-b7b8"><a href="https://www.fxcm.com">FXCM US Forex Broker</a></td>
-    <td class="tg-yw4l">FCM,RFED,CFTC,NFA</td>
+    <td class="tg-b7b8"><a href="https://www.fxcm.com">FXCM US</a></td>
+    <td class="tg-yw4l">FCM, RFED, CFTC, NFA</td>
     <td class="tg-b7b8">Standard Account (ECN,NDD)</td>
-    <td class="tg-yw4l">Up to 50:1</td>
+    <td class="tg-yw4l">50:1</td>
     <td class="tg-b7b8">0.5 pips raw spread</td>
     <td class="tg-yw4l">0.4 pips</td>
     <td class="tg-b7b8">Trading Station Desktop, Trading Station Web, Trading Station Mobile, MetaTrader 4, NinjaTrader</td>
@@ -71,12 +71,13 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">FXCM UK</td>
-    <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
+    <td class="tg-b7b8"><a href="https://www.fxcm.com/uk/">FXCM UK</a></td>
+    <td class="tg-yw4l">FCA</td>
+    <td class="tg-b7b8">Standard Account (ECN,NDD)</td>
+    <td class="tg-yw4l">100:1</td>
+    <td class="tg-b7b8">0.5 pips raw spread</td>
+    <td class="tg-yw4l">0.4 pips</td>
+    <td class="tg-b7b8">Trading Station Desktop, Trading Station Web, Trading Station Mobile, MetaTrader 4, NinjaTrader</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
