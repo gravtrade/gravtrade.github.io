@@ -14,7 +14,7 @@ categories:
 
 Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your forex trading strategy, especially when you are planning to apply the forex scalping strategy, you should do some extra investigations to give you an advantage for your forex trading performance.
 
-**The forex broker list is sort based on requirements below:**
+### The forex broker list is sort based on requirements below:
 
 1. Lowest spread.
 2. Lowest commission.
@@ -27,7 +27,7 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 9. Server connection from client application to broker trading server / Data Center.
 10. Regulation.
 
-**What it Means to be Regulated**
+#### What it Means to be Regulated
 
 Regulation provides security and peace of mind to clients in ensuring that their relations with Broker are protected by industry minimum standards. In order to obtain a license, businesses must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
 
