@@ -5,8 +5,8 @@ tags:
   - forex-broker
   - broker-reviews
 categories:
-  - forex broker
-  - broker reviews
+  - forex-broker
+  - broker-reviews
 ---
 # Best Forex Broker Reviews 2016
 
