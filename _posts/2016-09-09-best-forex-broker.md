@@ -27,6 +27,7 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 9. Server connection from client application to broker trading server / Data Center.
 10. Regulation.
 
+
 #### What it Means to be Regulated
 
 Regulation provides security and peace of mind to clients in ensuring that their relations with Broker are protected by industry minimum standards. In order to obtain a license, businesses must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
