@@ -27,7 +27,7 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 9. Server connection from client application to broker trading server / Data Center.
 10. Regulation.
 
-#### Spread
+#### **Spread**
 
 A spread is the difference between the bid price and the sell price for a currency pair. Most Forex Broker provides some of the **tightest spreads** across Currencies and Metals.
 
