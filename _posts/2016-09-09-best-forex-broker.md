@@ -12,19 +12,19 @@ categories:
 ---
 # Best Forex Broker Reviews 2016
 
-Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your forex trading strategy, especially when you are planning to apply the forex scalping strategy, you should do some extra investigations to give you an advantage for your forex trading performance. 
+Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your forex trading strategy, especially when you are planning to apply the forex scalping strategy, you should do some extra investigations to give you an advantage for your forex trading performance.
 
-The forex broker list is sort based on requirements below:
+**The forex broker list is sort based on requirements below:**
 
-- Lowest spread.
-- Lowest commission.
-- Fast execution.
-- ECN Account.
-- Broker Data Center Geolocation.
-- Broker LP's / Broker Liquidity Provider.
-- Good reviews.
-- Fast client support.
-- Server connection from client application to broker trading server / Data Center.
+1. Lowest spread.
+2. Lowest commission.
+3. Fast execution.
+4. ECN Account.
+5. Broker Data Center Geolocation.
+6. Broker LP's / Broker Liquidity Provider.
+7. Good reviews.
+8. Fast client support.
+9. Server connection from client application to broker trading server / Data Center.
 
 ## Forex Broker List
 
