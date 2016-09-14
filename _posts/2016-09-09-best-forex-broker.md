@@ -1,14 +1,16 @@
 ---
 layout: post
-title: 'Best Forex Broker'
+title: 'Best Forex Broker Reviews'
 tags:
   - forex
   - broker
+  - reviews
 categories:
   - forex
   - broker
+  - reviews
 ---
-# Best Forex Broker List 2016
+# Best Forex Broker Reviews 2016
 
 Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your forex trading strategy, especially when you are planning to apply the forex scalping strategy, you should do some extra investigations to give you an advantage for your forex trading performance. 
 
