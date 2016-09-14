@@ -31,7 +31,7 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 
 A spread is the difference between the bid price and the sell price for a currency pair. Most Forex Broker provides some of the **tightest spreads** across Currencies and Metals.
 
-Spreads on popular platform like MetaTrader 4 platform are variable and feed direct from broker Tier 1 liquidity providers through the **ECN** (Electronic Communications Network). 
+Spreads on popular platform like MetaTrader 4 platform are variable and feed direct from broker Tier 1 liquidity providers through the **ECN** (Electronic Communications Network).
 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
