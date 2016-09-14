@@ -33,7 +33,7 @@ A spread is the difference between the bid price and the sell price for a curren
 
 Spreads on popular platform like MetaTrader 4 platform are variable and feed direct from broker Tier 1 liquidity providers through the **ECN** (Electronic Communications Network). 
 
-> Spreads are tighter during higher volumes of liquidity or may become wider when markets lack liquidity.
+> Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
 You can find the ask price on any pair by ticking the option in MetaTrader4 to see the difference between the Bid and Ask price.
 
