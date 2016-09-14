@@ -10,7 +10,7 @@ categories:
 ---
 # Best Forex Broker List 2016
 
-Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best broker. Depending on your trading strategy, especially when you are planning to apply the scalping strategy, you should do some extra investigations to give you an advantage for your trading performance. 
+Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your forex trading strategy, especially when you are planning to apply the forex scalping strategy, you should do some extra investigations to give you an advantage for your forex trading performance. 
 
 The forex broker list is sort based on requirements below:
 
