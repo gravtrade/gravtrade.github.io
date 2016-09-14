@@ -32,7 +32,14 @@ Before you begin your journey as a Forex Trader, should you well informed on fin
 
 **Regulation** provides security and peace of mind to clients in ensuring that their relations with Broker are protected by industry minimum standards. In order to obtain a license, businesses must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
 
-Being held to a high standard by a third party ensures that the Broker remains committed to ongoing training and continues to comply with national guidelines for quality and authenticity of services.
+Being held to a high standard by a third party ensures that the Broker remains committed to ongoing training and continues to comply with national guidelines for quality and authenticity of services. Some of the common requirements are:
+
+- Provide traditional trustee company services for its clients.
+- Offer a depository or custodial service.
+- The operation of a registered scheme.
+- Market creation for a financial product.
+- Dealing in a financial product.
+- Aid clients with financial product advice.
 
 ## Forex Broker List
 
