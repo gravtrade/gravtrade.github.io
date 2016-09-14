@@ -41,8 +41,8 @@
         {% else %}
           <meta content="website" property="og:type">
         {% endif %}
-        {% if content %}
-          <meta content="{{ content }}" property="og:description">
+        {% if post.content %}
+          <meta content="{{ post.content }}" property="og:description">
         {% else %}
           <meta content="{{ site.description }}" property="og:description">
         {% endif %}
