@@ -80,7 +80,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-yw4l">From 0.0 pips</td>
     <td class="tg-b7b8">0.7 pips</td>
     <td class="tg-yw4l">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
-    <td class="tg-b7b8">Scalping strategy allowed</td>
+    <td class="tg-b7b8">Y</td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8">From 0.0 pips</td>
     <td class="tg-yw4l">0.4 pips</td>
     <td class="tg-b7b8">Trading Station Desktop, Trading Station Web, Trading Station Mobile, MetaTrader 4, NinjaTrader</td>
-    <td class="tg-yw4l">Scalping strategy allowed</td>
+    <td class="tg-yw4l">Y</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8">From 0.0 pips</td>
     <td class="tg-yw4l">0.4 pips</td>
     <td class="tg-b7b8">Trading Station Desktop, Trading Station Web, Trading Station Mobile, MetaTrader 4, NinjaTrader</td>
-    <td class="tg-yw4l">Scalping strategy allowed</td>
+    <td class="tg-yw4l">Y</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8">From 0.0 pips</td>
     <td class="tg-yw4l">0.8 pips</td>
     <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac,  MetaTrader 4 iPhone, MetaTrader 4 Android</td>
-    <td class="tg-yw4l">Scalping strategy allowed</td>
+    <td class="tg-yw4l">Y</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8">From 0.0 pips</td>
     <td class="tg-yw4l">0.4 pips</td>
     <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Android, MetaTrader 4 iPhone, WebTrader</td>
-    <td class="tg-yw4l">Scalping strategy allowed</td>
+    <td class="tg-yw4l">Y</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8">From 0.0 pips</td>
     <td class="tg-yw4l">0.7 pips</td>
     <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
-    <td class="tg-yw4l">Scalping strategy allowed</td>
+    <td class="tg-yw4l">Y</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
