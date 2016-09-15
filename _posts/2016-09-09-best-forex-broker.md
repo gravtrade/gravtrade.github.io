@@ -14,7 +14,7 @@ categories:
 
 Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance.
 
-### Our top forex broker list is sort based on requirements below:
+### Our top Forex Broker reviewed based on requirements below:
 
 1. Tight spread.
 2. Low commission.
@@ -52,4 +52,20 @@ Being held to a high standard by a third party ensures that the Broker remains c
 
 ## Top Forex Broker
 
-
+<div itemscope itemtype="http://schema.org/Review">
+  <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Restaurant">
+    <img itemprop="image" src="seafood-restaurant.jpg" alt="Catcher in the Rye"/>
+    <span itemprop="name">Legal Seafood</span>
+  </div>
+  <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <span itemprop="ratingValue">4</span>
+  </span> stars -
+  <b>"<span itemprop="name">A good seafood place.</span>" </b>
+  <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <span itemprop="name">Bob Smith</span>
+  </span>
+  <span itemprop="reviewBody">The seafood is great.</span>
+  <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="Washington Times">
+  </div>
+</div>
