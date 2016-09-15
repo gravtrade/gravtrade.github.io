@@ -112,7 +112,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-yw4l">100:1 to 200:1</td>
     <td class="tg-b7b8">From 0.0 pips</td>
     <td class="tg-yw4l">0.8 pips</td>
-    <td class="tg-b7b8">MetaTrader 4 Windows, MetaTrader 4 Mac,  MetaTrader 4 iPhone, MetaTrader 4 Android</td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac,  MetaTrader 4 iPhone, MetaTrader 4 Android</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
@@ -128,22 +128,24 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">ICMarkets</td>
-    <td class="tg-b7b8">ASIC</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-b7b8">ICMarkets</td>
+    <td class="tg-yw4l">ASIC</td>
+    <td class="tg-b7b8">True ECN</td>
+    <td class="tg-yw4l">up to 500:1</td>
+    <td class="tg-b7b8">From 0.0 pips</td>
+    <td class="tg-yw4l">0.7 pips</td>
     <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">JFDBrokers</td>
-    <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-b7b8"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 5, Smart Trader Tools, WebTrader, iPhone, Android, iPad / Tablet, cTrader, cTrader WebTrader, cTrader cAlgo, cTrader Mobile</td>
+    <td class="tg-b7b8">JFDBrokers</td>
+    <td class="tg-yw4l">CySEC, BaFin, FCA</td>
+    <td class="tg-b7b8">Standard Account (DMA, STP, NDD)</td>
+    <td class="tg-yw4l">up to 400:1</td>
+    <td class="tg-b7b8">From 0.0 pips</td>
+    <td class="tg-yw4l">0.8 pips</td>
+    <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Mac, MetaTrader 4 Android, MetaTrader 4 iPhone</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
   </tr>
