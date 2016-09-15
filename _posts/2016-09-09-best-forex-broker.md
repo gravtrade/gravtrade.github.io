@@ -14,10 +14,10 @@ categories:
 
 Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance.
 
-### The forex broker list is sort based on requirements below:
+### Our top forex broker list is sort based on requirements below:
 
-1. Lowest spread.
-2. Lowest commission.
+1. Tight spread.
+2. Low commission.
 3. Fast execution.
 4. ECN Account.
 5. Broker Data Center Geolocation.
@@ -37,7 +37,7 @@ Spreads on popular platform like MetaTrader 4 platform are variable and feed dir
 
 You can find the ask price on any pair by ticking the option in MetaTrader4 to see the difference between the Bid and Ask price.
 
-### What it Means to be Regulated
+### Your choosen Forex Broker needs to be Regulated
 
 **Regulation** provides security and peace of mind to clients in ensuring that their relations with Broker are protected by industry minimum standards. In order to obtain a license, businesses must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
 
@@ -50,6 +50,6 @@ Being held to a high standard by a third party ensures that the Broker remains c
 - Dealing in a financial product.
 - Aid clients with financial product advice.
 
-## Forex Broker List
+## Top Forex Broker
 
 
