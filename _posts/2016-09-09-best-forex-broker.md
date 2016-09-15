@@ -117,11 +117,12 @@ Being held to a high standard by a third party ensures that the Broker remains c
     <td class="tg-b7b8"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Tickmill</td>
-    <td class="tg-b7b8">FSA</td>
-    <td class="tg-yw4l">ECN Pro (ECN, DMA, NDD, STP)</td>
-    <td class="tg-b7b8">up to 500:1</td>
-    <td class="tg-yw4l">From 0.0 pips</td>
+    <td class="tg-b7b8">Tickmill</td>
+    <td class="tg-yw4l">FSA</td>
+    <td class="tg-b7b8">ECN Pro (ECN, DMA, NDD, STP)</td>
+    <td class="tg-yw4l">up to 500:1</td>
+    <td class="tg-b7b8">From 0.0 pips</td>
+    <td class="tg-yw4l">0.4 pips</td>
     <td class="tg-b7b8">MetaTrader 4, MetaTrader 4 Android, MetaTrader 4 iPhone, WebTrader</td>
     <td class="tg-yw4l">Scalping strategy allowed</td>
     <td class="tg-b7b8"></td>
