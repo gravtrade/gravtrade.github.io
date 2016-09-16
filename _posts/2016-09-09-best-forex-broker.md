@@ -124,74 +124,74 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
   <tr>
     <td class="tg-yw4l">FXCM</td>
     <td class="tg-yw4l">0.2</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">0.2</td>
+    <td class="tg-yw4l">0.2</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Tickmill</td>
     <td class="tg-yw4l">0.5</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">6.0</td>
+    <td class="tg-yw4l">1.1</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Vipro Markets</td>
     <td class="tg-yw4l">0.4</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">5.9</td>
+    <td class="tg-yw4l">1.1</td>
   </tr>
   <tr>
     <td class="tg-yw4l">ADS Securities London</td>
     <td class="tg-yw4l">0.4</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">6.4</td>
+    <td class="tg-yw4l">2.6</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Darwinex</td>
     <td class="tg-yw4l">0.4</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">5.1</td>
+    <td class="tg-yw4l">1.3</td>
   </tr>
   <tr>
     <td class="tg-yw4l">JFD Brokers</td>
     <td class="tg-yw4l">0.3</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">4.3</td>
+    <td class="tg-yw4l">2.4</td>
   </tr>
   <tr>
     <td class="tg-yw4l">XM</td>
     <td class="tg-yw4l">0.1</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">3.5</td>
+    <td class="tg-yw4l">2.9</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Pepperstone</td>
     <td class="tg-yw4l">0.2</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">3.9</td>
+    <td class="tg-yw4l">**0.8**</td>
   </tr>
   <tr>
     <td class="tg-yw4l">GBEbrokers</td>
     <td class="tg-yw4l">0.3</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">5.0</td>
+    <td class="tg-yw4l">1.3</td>
   </tr>
   <tr>
     <td class="tg-yw4l">GDMFX</td>
     <td class="tg-yw4l">0.1</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">4.3</td>
+    <td class="tg-yw4l">4.3</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Tradeview Markets</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">0.2</td>
+    <td class="tg-yw4l">5.8</td>
+    <td class="tg-yw4l">1.3</td>
   </tr>
   <tr>
     <td class="tg-yw4l">IC Markets</td>
     <td class="tg-yw4l">0.1</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">3.7</td>
+    <td class="tg-yw4l">3.0</td>
   </tr>
 </table>
 
