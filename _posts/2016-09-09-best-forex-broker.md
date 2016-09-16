@@ -37,7 +37,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are feed direct
 
 ### Your choosen Forex Broker needs to be Regulated
 
-**Regulation** provides security and peace of mind to clients in ensuring that their relations with Broker are protected by financial industry minimum standards. In order to obtain a license, Forex Broker must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
+**Regulation** provides security and peace of mind to clients in ensuring that their relations with Forex Broker are protected by financial industry minimum standards. In order to obtain a license, Forex Broker must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
 
 Regulators act as a third party ensures that the Forex Broker remains committed to comply with national guidelines for quality and authenticity of services. Some of the common requirements are:
 
