@@ -54,15 +54,15 @@ Being held to a high standard by a third party ensures that the Broker remains c
 
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Restaurant">
-    <img itemprop="image" src="seafood-restaurant.jpg" alt="Catcher in the Rye"/>
-    <span itemprop="name">Forex Broker</span>
+    <img itemprop="image" src="seafood-restaurant.jpg" alt="Trade with top tier banks and institutionals"/>
+    <span itemprop="name">Pepperstona Forex Broker</span>
   </div>
   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
     <span itemprop="ratingValue">5</span>
   </span> stars -
   <b>"<span itemprop="name">The best forex broker to trade with</span>" </b>
   <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <span itemprop="name">GravTrade</span>
+    <span itemprop="name">NorthmanTrader</span>
   </span>
   <span itemprop="reviewBody">They provide me lowest spread especially on news release with reasonable commission charged, fast execution through their ECN technology.</span>
   <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
