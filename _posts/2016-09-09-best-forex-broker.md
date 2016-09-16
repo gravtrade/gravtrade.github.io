@@ -107,86 +107,300 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 **Compare the average spread and spread on news release between them**
 
-<table id="tg-D9oI8" class="tg">
-  <tr>
-    <th class="tg-baqh">Broker</th>
-    <th class="tg-yw4l">Average Spread</th>
-    <th class="tg-yw4l">Highest Spread</th>
-    <th class="tg-yw4l">Spread on News Release (US Unemployment Rate)</th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">FXCM</td>
-    <td class="tg-yw4l">Rejected due to fixed spread</td>
-    <td class="tg-yw4l">Rejected due to fixed spread</td>
-    <td class="tg-yw4l">Rejected due to fixed spread</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Tickmill</td>
-    <td class="tg-yw4l">0.5</td>
-    <td class="tg-yw4l">6.0</td>
-    <td class="tg-yw4l">1.1</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Vipro Markets</td>
-    <td class="tg-yw4l">0.4</td>
-    <td class="tg-yw4l">5.9</td>
-    <td class="tg-yw4l">1.1</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">ADS Securities London</td>
-    <td class="tg-yw4l">0.4</td>
-    <td class="tg-yw4l">6.4</td>
-    <td class="tg-yw4l">2.6</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Darwinex</td>
-    <td class="tg-yw4l">0.4</td>
-    <td class="tg-yw4l">5.1</td>
-    <td class="tg-yw4l">1.3</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">JFD Brokers</td>
-    <td class="tg-yw4l">0.3</td>
-    <td class="tg-yw4l">4.3</td>
-    <td class="tg-yw4l">2.4</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">XM</td>
-    <td class="tg-yw4l">0.1</td>
-    <td class="tg-yw4l">3.5</td>
-    <td class="tg-yw4l">2.9</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Pepperstone</td>
-    <td class="tg-yw4l">0.2</td>
-    <td class="tg-yw4l">3.9</td>
-    <td class="tg-yw4l">**0.8**</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">GBEbrokers</td>
-    <td class="tg-yw4l">0.3</td>
-    <td class="tg-yw4l">5.0</td>
-    <td class="tg-yw4l">1.3</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">GDMFX</td>
-    <td class="tg-yw4l">0.1</td>
-    <td class="tg-yw4l">4.3</td>
-    <td class="tg-yw4l">4.3</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Tradeview Markets</td>
-    <td class="tg-yw4l">0.2</td>
-    <td class="tg-yw4l">5.8</td>
-    <td class="tg-yw4l">1.3</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">IC Markets</td>
-    <td class="tg-yw4l">0.1</td>
-    <td class="tg-yw4l">3.7</td>
-    <td class="tg-yw4l">3.0</td>
-  </tr>
-</table>
+<div id="brokerspread_21931" align="center" x:publishsource="Excel">
+
+<table border="0" cellpadding="0" cellspacing="0" width="906" class="xl6521931" style="border-collapse:collapse;table-layout:fixed;width:680pt">
+ <colgroup><col class="xl6521931" width="213" style="mso-width-source:userset;mso-width-alt:
+ 7789;width:160pt">
+ <col class="xl6521931" width="144" style="mso-width-source:userset;mso-width-alt:
+ 5266;width:108pt">
+ <col class="xl6521931" width="140" style="mso-width-source:userset;mso-width-alt:
+ 5120;width:105pt">
+ <col class="xl6521931" width="409" style="mso-width-source:userset;mso-width-alt:
+ 14957;width:307pt">
+ </colgroup><tbody><tr height="42" style="height:31.5pt">
+  <td height="42" class="xl6921931" width="213" style="height:31.5pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border:.5pt solid windowtext;background:#C5D9F1;mso-pattern:black none">Broker</td>
+  <td class="xl6921931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:700;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border:.5pt solid windowtext;
+  background:#C5D9F1;mso-pattern:black none">Average Spread within 48hrs</td>
+  <td class="xl6921931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:700;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border:.5pt solid windowtext;
+  background:#C5D9F1;mso-pattern:black none">Highest Spread within 48hrs</td>
+  <td class="xl6921931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:700;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border:.5pt solid windowtext;
+  background:#C5D9F1;mso-pattern:black none">Spread on News Release (US
+  Unemployment Rate)</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl7021931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext;background:red;mso-pattern:black none">FXCM</td>
+  <td class="xl7021931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:red;mso-pattern:black none">0.2</td>
+  <td class="xl7021931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:red;mso-pattern:black none">0.2</td>
+  <td class="xl7021931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:red;mso-pattern:black none">0.2</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6721931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">Pepperstone</td>
+  <td class="xl6721931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">0.2</td>
+  <td class="xl6721931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">3.9</td>
+  <td class="xl7221931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#00B050;mso-pattern:black none">0.8</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6621931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext">Tickmill</td>
+  <td class="xl6621931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">0.5</td>
+  <td class="xl6621931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">6</td>
+  <td class="xl7121931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:yellow;mso-pattern:black none">1.1</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6721931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">Vipro
+  Markets</td>
+  <td class="xl6721931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">0.4</td>
+  <td class="xl6721931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">5.9</td>
+  <td class="xl7121931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:yellow;mso-pattern:black none">1.1</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6621931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext">Darwinex</td>
+  <td class="xl6621931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">0.4</td>
+  <td class="xl6621931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">5.1</td>
+  <td class="xl6621931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">1.3</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6721931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">GBEbrokers</td>
+  <td class="xl6721931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">0.3</td>
+  <td class="xl6721931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">5</td>
+  <td class="xl6721931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">1.3</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6621931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext">Tradeview Markets</td>
+  <td class="xl6621931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">0.2</td>
+  <td class="xl6621931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">5.8</td>
+  <td class="xl6621931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">1.3</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6721931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">JFD
+  Brokers</td>
+  <td class="xl6721931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">0.3</td>
+  <td class="xl6721931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">4.3</td>
+  <td class="xl6721931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">2.4</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6621931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext">ADS Securities London</td>
+  <td class="xl6621931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">0.4</td>
+  <td class="xl6621931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">6.4</td>
+  <td class="xl6621931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">2.6</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6721931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">XM</td>
+  <td class="xl6721931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">0.1</td>
+  <td class="xl6721931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">3.5</td>
+  <td class="xl6721931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:#F2F2F2;mso-pattern:black none">2.9</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6621931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  none;border-left:.5pt solid windowtext">IC Markets</td>
+  <td class="xl6621931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">0.1</td>
+  <td class="xl6621931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">3.7</td>
+  <td class="xl6621931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext">3</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl6821931" width="213" style="height:15.0pt;width:160pt;
+  font-size:12.0pt;color:#333333;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial;
+  border-top:.5pt solid #4BACC6;border-right:.5pt solid windowtext;border-bottom:
+  .5pt solid windowtext;border-left:.5pt solid windowtext;background:#F2F2F2;
+  mso-pattern:black none">GDMFX</td>
+  <td class="xl6821931" width="144" style="border-left:none;width:108pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">0.1</td>
+  <td class="xl6821931" width="140" style="border-left:none;width:105pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">4.3</td>
+  <td class="xl6821931" width="409" style="border-left:none;width:307pt;font-size:
+  12.0pt;color:#333333;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:.5pt solid #4BACC6;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:#F2F2F2;mso-pattern:black none">4.3</td>
+ </tr>
+ <!--[if supportMisalignedColumns]-->
+ <tr height="0" style="display:none">
+  <td width="213" style="width:160pt"></td>
+  <td width="144" style="width:108pt"></td>
+  <td width="140" style="width:105pt"></td>
+  <td width="409" style="width:307pt"></td>
+ </tr>
+ <!--[endif]-->
+</tbody></table>
+
+</div>
 
 
 ### Your choosen Forex Broker needs to be Regulated
