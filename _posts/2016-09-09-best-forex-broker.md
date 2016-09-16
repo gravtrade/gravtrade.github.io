@@ -35,9 +35,9 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
-Now lets pick some list of lowest spread broker on Myfxbook
+Now lets pick some list of lowest spread forex broker on Myfxbook
 
-[![Random forex broker raw spread](?? "Random forex broker raw spread")](/static/img/general-image/broker-raw-spread.png "Random forex broker raw spread")
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
 
 Look at their average spread one by one
 
