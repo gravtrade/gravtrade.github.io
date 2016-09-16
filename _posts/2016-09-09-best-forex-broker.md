@@ -36,10 +36,39 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
 Now lets pick some list of lowest spread forex broker on Myfxbook
+
 <div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
 </div>
+
 Look at their average spread one by one
+
+<div align="center">
+**IC Markets**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**Tradeview Markets**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**GDMFX**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**GBEbrokers**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**Pepperstone**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**XM**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**FXCM**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**JFD Brokers**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**Darwinex**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**ADS Securities London**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**Vipro Markets**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+**Tickmill**
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 
 compare the average sprad between them
 
