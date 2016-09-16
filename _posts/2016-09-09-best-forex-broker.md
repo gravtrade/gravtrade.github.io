@@ -38,11 +38,11 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 Now lets pick some list of lowest spread forex broker on Myfxbook
 <div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-
+</div>
 Look at their average spread one by one
 
 compare the average sprad between them
-</div>
+
 ### Your choosen Forex Broker needs to be Regulated
 
 **Regulation** provides security and peace of mind to clients in ensuring that their relations with Forex Broker are protected by financial industry minimum standards. In order to obtain a license, Forex Broker must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
