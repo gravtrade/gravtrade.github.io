@@ -69,31 +69,30 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 </div>
 
 
-                            <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="90" id="728x90" width="728">
-                                <param name="movie" value="728x90.swf">
-                                <param name="quality" value="high">
-                                <param name="bgcolor" value="#ffffff">
-                                <param name="play" value="true">
-                                <param name="loop" value="true">
-                                <param name="wmode" value="window">
-                                <param name="scale" value="showall">
-                                <param name="menu" value="true">
-                                <param name="devicefont" value="false">
-                                <param name="salign" value="">
-                                <param name="allowScriptAccess" value="sameDomain">
-                                <param name="flashvars" value="clickTAG=http://YOUR-IB-LINK"><!--[if !IE]>-->
-                                <object data="728x90.swf" height="90" type="application/x-shockwave-flash" width="728">
-                                    <param name="movie" value="728x90.swf">
-                                    <param name="quality" value="high">
-                                    <param name="bgcolor" value="#ffffff">
-                                    <param name="play" value="true">
-                                    <param name="loop" value="true">
-                                    <param name="wmode" value="window">
-                                    <param name="scale" value="showall">
-                                    <param name="menu" value="true">
-                                    <param name="devicefont" value="false">
-                                    <param name="salign" value="">
-                                    <param name="allowScriptAccess" value="sameDomain">
-                                    <param name="flashvars" value="clickTAG=http://YOUR-IB-LINK"><!--<![endif]--><a href="https://www.adobe.com/go/getflash"><img alt="Get Adobe Flash player" src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif">
-                                    </a> <!--[if !IE]>--></object><!--<![endif]--></object>
-                        
+<object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="90" id="728x90" width="728">
+<param name="movie" value="728x90.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="play" value="true">
+<param name="loop" value="true">
+<param name="wmode" value="window">
+<param name="scale" value="showall">
+<param name="menu" value="true">
+<param name="devicefont" value="false">
+<param name="salign" value="">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="flashvars" value="clickTAG=http://YOUR-IB-LINK"><!--[if !IE]>-->
+<object data="728x90.swf" height="90" type="application/x-shockwave-flash" width="728">
+<param name="movie" value="728x90.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="play" value="true">
+<param name="loop" value="true">
+<param name="wmode" value="window">
+<param name="scale" value="showall">
+<param name="menu" value="true">
+<param name="devicefont" value="false">
+<param name="salign" value="">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="flashvars" value="clickTAG=http://YOUR-IB-LINK"><!--<![endif]--><a href="https://www.adobe.com/go/getflash"><img alt="Get Adobe Flash player" src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif">
+</a> <!--[if !IE]>--></object><!--<![endif]--></object>
