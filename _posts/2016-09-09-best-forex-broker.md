@@ -12,7 +12,7 @@ categories:
 ---
 # Best Forex Broker Reviews 2016
 
-Professional trader measuring best forex broker service based on how good they provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
+Professional trader measuring the best forex broker service based on how good they provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
 
 ### Our top Forex Broker reviewed based on requirements below:
 
