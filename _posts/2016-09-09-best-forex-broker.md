@@ -112,13 +112,13 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
     <th class="tg-baqh">Broker</th>
     <th class="tg-yw4l">Average Spread</th>
     <th class="tg-yw4l">Highest Spread</th>
-    <th class="tg-yw4l">Spread on News Release</th>
+    <th class="tg-yw4l">Spread on News Release (US Unemployment Rate)</th>
   </tr>
   <tr>
     <td class="tg-yw4l">FXCM</td>
-    <td class="tg-yw4l">0.2</td>
-    <td class="tg-yw4l">0.2</td>
-    <td class="tg-yw4l">0.2</td>
+    <td class="tg-yw4l">Rejected due to fixed spread</td>
+    <td class="tg-yw4l">Rejected due to fixed spread</td>
+    <td class="tg-yw4l">Rejected due to fixed spread</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Tickmill</td>
