@@ -54,7 +54,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
 
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
-    <img itemprop="image" src="seafood-restaurant.jpg" alt="Trade with top tier banks and institutionals"/>
+    <img itemprop="image" src="/static/img/broker-logo/pepperstone.jpg" alt="Trade with top tier banks and institutionals"/>
     <span itemprop="name">Pepperstone Forex Broker</span>
   </div>
   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
