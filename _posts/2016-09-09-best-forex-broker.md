@@ -12,17 +12,17 @@ categories:
 ---
 # Best Forex Broker Reviews 2016
 
-Professional trader measuring best forex broker service based on how good they provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance.
+Professional trader measuring best forex broker service based on how good they provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
 
 ### Our top Forex Broker reviewed based on requirements below:
 
-1. Tight spread.
-2. Low commission.
+1. Average tight spread and when news releases.
+2. Low commission per trade entry and exit cycle (Round Trip).
 3. Fast execution.
 4. ECN Account.
 5. Broker Data Center Geolocation.
 6. Broker LP's / Broker Liquidity Provider.
-7. Good reviews.
+7. Good reviews on average social and review websites (This mostly help you to understand how secure funding your money).
 8. Fast client support.
 9. Server connection from client application to broker trading server / Data Center.
 10. Regulation.
