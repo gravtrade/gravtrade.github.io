@@ -62,9 +62,9 @@ Being held to a high standard by a third party ensures that the Broker remains c
   </span> stars -
   <b>"<span itemprop="name">The best forex broker to trade with</span>" </b>
   <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <span itemprop="name">NorthmanTrader</span>
+    <span itemprop="name">NorthmanTrader.</span>
   </span>
-  <span itemprop="reviewBody">They provide me lowest spread especially on news release with reasonable commission charged, fast execution through their ECN technology.</span>
+  <span itemprop="reviewBody">- "They provide me lowest spread especially on news release with reasonable commission charged, fast execution through their ECN technology."</span>
   <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
     <meta itemprop="name" content="www.GravTrade.com">
   </div>
