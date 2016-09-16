@@ -55,17 +55,17 @@ Being held to a high standard by a third party ensures that the Broker remains c
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Restaurant">
     <img itemprop="image" src="seafood-restaurant.jpg" alt="Catcher in the Rye"/>
-    <span itemprop="name">Legal Seafood</span>
+    <span itemprop="name">Forex Broker</span>
   </div>
   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
-    <span itemprop="ratingValue">4</span>
+    <span itemprop="ratingValue">5</span>
   </span> stars -
-  <b>"<span itemprop="name">A good seafood place.</span>" </b>
+  <b>"<span itemprop="name">The best forex broker to trade with</span>" </b>
   <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <span itemprop="name">Bob Smith</span>
+    <span itemprop="name">GravTrade</span>
   </span>
-  <span itemprop="reviewBody">The seafood is great.</span>
+  <span itemprop="reviewBody">They provide me lowest spread especially on news release with reasonable commission charged, fast execution through their ECN technology.</span>
   <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="Washington Times">
+    <meta itemprop="name" content="www.GravTrade.com">
   </div>
 </div>
