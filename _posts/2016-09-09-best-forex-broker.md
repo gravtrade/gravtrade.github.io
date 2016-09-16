@@ -37,6 +37,8 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 Now lets pick some list of lowest spread broker on Myfxbook
 
+[![Random forex broker raw spread](?? "Random forex broker raw spread")](/static/img/general-image/broker-raw-spread.png "Random forex broker raw spread")
+
 Look at their average spread one by one
 
 compare the average sprad between them
