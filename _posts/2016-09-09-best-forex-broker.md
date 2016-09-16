@@ -103,10 +103,10 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <div align="center">
 <img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Random forex broker raw spread"/>
 </div>
-<br><br>
 
 
 **Compare the average spread and spread on news release between them**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;border-top-width:1px;border-bottom-width:1px;}
