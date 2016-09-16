@@ -104,7 +104,97 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Random forex broker raw spread"/>
 </div>
 <br><br>
+
+
 **Compare the average spread and spread on news release between them**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-baqh">Broker</th>
+    <th class="tg-yw4l">Average Spread</th>
+    <th class="tg-yw4l">Highest Spread</th>
+    <th class="tg-yw4l">Spread on News Release</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FXCM</td>
+    <td class="tg-yw4l">0.2</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Tickmill</td>
+    <td class="tg-yw4l">0.5</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Vipro Markets</td>
+    <td class="tg-yw4l">0.4</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ADS Securities London</td>
+    <td class="tg-yw4l">0.4</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Darwinex</td>
+    <td class="tg-yw4l">0.4</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">JFD Brokers</td>
+    <td class="tg-yw4l">0.3</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">XM</td>
+    <td class="tg-yw4l">0.1</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Pepperstone</td>
+    <td class="tg-yw4l">0.2</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GBEbrokers</td>
+    <td class="tg-yw4l">0.3</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GDMFX</td>
+    <td class="tg-yw4l">0.1</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Tradeview Markets</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IC Markets</td>
+    <td class="tg-yw4l">0.1</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+</table>
+
 
 ### Your choosen Forex Broker needs to be Regulated
 
