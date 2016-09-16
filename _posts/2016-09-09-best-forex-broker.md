@@ -43,30 +43,53 @@ Now lets pick some list of lowest spread forex broker on Myfxbook
 
 Look at their average spread one by one
 
-<div align="center">
+
 **IC Markets**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **Tradeview Markets**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **GDMFX**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **GBEbrokers**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **Pepperstone**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **XM**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **FXCM**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **JFD Brokers**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **Darwinex**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **ADS Securities London**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **Vipro Markets**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+</div>
 **Tickmill**
+<div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
 </div>
 
