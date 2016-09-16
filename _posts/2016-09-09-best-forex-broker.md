@@ -35,65 +35,77 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
-Now lets pick some list of lowest spread forex broker on Myfxbook
+**Now lets pick some list of lowest spread forex broker on Myfxbook**
 
 <div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
 </div>
 
-Look at their average spread one by one
-
+**Look at their average spread one by one**
 
 **IC Markets**
 <div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**Tradeview Markets**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**GDMFX**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**GBEbrokers**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**Pepperstone**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**XM**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**FXCM**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**JFD Brokers**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**Darwinex**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**ADS Securities London**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**Vipro Markets**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
-</div>
-**Tickmill**
-<div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+<img src="/static/img/general-image/icmarkets-average-spread.png" alt="Random forex broker raw spread"/>
 </div>
 
-compare the average sprad between them
+**Tradeview Markets**
+<div align="center">
+<img src="/static/img/general-image/tradeview-markets-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**GDMFX**
+<div align="center">
+<img src="/static/img/general-image/gdmfx-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**GBEbrokers**
+<div align="center">
+<img src="/static/img/general-image/gbebrokers-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**Pepperstone**
+<div align="center">
+<img src="/static/img/general-image/pepperstone-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**XM**
+<div align="center">
+<img src="/static/img/general-image/xm-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+
+
+**JFD Brokers**
+<div align="center">
+<img src="/static/img/general-image/jfdbrokers-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**Darwinex**
+<div align="center">
+<img src="/static/img/general-image/darwinex-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**ADS Securities London**
+<div align="center">
+<img src="/static/img/general-image/ads-securities-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**Vipro Markets**
+<div align="center">
+<img src="/static/img/general-image/vipro-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**Tickmill**
+<div align="center">
+<img src="/static/img/general-image/tickmill-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**FXCM**
+<div align="center">
+<img src="/static/img/general-image/fxcm-average-spread.png" alt="Random forex broker raw spread"/>
+</div>
+
+**Compare the average spread and spread on news release between them**
 
 ### Your choosen Forex Broker needs to be Regulated
 
