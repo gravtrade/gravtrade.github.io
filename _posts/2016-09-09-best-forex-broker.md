@@ -54,7 +54,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
     <img itemprop="image" src="/static/img/broker-logo/pepperstone.jpg" alt="Trade with top tier banks and institutionals"/>
-    <span itemprop="name">Pepperstone Forex Broker</span>
+    <br><span itemprop="name">Pepperstone Forex Broker</span></br>
   </div>
   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
     <span itemprop="ratingValue">5</span>
