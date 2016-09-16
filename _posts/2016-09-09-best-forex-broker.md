@@ -116,8 +116,8 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
  5266;width:108pt">
  <col class="xl6521931" width="140" style="mso-width-source:userset;mso-width-alt:
  5120;width:105pt">
- <col class="xl6521931" width="209" style="mso-width-source:userset;mso-width-alt:
- 14957;width:307pt">
+ <col class="xl6521931" width="409" style="mso-width-source:userset;mso-width-alt:
+ 14957;width:207pt">
  </colgroup><tbody><tr height="42" style="height:31.5pt">
   <td height="42" class="xl6921931" width="213" style="height:31.5pt;width:160pt;
   font-size:12.0pt;color:#333333;font-weight:700;text-decoration:none;
