@@ -107,14 +107,6 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 **Compare the average spread and spread on news release between them**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;border-top-width:1px;border-bottom-width:1px;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;border-top-width:1px;border-bottom-width:1px;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-.tg .tg-6k2t{background-color:#D2E4FC;vertical-align:top}
-th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::selection      { background:transparent; }th.tg-sort-header { cursor:pointer; }table th.tg-sort-header:after {  content:'';  float:right;  margin-top:7px;  border-width:0 4px 4px;  border-style:solid;  border-color:#404040 transparent;  visibility:hidden;  }table th.tg-sort-header:hover:after {  visibility:visible;  }table th.tg-sort-desc:after,table th.tg-sort-asc:after,table th.tg-sort-asc:hover:after {  visibility:visible;  opacity:0.4;  }table th.tg-sort-desc:after {  border-bottom:none;  border-width:4px 4px 0;  }</style>
 <table id="tg-D9oI8" class="tg">
   <tr>
     <th class="tg-baqh">Broker</th>
