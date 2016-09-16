@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 'Get $3.5 Pepperstone Rebate Now!'
+title: 'Get $0.25 Pepperstone Rebate Now!'
 tags:
+  - pepperstone
   - forex
   - broker
   - rebate
 categories:
+  - pepperstone
   - forex
   - broker
   - rebate
