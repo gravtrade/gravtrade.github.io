@@ -12,7 +12,7 @@ categories:
 ---
 # Best Forex Broker Reviews 2016
 
-Professional trader measuring the best forex broker service based on how good they provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, you should do some extra investigations to give you an advantage for your trading performance and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
+Professional trader measuring the best forex broker service based on how good the forex broker provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some extra investigations to give you an advantage for your trading performance (Lowering your trading cost and risk) and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
 
 ### Our top Forex Broker reviewed based on requirements below:
 
@@ -31,7 +31,7 @@ Professional trader measuring the best forex broker service based on how good th
 
 A spread is the difference between the bid price and the sell price for a currency pair. Most Forex Broker provides some of the **tightest spreads** across major Forex Currencies (EUR/USD, USD/JPY, GBP/USD, USD/CHF, AUD/USD, USD/CAD and NZD/USD) and Metals (XAG/USD or Gold).
 
-Spreads should be in variable floats (Non-Fixed spread) and they are feed direct from broker liquidity providers through the **ECN** (Electronic Communications Network). There are many kind of ECN technology itself because of the way your forex broker set their business model. In other words, we want to measure all this stuff just to eliminate layers of "middle-man".
+Spreads should be in variable floats (Non-Fixed spread) and they are fed direct from broker liquidity providers through the **ECN** (Electronic Communications Network). There are many kinds of ECN technology itself because of the way your forex broker sets their business model. In other words, we want to measure all this stuff just to eliminate layers of "middleman".
 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
