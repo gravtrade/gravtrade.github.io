@@ -29,19 +29,17 @@ Professional trader measuring best forex broker service based on how good they p
 
 ### Tight spreads increase transparency
 
-A spread is the difference between the bid price and the sell price for a currency pair. Most Forex Broker provides some of the **tightest spreads** across Currencies and Metals.
+A spread is the difference between the bid price and the sell price for a currency pair. Most Forex Broker provides some of the **tightest spreads** across major Forex Currencies (EUR/USD, USD/JPY, GBP/USD, USD/CHF, AUD/USD, USD/CAD and NZD/USD) and Metals (XAG/USD or Gold).
 
-Spreads on popular platform like MetaTrader 4 platform are variable and feed direct from broker Tier 1 liquidity providers through the **ECN** (Electronic Communications Network).
+Spreads should be in variable floats (Non-Fixed spread) and they are feed direct from broker liquidity providers through the **ECN** (Electronic Communications Network). There are many kind of ECN technology itself because of the way your forex broker set their business model. In other words, we want to measure all this stuff just to eliminate layers of "middle-man".
 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
-You can find the ask price on any pair by ticking the option in MetaTrader4 to see the difference between the Bid and Ask price.
-
 ### Your choosen Forex Broker needs to be Regulated
 
-**Regulation** provides security and peace of mind to clients in ensuring that their relations with Broker are protected by industry minimum standards. In order to obtain a license, businesses must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
+**Regulation** provides security and peace of mind to clients in ensuring that their relations with Broker are protected by financial industry minimum standards. In order to obtain a license, Forex Broker must provide evidence that they are competent to carry out their business operations, that they have sufficient financial resources to operate their business and comply with nationally set standards for training, insurance and dispute resolution.
 
-Being held to a high standard by a third party ensures that the Broker remains committed to ongoing training and continues to comply with national guidelines for quality and authenticity of services. Some of the common requirements are:
+Regulators act as a third party ensures that the Forex Broker remains committed to comply with national guidelines for quality and authenticity of services. Some of the common requirements are:
 
 - Provide traditional trustee company services for its clients.
 - Offer a depository or custodial service.
