@@ -50,7 +50,7 @@ Being held to a high standard by a third party ensures that the Broker remains c
 - Dealing in a financial product.
 - Aid clients with financial product advice.
 
-## Top Forex Broker
+## Top Forex Broker Reviews
 
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
