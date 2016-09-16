@@ -11,18 +11,18 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "Our Projects",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "Contact Us",
     "url": "#",
     "icon": "fa-graduation-cap",
     "layout": "post"
   },
   {
-    "text": "Github",
+    "text": "Claim Rebates",
     "url": "",
     "icon": "fa-github"
   },
