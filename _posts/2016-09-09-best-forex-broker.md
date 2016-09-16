@@ -50,6 +50,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 
 ## Top Forex Broker Reviews
 
+<div align="center">
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
     <img itemprop="image" src="/static/img/broker-logo/pepperstone.jpg" alt="Trade with top tier banks and institutionals"/>
@@ -67,7 +68,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
     <meta itemprop="name" content="www.GravTrade.com">
   </div>
 </div>
-
+</div>
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Pepperstone Group Limited" height="90" src="https://pepperstone.com/img/banners/banners-static-eng-02/728x90.jpg" title="Pepperstone Group Limited" width="728"></a>
 <img alt="" height="1" src="https://pepperstone.com/ib/scripts/imp.php?a_aid=pro" style="border:0" width="1">
