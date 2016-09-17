@@ -109,7 +109,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 <div id="brokerspread_21931" align="center" x:publishsource="Excel">
 
-<table border="0" cellpadding="0" cellspacing="0" width="906" class="xl6521931" style="border-collapse:collapse;table-layout:fixed;width:680pt">
+<table border="0" cellpadding="0" cellspacing="0" width="806" class="xl6521931" style="border-collapse:collapse;table-layout:fixed;width:580pt">
  <colgroup><col class="xl6521931" width="213" style="mso-width-source:userset;mso-width-alt:
  7789;width:160pt">
  <col class="xl6521931" width="144" style="mso-width-source:userset;mso-width-alt:
