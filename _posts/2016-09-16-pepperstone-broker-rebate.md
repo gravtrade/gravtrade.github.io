@@ -32,4 +32,4 @@ Follow steps below:
 2. If you already have pepperstone account, you need to email pepperstone support and ask them to put you under our IB id (pro) or provide them this link (https://pepperstone.com/?a_aid=pro) into your mail.
 3. [Email](http://www.gravtrade.com/contact "Email") us to claim your rebate.
 
-[*Term and condition applied](http://www.gravtrade.com/term-and-condition/ "*Term and condition applied")
+[*Term and condition applied](http://www.gravtrade.com/term-and-condition/ "Term and condition applied")
