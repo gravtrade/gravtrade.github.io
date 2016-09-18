@@ -15,9 +15,23 @@ categories:
 # How to get $4000 bonus from Pepperstone Broker Account?
 
 <div align="center">
-<img alt="Pepperstone Edge Standard Account Bonus" src="/static/img/general-image/pepperstone-bonus.PNG" title="Pepperstone Edge Standard Account Bonus">
+<div itemscope itemtype="http://schema.org/Review">
+  <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
+    <img itemprop="image" src="/static/img/general-image/pepperstone-bonus.PNG" alt="Pepperstone Edge Standard Account Bonus"/>
+    <br><span itemprop="name">Pepperstone Forex Broker</span>
+  </div>
+  <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <span itemprop="ratingValue">5</span>
+  </span> stars -
+  <b>"<span itemprop="name">The best forex broker to trade with</span>" </b>
+  <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <span itemprop="name">NorthmanTrader.</span>
+  </span>
+  <span itemprop="reviewBody">- "They provide me lowest spread especially on news release with reasonable commission charged, fast execution through their ECN technology."</span>
+  <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="www.GravTrade.com">
+  </div>
 </div>
-
 Get $4000 **Pepperstone Bonus** with us and this is the highest bonus ever you could get every month!
 
 Follow steps below:
