@@ -13,7 +13,8 @@ categories:
   - rebate
 ---
 # How to get rebate from Edge Standard Pepperstone Broker Account?
-If you looking for Edge Razor Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html "Pepperstone Edge Razor Account Rebate")
+If you looking for Edge Razor Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html "Pepperstone Edge Razor Account Rebate").
+
 As a Forex Trader, reducing your trading cost is a part of game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Pepperstone Rebate**, you could get back sum of the ammount that you paid to broker! 
 
 If you trade 1000 standard lot monthly and the commission was $7 per lot, your trading cost would be $7000. While if you get 0.4 pips rebate per lot, you will get 57% ($4000) commission discount for 1000 lot every month! If dont think this is as an opportunity, just think how much you cost your money by paying broker commission and paying swap?
