@@ -13,6 +13,11 @@ categories:
   - rebate
 ---
 # How to get $1 rebate from Edge Razor Pepperstone Broker Account?
+
+<div align="center">
+<img alt="Pepperstone Edge Razor Account" src="/static/img/general-image/pepperstone-edge-razor-account.PNG" title="Pepperstone Edge Razor Account">
+</div>
+
 If you looking for $4 Edge Standard Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html "Pepperstone Edge Standard Account Rebate").
 
 As a Forex Trader, reducing your trading cost is a part of game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Pepperstone Rebate**, you could get back sum of the ammount that you paid to broker!
