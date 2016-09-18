@@ -12,10 +12,10 @@ categories:
   - broker
   - bonus
 ---
-# How to get $4000 rebate from Pepperstone Broker Account?
+# How to get $4000 bonus from Pepperstone Broker Account?
 
 <div align="center">
-<img alt="Pepperstone Edge Standard Account Bonus" src="/static/img/broker-logo/pepperstone.jpg" title="Pepperstone Edge Standard Account Bonus">
+<img alt="Pepperstone Edge Standard Account Bonus" src="/static/img/general-image/pepperstone-bonus.PNG" title="Pepperstone Edge Standard Account Bonus">
 </div>
 
 Get $4000 **Pepperstone Bonus** with us and this is the highest bonus ever you could get every month!
