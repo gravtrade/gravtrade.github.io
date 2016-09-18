@@ -404,7 +404,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 - We reject FXCM in this observation due to fixed spread account used to attract viewer attention. No world could give you that condition all the time with great execution.
 
-> So you could see from above table, pepperstone broker was the lowest spread widen when news releases.
+> **Pepperstone Broker** was the lowest spread widen on news releases.
 
 ### Your choosen Forex Broker needs to be Regulated
 
