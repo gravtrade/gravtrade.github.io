@@ -32,6 +32,7 @@ categories:
     <meta itemprop="name" content="www.GravTrade.com">
   </div>
 </div>
+</div>
 
 Get $4000 **Pepperstone Bonus** with us and this is the highest bonus ever you could get every month!
 
