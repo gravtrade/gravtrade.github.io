@@ -13,7 +13,8 @@ categories:
   - rebate
 ---
 # How to get rebate from Edge Razor Pepperstone Broker Account?
-If you looking for Edge Standard Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016-09-18-pepperstone-broker-rebate-edge-standard.html "Pepperstone Edge Standard Account Rebate")
+If you looking for Edge Standard Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html "Pepperstone Edge Standard Account Rebate").
+
 As a Forex Trader, reducing your trading cost is a part of game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Pepperstone Rebate**, you could get back sum of the ammount that you paid to broker! 
 
 > On Pepperstone Edge Standard Account, broker commission included inside your spread, that is why no commission deducted on your trade blotter.
