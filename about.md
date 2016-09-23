@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**Research**
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+We do wide range of trading strategy research to find the best strategy that suits current market conditions including strategy programming, data filtering, platform features and liquidity impact.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+**Analyse**
+
+Analyse the strategy performance and profitability before we put it on real condition.
+
+**Execute**
+
+Strategy that comply our studies and stress test will be publidh for public education.
+
