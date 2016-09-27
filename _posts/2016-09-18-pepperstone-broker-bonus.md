@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get $4000 Pepperstone Bonus Now!'
+title: 'Get $4000 Bonus From GravTrade by Trade Through Pepperstone Now!'
 tags:
   - pepperstone
   - forex
@@ -13,7 +13,7 @@ categories:
   - bonus
 ---
 # How to get $4000 bonus from Pepperstone Broker Account?
-
+> Please note that the bonus only offered under GravTrade, that you will never get this offer on pepperstone site.
 <div align="center">
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
