@@ -14,5 +14,5 @@ Analyse the strategy performance and profitability before we put it on real cond
 
 **Execute**
 
-Strategy that comply our studies and stress test will be publidh for public education.
+Strategy that comply our studies and stress test will be publish for public education.
 
