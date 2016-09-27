@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get $1 Pepperstone Edge Razor Rebate Now!'
+title: 'Get $1 Rebate From GravTrade by Trade Through Pepperstone Edge Razor Rebate Now!'
 tags:
   - pepperstone
   - forex
@@ -13,7 +13,7 @@ categories:
   - rebate
 ---
 # How to get $1 rebate from Edge Razor Pepperstone Broker Account?
-
+> Please note that the bonus only offered under GravTrade, that you will never get this offer on pepperstone site.
 <div align="center">
 <img alt="Pepperstone Edge Razor Account" src="/static/img/general-image/pepperstone-edge-razor-account.PNG" title="Pepperstone Edge Razor Account">
 </div>
