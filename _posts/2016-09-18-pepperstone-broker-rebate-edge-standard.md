@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get 0.4 pips ($4) Rebate From GravTrade by Trade Through Pepperstone Edge Standard Rebate Now!'
+title: 'Get 0.4 pips ($4) Rebate From GravTrade by Trading Through Pepperstone Edge Standard Rebate Now!'
 tags:
   - pepperstone
   - forex
@@ -12,7 +12,7 @@ categories:
   - broker
   - rebate
 ---
-# How to get rebate From GravTrade by Trade Through Edge Standard Pepperstone Broker Account?
+# How to get rebate From GravTrade by Trading Through Edge Standard Pepperstone Broker Account?
 > Please note that the Rebate only offered under GravTrade, that you will never get this offer on pepperstone site.
 <div align="center">
 <img alt="Pepperstone Edge Standard Account" src="/static/img/general-image/pepperstone-edge-standard-account.PNG" title="Pepperstone Edge Standard Account">
