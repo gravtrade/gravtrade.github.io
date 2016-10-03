@@ -34,8 +34,10 @@ Grouped in the Financial services industry, pepperstone forex broker is an Austr
 - Fax: +61 (0)3 8679 4408
 
 **Pepperstone Broker Reveiw From ASIC.**
-- [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market").
-- [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers").
+<br>
+- [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market")
+<br>
+- [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers")
 
 <div align="center">
 
