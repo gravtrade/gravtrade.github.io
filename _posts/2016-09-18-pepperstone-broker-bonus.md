@@ -20,9 +20,6 @@ categories:
     <img itemprop="image" src="/static/img/general-image/pepperstone-bonus.PNG" alt="Pepperstone Edge Standard Account Bonus"/>
     <br><span itemprop="name">Pepperstone Forex Broker</span>
   </div>
-  <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
-    <span itemprop="ratingValue">5</span>
-  </span> stars
    <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
     <span itemprop="ratingValue">5</span> stars -
     based on <span itemprop="reviewCount">257</span> reviews
