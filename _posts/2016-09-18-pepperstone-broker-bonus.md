@@ -22,7 +22,11 @@ categories:
   </div>
   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
     <span itemprop="ratingValue">5</span>
-  </span> stars -
+  </span> stars
+   <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+    <span itemprop="ratingValue">5</span> stars -
+    based on <span itemprop="reviewCount">257</span> reviews
+  </div>
   <b>"<span itemprop="name">The best forex broker to trade with</span>" </b>
   <span itemprop="author" itemscope itemtype="http://schema.org/Person">
     <span itemprop="name">NorthmanTrader.</span>
