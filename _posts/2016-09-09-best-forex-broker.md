@@ -440,6 +440,8 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
   </div>
 </div>
 
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/reviews/2016/10/03/pepperstone-forex-broker-review.html">Pepperstone Broker Review</a>
+
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Demo Account" width="225"></a>
 <img alt="Open Pepperstone Demo Account" height="1" src="https://pepperstone.com/ib/scripts/imp.php?a_aid=pro" style="border:0" width="1">
 
