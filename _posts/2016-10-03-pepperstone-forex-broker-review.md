@@ -1,16 +1,16 @@
 ---
-layout: post
-title: 'Pepperstone Forex Broker Review'
-tags:
-  - pepperstone
-  - forex
-  - broker
-  - reviews
 categories:
   - pepperstone
   - forex
   - broker
   - reviews
+layout: post
+tags:
+  - pepperstone
+  - forex
+  - broker
+  - reviews
+title: 'Pepperstone Forex Broker Review'
 ---
 # Pepperstone Forex Broker Review
 You might want to read this article if you want to know why forex trader choose pepperstone broker as their forex broker : <a href="http://www.gravtrade.com/forex/broker/reviews/2016/09/09/best-forex-broker.html">Pepperstone vs Top 10 Best Forex Broker Review</a>
@@ -34,8 +34,8 @@ Grouped in the Financial services industry, pepperstone forex broker is an Austr
 - Fax: +61 (0)3 8679 4408
 
 **Pepperstone Broker Reveiw From ASIC.**
-- [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market")
-- [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers")
+- [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market").
+- [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers").
 
 <div align="center">
 
