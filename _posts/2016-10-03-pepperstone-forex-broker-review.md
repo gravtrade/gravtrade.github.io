@@ -17,19 +17,20 @@ categories:
 Grouped in the Financial services industry, pepperstone forex broker is an Australian forex broker founded by CEO Owen Kerr and director Joe Davenport specializing to provide services in currency trading or online retail foreign exchange "forex trading". Pepperstone broker was founded in 2010, headquartered in Melbourne (Australia) and has regional offices in Shanghai (China) and Dallas (United States). With 103 number of employees, they obtained a valid license to conduct trading operations and offers advice to retail trader under ASICs regulation (Australian Securities and Investments Commission). Pepperstone broker getting popular amongst worldwide retail traders when they offer the best service in the business and industrial standards recommended by ASICS such as client / customer support, fast and optimal trade execution speed with less slippage, tight spreads on major pairs / instrument especially on news releases, multi account type and market insights. With their good reputation in performing their best service compared to their other competitor, this will lead the company growing faster and stable for the long run and this give an indication to publics that they are one of best place to deal with.
 
 **Pepperstone Forex Trading Features:**
-Instrument: 72 currency pairs, metals and commodities.
-Account type: Pepperstone Edge Razor, Pepperstone Edge Standard and Active Trader Account.
-Leverage: 500:1 and below.
-Spread on Majors: 0.0 to 0.2 pips (raw spread on Edge Razor Account).
-Minimum Deposit for first time client: $200.
-Trading Platform(s): Metatrader 4, cTrader
-Country: Australia
-Regulation: ASICs.
-24/5 Hour Trading Offered: Yes
-Forex Broker Contact Information:
-Head Office Address: 21 Level 14, Aquavista Tower 401 Docklands Drive Melbourne Australia
-Phone: +61 (0)3 9020 0155
-Fax: +61 (0)3 8679 4408
+
+- Instrument: 72 currency pairs, metals and commodities.
+- Account type: Pepperstone Edge Razor, Pepperstone Edge Standard and Active Trader Account.
+- Leverage: 500:1 and below.
+- Spread on Majors: 0.0 to 0.2 pips (raw spread on Edge Razor Account).
+- Minimum Deposit for first time client: $200.
+- Trading Platform(s): Metatrader 4, cTrader
+- Country: Australia
+- Regulation: ASICs.
+- 24/5 Hour Trading Offered: Yes
+- Forex Broker Contact Information:
+- Head Office Address: 21 Level 14, Aquavista Tower 401 Docklands Drive Melbourne Australia
+- Phone: +61 (0)3 9020 0155
+- Fax: +61 (0)3 8679 4408
 
 <div align="center">
 
