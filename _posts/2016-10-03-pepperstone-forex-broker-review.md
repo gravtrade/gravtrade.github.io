@@ -43,14 +43,12 @@ Fax: +61 (0)3 8679 4408
 <img alt="Open Pepperstone Live Account" height="1" src="https://pepperstone.com/ib/scripts/imp.php?a_aid=pro" style="border:0" width="1">
 
 <br>
-
-How to get $4000 bonus From GravTrade by Trading Through Pepperstone Broker Account? go [Here](http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html "How to get $4000 bonus From GravTrade by Trading Through Pepperstone Broker Account")
-
-<br>
-
-How to get 0.4 pips ($4) Rebate From GravTrade by Trading Through Pepperstone Edge Standard Rebate Now? go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html "Pepperstone Edge Standard Rebate Now")
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html">How to get $4000 bonus From GravTrade by Trading Through Pepperstone Broker Account?</a>
 
 <br>
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html">How to get 0.4 pips ($4) Rebate From GravTrade by Trading Through Pepperstone Edge Standard Rebate Now?</a>
 
-How to get $1 Rebate From GravTrade by Trading Through Pepperstone Edge Razor Rebate Now? go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html "Pepperstone Edge Razor Rebate Now")
+<br>
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">How to get $1 Rebate From GravTrade by Trading Through Pepperstone Edge Razor Rebate Now?</a>
+
 </div>
