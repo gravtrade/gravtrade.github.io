@@ -33,8 +33,10 @@ Grouped in the Financial services industry, pepperstone forex broker is an Austr
 - Phone: +61 (0)3 9020 0155
 - Fax: +61 (0)3 8679 4408
 
-<div align="center">
+**Pepperstone Broker Reveiw From ASIC.** [[1]][[1]]
 
+
+<div align="center">
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Demo Account" width="225"></a>
 <img alt="Open Pepperstone Demo Account" height="1" src="https://pepperstone.com/ib/scripts/imp.php?a_aid=pro" style="border:0" width="1">
@@ -55,3 +57,6 @@ Grouped in the Financial services industry, pepperstone forex broker is an Austr
 <a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">How to get $1 Rebate From GravTrade by Trading Through Pepperstone Edge Razor Rebate Now?</a>
 
 </div>
+
+[1]: http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market"
+[[1]]: http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market"
