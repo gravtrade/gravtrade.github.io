@@ -29,8 +29,8 @@ If you trade 1500 standard lot monthly and the commission was $10 per lot, your 
 
 Follow steps below:
 
-1. Sign up Pepperstone Standard account through our IB [Here](https://pepperstone.com/?a_aid=pro "Here") and you will get $4 for every 1 Standard Lot traded.
-2. If you already have pepperstone account, you need to email pepperstone support and ask them to put you under our IB id (pro) or provide them this link (https://pepperstone.com/?a_aid=pro) into your mail.
+1. Sign up **Pepperstone Standard Account** through our IB [Here](https://pepperstone.com/?a_aid=pro "Here") and you will get $4 for every 1 Standard Lot traded.
+2. If you already have **Pepperstone Standard Account**, you need to email pepperstone broker support team and ask them to put you under our IB id (pro) or provide them this link (https://pepperstone.com/?a_aid=pro) into your mail.
 3. [Email](http://www.gravtrade.com/contact "Email") us to claim your rebate.
 
 [*Term and condition applied](http://www.gravtrade.com/term-and-condition/ "Term and condition applied")
