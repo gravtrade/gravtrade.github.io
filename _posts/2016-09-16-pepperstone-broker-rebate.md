@@ -25,8 +25,6 @@ As a Forex Trader, reducing your trading cost is a part of the game. To get in a
 
 If you trade 3000 standard lot monthly and the commission was USD7 per lot, your trading cost would be USD21000. While if you get 0.1 pips (USD1) rebate per lot, you will get 14% (USD3000) commission discount for 3000 lot every month! If you don't think this is as an opportunity, just think how much you cost your money by paying a broker commission and swap?
 
-> On Pepperstone Edge Standard Account, broker commission included inside your spread, that is why no commission deducted on your trade blotter.
-
 Follow steps below:
 
 1. Sign up Pepperstone Standard account through our IB [Here](https://pepperstone.com/?a_aid=pro "Here") and you will get USD1 for every 1 Standard Lot traded.
