@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get 0.4 pips (USD4) IC Markets Rebate From GravTrade by Trading Through IC Markets Now!'
+title: 'Get USD4 IC Markets Rebate From GravTrade by Trading Through IC Markets Now!'
 tags:
   - icmarkets
   - forex
