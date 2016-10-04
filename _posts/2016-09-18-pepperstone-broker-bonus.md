@@ -19,7 +19,7 @@ categories:
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
     <img itemprop="image" src="/static/img/general-image/pepperstone-bonus.PNG" alt="Edge Standard Account Pepperstone Bonus"/>
-    <br><span itemprop="name">Pepperstone Bonus Forex Broker</span>
+    <br><span itemprop="name">Pepperstone Forex Broker</span>
   </div>
    <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
     <span itemprop="ratingValue">5</span> stars -
