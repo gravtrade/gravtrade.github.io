@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get $1 Rebate From GravTrade by Trading Through Pepperstone Edge Razor Rebate Now!'
+title: 'Get $1 Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account Now!'
 tags:
   - pepperstone
   - forex
