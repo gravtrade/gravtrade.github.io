@@ -30,7 +30,7 @@
               {% endif %}
             </p>
                 
-                <hr /><br><font color="#ffffff">Search by categories</font><br>
+                <hr /><p><font color="#ffffff">Search by categories</font></p>
     {% for category in site.categories %}
         {% capture category_slug %}{{ category | first }}{% endcapture %}
         {% for c_slug in category_slug %}
