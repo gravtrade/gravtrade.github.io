@@ -1,9 +1,3 @@
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 <div class="header-panel shadow-z-2">
       <div class="container">
         <div class="row">
@@ -20,6 +14,13 @@ function googleTranslateElementInit() {
             
           </div>
           <div class="col-md-9 col-sm-8 col-xs-12">
+            
+            <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            
             <h2 class="blog-title-pro">{{ page.title }}</h2>
             <p class="info">
               {% if page.date %}
