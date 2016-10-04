@@ -16,10 +16,10 @@ categories:
 > Please note that the Rebate only offered under GravTrade, that you will never get this offer on IC Markets site.
 
 <div align="center">
-<img alt="IC Markets Rebate Standard Account" src="/static/img/general-image/ic-markets-rebate.PNG" title="IC Markets Rebate Standard Account">
+<img alt="IC Markets Standard Account Rebate" src="/static/img/general-image/ic-markets-rebate.PNG" title="IC Markets Standard Account Rebate">
 </div>
 
-If you looking for IC Markets ECN Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html "IC Markets ECN Account Rebate").
+If you looking for IC Markets ECN Account rebate, go [Here](http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-ecn-account-rebate.html "IC Markets ECN Account Rebate").
 
 As a Forex Trader, reducing your trading cost is a part of game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **IC Markets Standard Account Rebate**, you could get back sum of the ammount that you paid to broker! 
 
