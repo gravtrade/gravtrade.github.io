@@ -33,6 +33,8 @@ Regulator:	Australian Securities and Investments Commission
 Former State/Territory registration details	
 Former identifier:	
 Former State/Territory:	
+
+
 **IC Markets Forex Trading Features:**
 
 - Instrument: 64 currency pairs, metals, commodities and index CFDs.
@@ -59,7 +61,7 @@ Former State/Territory:
 <a href="http://icmarkets.com/?camp=7745"><img alt="Open IC Markets Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open IC Markets Live Account" width="218"></a>
 
 <br>
-<a href="http://www.gravtrade.com//icmarkets/forex/broker/bonus/2016/10/04/icmarkets-broker-bonus.html">How to get $4000 IC Markets bonus From GravTrade by Trading Through IC Markets Broker Account?</a>
+<a href="http://www.gravtrade.com//icmarkets/forex/broker/bonus/2016/10/04/icmarkets-broker-bonus.html">How to get $4000 IC Markets Bonus From GravTrade by Trading Through IC Markets Broker Account?</a>
 
 <br>
 <a href="http://www.gravtrade.com//icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-standard-account-rebate.html">How to get USD4 IC Markets Rebate From GravTrade by Trading Through IC Markets Broker Account?</a>
