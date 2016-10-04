@@ -13,7 +13,7 @@ categories:
   - rebate
 ---
 # How to get rebate From GravTrade by Trading Through Edge Standard Pepperstone Broker Account?
-> Please note that the Rebate only offered under GravTrade, that you will never get this offer on pepperstone site.
+> Please note that the Rebate only offered under GravTrade, that you will never get this offer on pepperstone broker site.
 
 <div align="center">
 <img alt="Pepperstone Edge Standard Account" src="/static/img/general-image/pepperstone-edge-standard-account.PNG" title="Pepperstone Edge Standard Account">
