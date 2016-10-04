@@ -19,7 +19,7 @@ categories:
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
     <img itemprop="image" src="/static/img/general-image/ic-markets-bonus.PNG" alt="Standard Account IC Markets Bonus"/>
-    <br><span itemprop="name">IC Markets Bonus Forex Broker</span>
+    <br><span itemprop="name">IC Markets Forex Broker</span>
   </div>
    <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
     <span itemprop="ratingValue">5</span> stars -
