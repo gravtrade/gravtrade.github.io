@@ -54,11 +54,11 @@ Former State/Territory:
 
 <div align="center">
 
-<a href="http://icmarkets.com/?camp=7745"><img alt="Open IC Markets Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open IC Markets Demo Account" width="225"></a>
+<a href="http://www.icmarkets.com/forex-trading/open-a-demo-account/?camp=7746"><img alt="Open IC Markets Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open IC Markets Demo Account" width="225"></a>
 
 <a href="http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-standard-account-rebate.html"><img alt="Register IC Markets account with us and you will get rebates every lot traded." height="73" src="/static/img/button/get-rebate-now.PNG" title="Register Pepperstone with us and you will get rebates every lot traded." width="221"></a>
 
-<a href="http://icmarkets.com/?camp=7745"><img alt="Open IC Markets Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open IC Markets Live Account" width="218"></a>
+<a href="http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746"><img alt="Open IC Markets Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open IC Markets Live Account" width="218"></a>
 
 <br>
 <a href="http://www.gravtrade.com//icmarkets/forex/broker/bonus/2016/10/04/icmarkets-broker-bonus.html">How to get $4000 IC Markets Bonus From GravTrade by Trading Through IC Markets Broker Account?</a>
