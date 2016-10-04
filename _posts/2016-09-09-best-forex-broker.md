@@ -442,7 +442,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 
 <a href="http://www.gravtrade.com/pepperstone/forex/broker/reviews/2016/10/03/pepperstone-forex-broker-review.html">Pepperstone Broker Review</a>
 <br>
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html">How to get $4000 Pepperstone bonus From GravTrade by Trading Through Pepperstone Broker Account?</a>
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html">How to get $4000 Pepperstone Bonus From GravTrade by Trading Through Pepperstone Broker Account?</a>
 <br>
 <a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html">How to get USD4 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Standard Account?</a>
 <br>
