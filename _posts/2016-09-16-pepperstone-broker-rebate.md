@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get USD1 Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account Now!'
+title: 'Get USD1 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account Now!'
 tags:
   - pepperstone
   - forex
@@ -12,14 +12,14 @@ categories:
   - broker
   - rebate
 ---
-# How to get USD1 rebate From GravTrade by Trading Through Edge Razor Pepperstone Broker Account?
-> Please note that the Rebate only offered under GravTrade, that you will never get this offer on pepperstone broker site.
+# How to get USD1 Pepperstone rebate From GravTrade by Trading Through Edge Razor Pepperstone Broker Account?
+> Please note that the Pepperstone Rebate only offered under GravTrade, that you will never get this offer on pepperstone broker site.
 
 <div align="center">
-<img alt="Pepperstone Edge Razor Account" src="/static/img/general-image/pepperstone-edge-razor-account.PNG" title="Pepperstone Edge Razor Account">
+<img alt="Edge Razor Account Pepperstone Rebate" src="/static/img/general-image/pepperstone-edge-razor-account.PNG" title="Edge Razor Account Pepperstone Rebate">
 </div>
 
-If you looking for $4 Edge Standard Account rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html "Pepperstone Edge Standard Account Rebate").
+If you looking for $4 Edge Standard Account Pepperstone Rebate, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html "Edge Standard Account Pepperstone Rebate").
 
 As a Forex Trader, reducing your trading cost is a part of the game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Pepperstone Rebate**, you could get back sum of the ammount that you paid to broker!
 
