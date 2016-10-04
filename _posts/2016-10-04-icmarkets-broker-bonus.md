@@ -14,6 +14,7 @@ categories:
 ---
 # How to get $4000 bonus From GravTrade by Trading Through IC Markets Broker Account?
 > Please note that the bonus only offered under GravTrade, that you will never get this offer on IC Markets site.
+
 <div align="center">
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
