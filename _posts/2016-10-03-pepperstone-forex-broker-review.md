@@ -19,12 +19,13 @@ Grouped in the Financial services industry, pepperstone forex broker is an Austr
 
 **Pepperstone Forex Trading Features:**
 
-- Instrument: 72 currency pairs, metals and commodities.
+- Instrument: 70+ currency pairs, metals, commodities and index CFDs.
 - Account type: Pepperstone Edge Razor, Pepperstone Edge Standard and Active Trader Account.
 - Leverage: 500:1 and below.
-- Spread on Majors: 0.0 to 0.2 pips (raw spread on Edge Razor Account).
+- Spread on Majors: 0.0 to 0.2 pips (raw spread on Edge Razor Account) and 1.0 pip (fixed spread on Edge Standard Account).
+- Commission: 0.7 pip on Edge Razor Account and Zero commission on Edge Standard Account.
 - Minimum Deposit for first time client: $200.
-- Trading Platform(s): Metatrader 4, cTrader
+- Trading Platform(s): Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.
 - Country: Australia
 - Regulation: ASICs.
 - 24/5 Hour Trading Offered: Yes
