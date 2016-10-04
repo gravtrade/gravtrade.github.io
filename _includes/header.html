@@ -30,7 +30,7 @@
               {% endif %}
             </p>
                 
-                <hr />Search by categories
+                <hr /><p class="list-group-item-text">Search by categories</p>
     {% for category in site.categories %}
         {% capture category_slug %}{{ category | first }}{% endcapture %}
         {% for c_slug in category_slug %}
