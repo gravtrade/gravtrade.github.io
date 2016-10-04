@@ -13,7 +13,7 @@ categories:
   - rebate
 ---
 # How to get USD1 rebate From GravTrade by Trading Through Edge Razor Pepperstone Broker Account?
-> Please note that the Rebate only offered under GravTrade, that you will never get this offer on pepperstone site.
+> Please note that the Rebate only offered under GravTrade, that you will never get this offer on pepperstone broker site.
 
 <div align="center">
 <img alt="Pepperstone Edge Razor Account" src="/static/img/general-image/pepperstone-edge-razor-account.PNG" title="Pepperstone Edge Razor Account">
