@@ -41,7 +41,7 @@ Get $4000 **IC Markets Bonus** with us and this is the highest bonus ever you co
 Follow steps below:
 
 1. Sign up **IC Markets Standard** account through our IB [Here](http://icmarkets.com/?camp=7745 "Here").
-2. If you already have IC Markets account, you need to email IC Markets support and ask them to put you under our IB id (7745) or provide them this link (http://icmarkets.com/?camp=7745) into your mail.
+2. If you already have **IC Markets Standard account**, you need to email IC Markets broker support team and ask them to put you under our IB id (7745) or provide them this link (http://icmarkets.com/?camp=7745) into your mail.
 3. [Email](http://www.gravtrade.com/contact "Email") us to claim your bonus.
 
 [*Term and condition applied](http://www.gravtrade.com/term-and-condition/ "Term and condition applied")
