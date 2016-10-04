@@ -19,7 +19,7 @@ categories:
 <img alt="Standard Account IC Markets Rebate" src="/static/img/general-image/ic-markets-rebate.PNG" title="Standard Account IC Markets Rebate">
 </div>
 
-If you looking for ECN Account IC Markets Rebate, go [Here](http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-ecn-account-rebate.html "IC Markets ECN Account Rebate").
+If you looking for **ECN Account IC Markets Rebate**, go [Here](http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-ecn-account-rebate.html "IC Markets ECN Account Rebate").
 
 As a Forex Trader, reducing your trading cost is a part of game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Standard Account IC Markets Rebate**, you could get back sum of the ammount that you paid to broker! 
 
