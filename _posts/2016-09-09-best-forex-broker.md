@@ -449,12 +449,9 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 <a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">How to get USD1 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account?</a>
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Demo Account" width="225"></a>
-<img alt="Open Pepperstone Demo Account" height="1" src="https://pepperstone.com/?a_aid=pro" style="border:0" width="1">
 
 <a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html"><img alt="Register Pepperstone broker with us and you will get rebates every lot traded." height="73" src="/static/img/button/get-rebate-now.PNG" title="Register Pepperstone broker with us and you will get rebates every lot traded." width="221"></a>
-<img alt="Register Pepperstone broker with us and you will get rebates every lot traded." height="1" src="https://pepperstone.com/?a_aid=pro" style="border:0" width="1">
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone broker Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open Pepperstone broker Live Account" width="218"></a>
-<img alt="Open Pepperstone broker Live Account" height="1" src="https://pepperstone.com/?a_aid=pro" style="border:0" width="1">
 
 </div>
