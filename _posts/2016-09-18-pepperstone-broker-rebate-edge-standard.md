@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get 0.4 pips ($4) Rebate From GravTrade by Trading Through Pepperstone Edge Standard Rebate Now!'
+title: 'Get 0.4 pips (USD4) Rebate From GravTrade by Trading Through Pepperstone Edge Standard Account Now!'
 tags:
   - pepperstone
   - forex
