@@ -13,7 +13,7 @@ categories:
   - rebate
 ---
 # How to get USD2 rebate From GravTrade by Trading Through IC Markets ECN Account?
-> Please note that the Rebate only offered under GravTrade, that you will never get this offer on IC Markets site.
+> Please note that the Rebate only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
 <img alt="IC Markets ECN Account Rebate" src="/static/img/general-image/ic-markets-rebate.PNG" title="IC Markets ECN Account Rebate">
