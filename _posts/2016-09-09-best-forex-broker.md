@@ -440,13 +440,6 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
   </div>
 </div>
 
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/reviews/2016/10/03/pepperstone-forex-broker-review.html">Pepperstone Broker Review</a>
-<br>
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html">How to get $4000 Pepperstone Bonus From GravTrade by Trading Through Pepperstone Broker Account?</a>
-<br>
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html">How to get USD4 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Standard Account?</a>
-<br>
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">How to get USD1 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account?</a>
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Demo Account" width="225"></a>
 
@@ -455,3 +448,17 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone broker Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open Pepperstone broker Live Account" width="218"></a>
 
 </div>
+
+## Breaking Down Forex Broker Review
+
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/reviews/2016/10/03/pepperstone-forex-broker-review.html">Pepperstone Broker Review</a>
+<br>
+<a href="http://www.gravtrade.com/icmarkets/forex/broker/reviews/2016/10/05/icmarkets-forex-broker-review.html">IC Markets Broker Review</a>
+<br>
+
+#### Bonus and Rebates
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html">How to get $4000 Pepperstone Bonus From GravTrade by Trading Through Pepperstone Broker Account?</a>
+<br>
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html">How to get USD4 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Standard Account?</a>
+<br>
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">How to get USD1 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account?</a>
