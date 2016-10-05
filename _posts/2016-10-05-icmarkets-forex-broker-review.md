@@ -15,7 +15,7 @@ title: 'IC Markets Forex Broker Review'
 # IC Markets Forex Broker Review
 
 <div align="center">
-<img alt="Open IC Markets Forex Broker" height="72" src="/static/img/broker-logo/icmarkets.png" title="Open IC Markets Forex Broker" width="225">
+<img alt="Open IC Markets Forex Broker" src="/static/img/broker-logo/icmarkets.png" title="Open IC Markets Forex Broker" >
 </div>
 
 Business name:	IC Markets
