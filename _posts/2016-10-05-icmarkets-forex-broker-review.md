@@ -13,6 +13,11 @@ tags:
 title: 'IC Markets Forex Broker Review'
 ---
 # IC Markets Forex Broker Review
+
+<div align="center">
+<img alt="Open IC Markets Forex Broker" height="72" src="/static/img/broker-logo/icmarkets.png" title="Open IC Markets Forex Broker" width="225">
+</div>
+
 Business name:	IC Markets
 Status:	Registered
 Registration date:	3/09/2016
