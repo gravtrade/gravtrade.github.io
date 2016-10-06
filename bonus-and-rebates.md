@@ -28,7 +28,7 @@ Rebate offered when you reach specific amount of trading lots for each 1 calenda
 <br>
 <a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">USD1 Pepperstone Rebate - Pepperstone Edge Razor Account</a>
 <br>
-<a href="http://www.gravtrade.com/icmarkets/forex/broker/bonus/2016/10/04/icmarkets-broker-bonus.html">USD4000 IC Markets Bonus - IC Markets Broker Account</a>
+<a href="http://www.gravtrade.com/icmarkets/forex/broker/bonus/2016/10/04/icmarkets-broker-bonus.html">USD4000 IC Markets Bonus</a>
 <br>
 <a href="http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-standard-account-rebate.html">USD4 IC Markets Rebate - IC Markets Standard Account</a>
 <br>
