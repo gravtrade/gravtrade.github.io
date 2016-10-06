@@ -13,10 +13,8 @@ Gravtrade offered you couple of **bonus and rebates** if you trade through our p
 
 Bonus offered by broker depends on their specific campaign;
 
-- No deposit bonus.
-> You will get amount of bonus normally in USD without making any deposit. This bonus normally gives you chance to try the broker live trading account environment and you are required to make a deposit at the time you want to claim the profit of the bonus.
-- Deposit bonus.
-> You will get x percent of bonus from your deposit and you will get the bonus everytime you make a deposit transaction.
+- No deposit bonus - You will get amount of bonus normally in USD without making any deposit. This bonus normally gives you chance to try the broker live trading account environment and you are required to make a deposit at the time you want to claim the profit of the bonus.
+- Deposit bonus - You will get x percent of bonus from your deposit and you will get the bonus everytime you make a deposit transaction.
 
 ## Rebate offer
 
