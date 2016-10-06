@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get USD4 IC Markets Rebate From GravTrade by Trading Through IC Markets Now!'
+title: 'Get $4 IC Markets Rebate From GravTrade Now!'
 tags:
   - icmarkets
   - forex
