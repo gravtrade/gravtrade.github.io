@@ -8,17 +8,17 @@
   {
     "text": "About",
     "url": "/about/",
-    "icon": "fa-comments"
+    "icon": "fa-info"
   },
   {
     "text": "Our Projects",
     "url": "/projects",
-    "icon": "fa-desktop"
+    "icon": "fa-gears"
   },
   {
     "text": "Contact Us",
     "url": "/contact",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-send",
     "layout": "post"
   },
   {
