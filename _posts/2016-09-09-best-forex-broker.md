@@ -58,6 +58,12 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
   <img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Random forex broker raw spread"/>
 </ul>
 
+<ul class="nav nav-tabs">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>
+
 **Compare the average spread and spread on news release between them:**
 
 <div class="panel panel-primary">
