@@ -349,7 +349,7 @@ GDMFX  4.3 pips
     <span class="sr-only">43% Complete (success)</span>
   </div>
 </div>
-</div></div>
+</div>
 
 <div class="alert alert-danger" role="alert">We reject FXCM in this observation due to <b>fixed spread account</b> used to attract viewer attention. No world could give you that condition all the time with great execution.</div>
 
