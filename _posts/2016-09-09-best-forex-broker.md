@@ -50,7 +50,6 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <b>Look at their average spread one by one</b></div>
 </div>
 <div class="panel-footer">
-<div align="center">
 
 **IC Markets**
 <div align="center">
@@ -110,7 +109,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 **FXCM**
 <div align="center">
 <img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div></div>
+</div>
 <br><br>
 
 **Compare the average spread and spread on news release between them:**
