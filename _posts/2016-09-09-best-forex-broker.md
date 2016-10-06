@@ -47,15 +47,11 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <ul class="nav nav-tabs nav-justified">
   IC Markets
 </ul>
-<div align="center">
 <img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
 <ul class="nav nav-pills nav-justified">
   Tradeview Markets
 </ul>
-<div align="center">
 <img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
 
 
 
