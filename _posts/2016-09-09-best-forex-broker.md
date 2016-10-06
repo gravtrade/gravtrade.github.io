@@ -47,13 +47,16 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <ul class="nav nav-tabs nav-justified">
   IC Markets
 </ul>
-<img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="Random forex broker raw spread"/>
 <ul class="nav nav-pills nav-justified">
+  <img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="Random forex broker raw spread"/>
+</ul>
+
+<ul class="nav nav-tabs nav-justified">
   Tradeview Markets
 </ul>
-<img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Random forex broker raw spread"/>
-
-
+<ul class="nav nav-pills nav-justified">
+  <img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Random forex broker raw spread"/>
+</ul>
 
 **Compare the average spread and spread on news release between them:**
 
