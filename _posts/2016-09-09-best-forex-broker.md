@@ -193,7 +193,7 @@ Highest Spread Within 48 Hours</div>
 <div class="panel-footer">
 FXCM  0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em;">
+  <div class="progress-bar" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em;">
     0.2 Pips
   </div>
 </div>
