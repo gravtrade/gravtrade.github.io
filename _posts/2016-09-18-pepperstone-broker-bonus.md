@@ -12,7 +12,7 @@ categories:
   - broker
   - bonus
 ---
-# How to get $4000 Pepperstone bonus From GravTrade by Trading Through Pepperstone Broker Account?
+# How to get $4000 Pepperstone bonus From GravTrade?
 > Please note that the Pepperstone bonus only offered under GravTrade, that you will never get this offer on pepperstone broker site.
 
 <div align="center">
