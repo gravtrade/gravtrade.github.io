@@ -105,76 +105,76 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 </div>
 <br><br>
 
-**Compare the average spread and spread on news release between them**
+**Compare the average spread and spread on news release between them:**
 
-Average Spread Within 48 Hours
-FXCM - 0.2 pips
+**Average Spread Within 48 Hours**
+FXCM  0.2 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
     <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
-Pepperstone - 0.2 pips
+Pepperstone  0.2 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
     <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
-Tickmill - 0.5 pips
+Tickmill  0.5 pips
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
     <span class="sr-only">50% Complete (warning)</span>
   </div>
 </div>
-Vipro Markets - 0.4 pips
+Vipro Markets  0.4 pips
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
     <span class="sr-only">60% Complete (danger)</span>
   </div>
 </div>
-Darwinex - 0.4 pips
+Darwinex  0.4 pips
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
     <span class="sr-only">60% Complete (danger)</span>
   </div>
 </div>
-GBEbrokers - 0.3 pips
+GBEbrokers  0.3 pips
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
     <span class="sr-only">70% Complete (danger)</span>
   </div>
 </div>
-Tradeview Markets - 0.2 pips
+Tradeview Markets  0.2 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
     <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
-JFD Brokers - 0.3 pips
+JFD Brokers  0.3 pips
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
     <span class="sr-only">70% Complete (danger)</span>
   </div>
 </div>
-ADS Securities London - 0.4 pips
+ADS Securities London  0.4 pips
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
     <span class="sr-only">60% Complete (danger)</span>
   </div>
 </div>
-XM - 0.1 pips
+XM  0.1 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
-IC Markets - 0.1 pips
+IC Markets  0.1 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
-GDMFX - 0.1 pips
+GDMFX  0.1 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
     <span class="sr-only">90% Complete (success)</span>
