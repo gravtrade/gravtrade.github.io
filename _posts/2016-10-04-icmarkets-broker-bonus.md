@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '$4000 IC Markets Bonus From GravTrade'
+title: 'Get $4000 IC Markets Bonus From GravTrade Now!'
 tags:
   - icmarkets
   - forex
