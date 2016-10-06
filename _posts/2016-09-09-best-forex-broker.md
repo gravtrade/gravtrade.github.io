@@ -47,35 +47,35 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">IC Markets</span>
-<img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="IC Markets" title="IC Markets"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Tradeview Markets</span>
-<img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Tradeview Markets" title="Tradeview Markets"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">GDMFX</span>
-<img src="/static/img/general-image/gdmfx-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/gdmfx-average-spread.PNG" alt="GDMFX" title="GDMFX"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">GBEbrokers</span>
-<img src="/static/img/general-image/gbebrokers-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/gbebrokers-average-spread.PNG" alt="GBEbrokers" title="GBEbrokers"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Pepperstone</span>
-<img src="/static/img/general-image/pepperstone-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/pepperstone-average-spread.PNG" alt="Pepperstone" title="Pepperstone"/>
 </div></div>
 <br>
 
