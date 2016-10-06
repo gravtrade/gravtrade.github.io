@@ -12,7 +12,7 @@ categories:
 ---
 # Best Forex Broker Reviews 2016
 
-Professional trader measuring the best forex broker service based on how good the forex broker provide their services to their client, not based on how good they are in markerting advertising. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some extra investigations to give you an advantage for your trading performance (Lowering your trading cost and risk) and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
+Professional trader measuring the best forex broker service based on how good the forex broker provides their services to their client, not based on how good they are in marketing advertising. Therefore, they will look for best forex broker reviews on the internet. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some extra investigations to give you an advantage for your trading performance (Lowering your trading cost and risk) and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
 
 ### Our top Forex Broker review based on requirements below:
 
@@ -39,7 +39,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 **Now lets pick some list of lowest spread forex broker on Myfxbook**
 
 <div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Forex broker reviews 2016"/>
 </div><br><br>
 
 
