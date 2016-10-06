@@ -184,7 +184,7 @@ GDMFX  0.1 pips
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
-</div>
+</div></div>
 - We reject FXCM in this observation due to fixed spread account used to attract viewer attention. No world could give you that condition all the time with great execution.
 
 > **Pepperstone Broker** was the lowest spread widen on news releases.
