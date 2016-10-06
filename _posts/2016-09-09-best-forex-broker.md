@@ -52,61 +52,81 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 </div></div>
 <br>
 
+<div class="panel panel-primary">
+<div class="panel-body">
 <span class="label label-primary">Tradeview Markets</span>
-<div align="center">
 <img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
 
-**GDMFX**
-<div align="center">
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">GDMFX</span>
 <img src="/static/img/general-image/gdmfx-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**GBEbrokers**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">GBEbrokers</span>
 <img src="/static/img/general-image/gbebrokers-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**Pepperstone**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">Pepperstone</span>
 <img src="/static/img/general-image/pepperstone-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**XM**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">XM</span>
 <img src="/static/img/general-image/xm-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**JFD Brokers**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">JFD Brokers</span>
 <img src="/static/img/general-image/jfdbrokers-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**Darwinex**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">Darwinex</span>
 <img src="/static/img/general-image/darwinex-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**ADS Securities London**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">ADS Securities London</span>
 <img src="/static/img/general-image/ads-securities-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**Vipro Markets**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">Vipro Markets</span>
 <img src="/static/img/general-image/vipro-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**Tickmill**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">Tickmill</span>
 <img src="/static/img/general-image/tickmill-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br>
-**FXCM**
-<div align="center">
+
+<div class="panel panel-primary">
+<div class="panel-body">
+<span class="label label-primary">FXCM</span>
 <img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br><br>
 
 **Compare the average spread and spread on news release between them:**
