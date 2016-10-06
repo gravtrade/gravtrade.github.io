@@ -108,6 +108,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 **Compare the average spread and spread on news release between them:**
 
 **Average Spread Within 48 Hours**
+
 FXCM  0.2 pips
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
