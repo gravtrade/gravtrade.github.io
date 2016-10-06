@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get $4000 IC Markets Bonus From GravTrade by Trading Through IC Markets Now!'
+title: '$4000 IC Markets Bonus From GravTrade'
 tags:
   - icmarkets
   - forex
@@ -12,7 +12,7 @@ categories:
   - broker
   - bonus
 ---
-# How to get $4000 IC Markets Bonus From GravTrade by Trading Through IC Markets Broker Account?
+# How to get $4000 IC Markets Bonus From GravTrade?
 > Please note that the IC Markets bonus only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
