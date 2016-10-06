@@ -12,7 +12,7 @@ categories:
   - broker
   - rebate
 ---
-# How to get IC Markets Rebate From GravTrade by Trading Through IC Markets Broker Standard Account?
+# How to get $4 IC Markets Rebate From GravTrade by Trading Through IC Markets Broker Standard Account?
 > Please note that the IC Markets Rebate only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
