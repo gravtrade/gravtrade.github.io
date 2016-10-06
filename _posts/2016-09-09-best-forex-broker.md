@@ -45,7 +45,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 **Look at their average spread one by one**
 
-<span class="label label-primary">IC Markets</span>
+<span class="label label-primary-lg">IC Markets</span>
 <img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="Random forex broker raw spread"/>
 <br>
 
