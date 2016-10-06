@@ -147,7 +147,7 @@ GBEbrokers  0.3 pips
 </div>
 Tradeview Markets  0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
     <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
@@ -165,19 +165,19 @@ ADS Securities London  0.4 pips
 </div>
 XM  0.1 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
 IC Markets  0.1 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
 GDMFX  0.1 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
