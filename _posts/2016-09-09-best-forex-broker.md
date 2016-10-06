@@ -344,7 +344,8 @@ GDMFX  4.3 pips
 </div>
 </div></div>
 
-<div class="alert alert-danger" role="alert">We reject FXCM in this observation due to **fixed spread account** used to attract viewer attention. No world could give you that condition all the time with great execution.</div>
+<div class="alert alert-danger" role="alert">We reject FXCM in this observation due to <b>fixed spread account</b> used to attract viewer attention. No world could give you that condition all the time with great execution.</div>
+
 
 > **Pepperstone Broker** was the lowest spread widen on news releases.
 
