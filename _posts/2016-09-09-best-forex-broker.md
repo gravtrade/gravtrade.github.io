@@ -107,8 +107,11 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 **Compare the average spread and spread on news release between them:**
 
-<div class="panel panel-primary">Average Spread Within 48 Hours</div>
+<div class="panel panel-primary">
+<div class="panel-body">
+Average Spread Within 48 Hours</div>
 
+<div class="panel-footer">
 FXCM  0.2 pips
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
@@ -181,7 +184,7 @@ GDMFX  0.1 pips
     <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
-
+</div>
 - We reject FXCM in this observation due to fixed spread account used to attract viewer attention. No world could give you that condition all the time with great execution.
 
 > **Pepperstone Broker** was the lowest spread widen on news releases.
