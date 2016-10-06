@@ -116,8 +116,8 @@ FXCM - 0.2 pips
 </div>
 Pepperstone - 0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-    <span class="sr-only">80% Complete</span>
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+    <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
 Tickmill - 0.5 pips
@@ -128,56 +128,56 @@ Tickmill - 0.5 pips
 </div>
 Vipro Markets - 0.4 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
     <span class="sr-only">60% Complete (danger)</span>
   </div>
 </div>
 Darwinex - 0.4 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
     <span class="sr-only">60% Complete (danger)</span>
   </div>
 </div>
 GBEbrokers - 0.3 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
     <span class="sr-only">70% Complete (danger)</span>
   </div>
 </div>
 Tradeview Markets - 0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-    <span class="sr-only">80% Complete (danger)</span>
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+    <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
 JFD Brokers - 0.3 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
     <span class="sr-only">70% Complete (danger)</span>
   </div>
 </div>
 ADS Securities London - 0.4 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
     <span class="sr-only">60% Complete (danger)</span>
   </div>
 </div>
 XM - 0.1 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
-    <span class="sr-only">90% Complete (danger)</span>
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+    <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
 IC Markets - 0.1 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
-    <span class="sr-only">90% Complete (danger)</span>
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+    <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
 GDMFX - 0.1 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
-    <span class="sr-only">90% Complete (danger)</span>
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+    <span class="sr-only">90% Complete (success)</span>
   </div>
 </div>
 
