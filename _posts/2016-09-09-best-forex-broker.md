@@ -43,7 +43,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
 </div>
-</div>
+</div></div>
 
 <div class="panel panel-primary">
 <div class="panel-body">
@@ -109,7 +109,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 **FXCM**
 <div align="center">
 <img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div>
+</div></div>
 <br><br>
 
 **Compare the average spread and spread on news release between them:**
