@@ -59,9 +59,9 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 </ul>
 
 <ul class="nav nav-tabs">
-  <li role="presentation" class="active"><a href="#">Home</a></li>
-  <li role="presentation"><a href="#">Profile</a></li>
-  <li role="presentation"><a href="#">Messages</a></li>
+  <li role="presentation" class="active"><a href="#">Home</a>x</li>xx
+  <li role="presentation"><a href="#">Profile</a>xxx</li>xxxx
+  <li role="presentation"><a href="#">Messages</a>xxxxx</li>xxxxxx
 </ul>
 
 **Compare the average spread and spread on news release between them:**
