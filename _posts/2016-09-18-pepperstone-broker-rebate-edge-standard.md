@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get USD4 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Broker Now!'
+title: 'Get USD4 Pepperstone Rebate From GravTrade Now!'
 tags:
   - pepperstone
   - forex
