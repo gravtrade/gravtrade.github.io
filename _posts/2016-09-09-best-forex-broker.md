@@ -82,49 +82,49 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">XM</span>
-<img src="/static/img/general-image/xm-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/xm-average-spread.PNG" alt="XM" title="XM"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">JFD Brokers</span>
-<img src="/static/img/general-image/jfdbrokers-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/jfdbrokers-average-spread.PNG" alt="JFD Brokers" title="JFD Brokers"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Darwinex</span>
-<img src="/static/img/general-image/darwinex-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/darwinex-average-spread.PNG" alt="Darwinex" title="Darwinex"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">ADS Securities London</span>
-<img src="/static/img/general-image/ads-securities-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/ads-securities-average-spread.PNG" alt="ADS Securities London" title="ADS Securities London"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Vipro Markets</span>
-<img src="/static/img/general-image/vipro-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/vipro-average-spread.PNG" alt="Vipro Markets" title="Vipro Markets"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Tickmill</span>
-<img src="/static/img/general-image/tickmill-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/tickmill-average-spread.PNG" alt="Tickmill" title="Tickmill"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">FXCM</span>
-<img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/fxcm-average-spread.PNG" alt="FXCM" title="FXCM"/>
 </div></div>
 <br><br>
 
