@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '$4000 Pepperstone Bonus From GravTrade'
+title: 'Get $4000 Pepperstone Bonus From GravTrade Now!'
 tags:
   - pepperstone
   - forex
