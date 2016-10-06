@@ -114,8 +114,8 @@ Average Spread Within 48 Hours</div>
 <div class="panel-footer">
 FXCM  0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-    <span class="sr-only">80% Complete (success)</span>
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+    <span class="sr-only">20% Complete (success)</span>
   </div>
 </div>
 Pepperstone  0.2 pips
