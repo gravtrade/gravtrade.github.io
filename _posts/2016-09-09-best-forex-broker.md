@@ -111,19 +111,19 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 
 FXCM  0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
     <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
 Pepperstone  0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
     <span class="sr-only">80% Complete (success)</span>
   </div>
 </div>
 Tickmill  0.5 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
     <span class="sr-only">50% Complete (warning)</span>
   </div>
 </div>
