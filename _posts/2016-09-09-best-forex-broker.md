@@ -185,6 +185,86 @@ GDMFX  0.1 pips
   </div>
 </div>
 </div></div>
+
+<div class="panel panel-primary">
+<div class="panel-body">
+Highest Spread Within 48 Hours</div>
+
+<div class="panel-footer">
+FXCM  0.2 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%">
+    <span class="sr-only">2% Complete (success)</span>
+  </div>
+</div>
+Pepperstone  3.9 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="39" aria-valuemin="0" aria-valuemax="100" style="width: 39%">
+    <span class="sr-only">39% Complete (success)</span>
+  </div>
+</div>
+Tickmill  6.0 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+    <span class="sr-only">60% Complete (warning)</span>
+  </div>
+</div>
+Vipro Markets  5.9 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="59" aria-valuemin="0" aria-valuemax="100" style="width: 59%">
+    <span class="sr-only">59% Complete (danger)</span>
+  </div>
+</div>
+Darwinex  5.1 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="51" aria-valuemin="0" aria-valuemax="100" style="width: 51%">
+    <span class="sr-only">51% Complete (danger)</span>
+  </div>
+</div>
+GBEbrokers  5.0 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+    <span class="sr-only">50% Complete (danger)</span>
+  </div>
+</div>
+Tradeview Markets  5.8 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100" style="width: 58%">
+    <span class="sr-only">58% Complete (success)</span>
+  </div>
+</div>
+JFD Brokers  4.3 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100" style="width: 43%">
+    <span class="sr-only">43% Complete (danger)</span>
+  </div>
+</div>
+ADS Securities London  6.4 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="64" aria-valuemin="0" aria-valuemax="100" style="width: 64%">
+    <span class="sr-only">64% Complete (danger)</span>
+  </div>
+</div>
+XM  3.5 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+    <span class="sr-only">35% Complete (success)</span>
+  </div>
+</div>
+IC Markets  3.7 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="37" aria-valuemin="0" aria-valuemax="100" style="width: 37%">
+    <span class="sr-only">37% Complete (success)</span>
+  </div>
+</div>
+GDMFX  4.3 pips
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100" style="width: 43%">
+    <span class="sr-only">43% Complete (success)</span>
+  </div>
+</div>
+</div></div>
+
 - We reject FXCM in this observation due to fixed spread account used to attract viewer attention. No world could give you that condition all the time with great execution.
 
 > **Pepperstone Broker** was the lowest spread widen on news releases.
