@@ -13,7 +13,7 @@ categories:
   - bonus
 ---
 # How to get $4000 Pepperstone bonus From GravTrade?
-> Please note that this bonus only offered under GravTrade, that you will never get this offer on pepperstone broker site.
+> Please note that this [bonus](http://www.gravtrade.com/bonus-and-rebates/ "bonus") only offered under GravTrade, that you will never get this offer on pepperstone broker site.
 
 <div align="center">
 <div itemscope itemtype="http://schema.org/Review">
@@ -44,11 +44,10 @@ Trading bonus is the amount of money that you get from you trading broker or ext
 
 ##Reduce your trading cost
 
-While getting in and out on any market instrument you need to pay sum amount of broker commission which included inside your account chart spread for (Pepperstone Edge Standard Fixed Spread Account) or separated (Pepperstone Edge Razor ECN Account). This would increase your trading cost and risk "absolutely" that will eat your potential profits trade by trades. Some of smart active trader will look for another alternative way that could give an advantage to their trading journey by applying bonus or rebates against their trading account and this would maximize their monthly gains, trading performance and risk ratio.
-Follow steps below:
+While getting in and out on any market instrument you need to pay sum amount of broker commission, which included inside your account chart spread for (Pepperstone Edge Standard Fixed Spread Account) or separated (Pepperstone Edge Razor ECN Account). This would increase your trading cost and risk "absolutely" that will eat your potential profits trade by trades. Some of smart active trader will look for another alternative way that could give an advantage to their trading journey by applying bonus or rebates against their trading account and this would maximize their monthly gains, trading performance and risk ratio.
 
 ##How to register?
-
+Follow steps below:
 1. Sign up **Pepperstone Edge Standard Account** through our IB [Here](https://pepperstone.com/?a_aid=pro "Here").
 2. If you already have **Pepperstone Edge Standard Account**, you need to email pepperstone broker support team and ask them to put you under our IB id (pro) or provide them this link (https://pepperstone.com/?a_aid=pro) into your mail.
 3. [Email](http://www.gravtrade.com/contact "Email") us to claim your bonus.
