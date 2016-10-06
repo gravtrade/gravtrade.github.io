@@ -39,9 +39,8 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 **Now lets pick some list of lowest spread forex broker on Myfxbook**
 
 <div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
 </div><br><br>
-
 
 **Look at their average spread one by one**
 
