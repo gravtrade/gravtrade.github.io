@@ -123,7 +123,7 @@ Pepperstone  0.2 pips
 </div>
 Tickmill  0.5 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
     <span class="sr-only">50% Complete (warning)</span>
   </div>
 </div>
