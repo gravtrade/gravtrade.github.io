@@ -36,14 +36,14 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
 
-**Now lets pick some list of lowest spread forex broker on Myfxbook
+**Now lets pick some list of lowest spread forex broker on Myfxbook**
 
 <div align="center">
 <img src="/static/img/general-image/broker-raw-spread.png" alt="Random forex broker raw spread"/>
 </div>
 
 
-**Look at their average spread one by one
+**Look at their average spread one by one**
 
 <div class="panel panel-primary">
 <div class="panel-body">IC Markets
@@ -106,7 +106,7 @@ Spreads should be in variable floats (Non-Fixed spread) and they are fed direct 
 **FXCM**
 <div align="center">
 <img src="/static/img/general-image/fxcm-average-spread.PNG" alt="Random forex broker raw spread"/>
-</div></div>
+</div>
 <br><br>
 
 **Compare the average spread and spread on news release between them:**
