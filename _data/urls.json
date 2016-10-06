@@ -18,8 +18,7 @@
   {
     "text": "Contact Us",
     "url": "/contact",
-    "icon": "fa-send",
-    "layout": "post"
+    "icon": "fa-send"
   },
   {
     "text": "Rebates",
