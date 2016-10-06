@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get USD2 IC Markets Rebate From GravTrade by Trading Through IC Markets Now!'
+title: 'Get $2 IC Markets Rebate From GravTrade Now!'
 tags:
   - icmarkets
   - forex
@@ -12,7 +12,7 @@ categories:
   - broker
   - rebate
 ---
-# How to get USD2 IC Markets Rebate From GravTrade by Trading Through IC Markets ECN Account?
+# How to get $2 IC Markets Rebate From GravTrade by Trading Through IC Markets ECN Account?
 > Please note that the IC Markets Rebate only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
