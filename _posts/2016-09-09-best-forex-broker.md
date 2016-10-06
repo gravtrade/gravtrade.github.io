@@ -193,8 +193,8 @@ Highest Spread Within 48 Hours</div>
 <div class="panel-footer">
 FXCM  0.2 pips
 <div class="progress">
-  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%">
-    <span class="sr-only">2% Complete (success)</span>
+  <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em;">
+    0.2 Pips
   </div>
 </div>
 Pepperstone  3.9 pips
