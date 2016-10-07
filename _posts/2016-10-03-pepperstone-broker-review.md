@@ -23,11 +23,10 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 **Pepperstone Trading Features:**
 
 <dl class="dl-horizontal">
-  <dt>Instrument</dt>
-  <dd>70+ currency pairs, metals, commodities and index CFDs.</dd>
+  <dt>Instrument</dt><dd>70+ currency pairs, metals, commodities and index CFDs.</dd>
+  <dt>Account type</dt><dd>Pepperstone Edge Razor, Pepperstone Edge Standard and Active Trader Account.</dd>
 </dl>
 
-- Account type: Pepperstone Edge Razor, Pepperstone Edge Standard and Active Trader Account.
 - Leverage: 500:1 and below.
 - Spread on Majors: 0.0 to 0.2 pips (raw spread on Edge Razor Account) and 1.0 pip (fixed spread on Edge Standard Account).
 - Commission: 0.7 pip on Edge Razor Account and Zero commission on Edge Standard Account.
