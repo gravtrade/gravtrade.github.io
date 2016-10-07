@@ -422,7 +422,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 
 ## Breaking Down Forex Broker Review
 
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/reviews/2016/10/03/pepperstone-forex-broker-review.html">Pepperstone Broker Review</a>
+<a href="http://www.gravtrade.com/pepperstone/broker/reviews/2016/10/03/pepperstone-broker-review.html">Pepperstone Broker Review</a>
 <br>
 <a href="http://www.gravtrade.com/icmarkets/forex/broker/reviews/2016/10/05/icmarkets-forex-broker-review.html">IC Markets Broker Review</a>
 <br>
