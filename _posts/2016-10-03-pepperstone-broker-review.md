@@ -49,20 +49,10 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 
 <div align="center">
 
-<a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Broker Demo Account" width="225"></a>
-
-<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/16/pepperstone-rebate-razor.html"><img alt="Pepperstone Rebate" height="73" src="/static/img/button/get-rebate-now.PNG" title="Pepperstone Rebate" width="221"></a>
-
-<a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open Pepperstone Broker Live Account" width="218"></a>
-
-<br>
-<a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">How to get $4000 Pepperstone bonus From GravTrade?</a>
-
-<br>
-<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/18/pepperstone-rebate-edge-standard.html">How to get USD4 Pepperstone Rebate From GravTrade?</a>
-
-<br>
-<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/16/pepperstone-rebate-razor.html">How to get USD1 Pepperstone Rebate From GravTrade?</a>
+<p>
+  <a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">
+  <button type="button" class="btn btn-primary btn-lg">Get $4000 Bonus Now!</button></a>
+</p>
 
 </div>
 
