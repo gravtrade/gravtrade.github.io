@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Get $4 IC Markets Rebate From GravTrade Now!'
+title: 'Get USD4 IC Markets Rebate From GravTrade Now!'
 tags:
   - icmarkets
   - rebate
@@ -8,14 +8,14 @@ categories:
   - icmarkets
   - rebate
 ---
-# How to get $4 IC Markets Rebate From GravTrade by Trading Through IC Markets Broker Standard Account?
-> Please note that the IC Markets Rebate only offered under GravTrade, that you will never get this offer on IC Markets broker site.
+# How to get USD4 IC Markets Rebate From GravTrade? - Standard Account.
+> Please note that this IC Markets [rebate](http://www.gravtrade.com/bonus-and-rebates/ "rebate") only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
 <img alt="Standard Account IC Markets Rebate" src="/static/img/general-image/ic-markets-rebate.PNG" title="Standard Account IC Markets Rebate">
 </div>
 
-If you looking for **USD2 ECN Account IC Markets Rebate**, go [Here](http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-ecn-account-rebate.html "IC Markets Rebate True ECN Account").
+If you looking for **USD2 IC Markets Rebate - True ECN Account**, go [Here](http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-rebate-true-ecn.html "IC Markets Rebate True ECN Account").
 
 As a Forex Trader, reducing your trading cost is a part of game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Standard Account IC Markets Rebate**, you could get back sum of the ammount that you paid to broker! 
 
