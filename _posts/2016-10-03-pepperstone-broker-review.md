@@ -28,19 +28,19 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
   <dt>Leverage</dt><dd>500:1 and below.</dd>
   <dt>Spread on Majors</dt><dd>0.0 to 0.2 pips (raw spread on Edge Razor Account) and 1.0 pip (fixed spread on Edge Standard Account).</dd>
   <dt>Commission</dt><dd>0.7 pip on Edge Razor Account and Zero commission on Edge Standard Account.</dd>
-  <dt>Minimum Deposit for first time client</dt><dd>$200</dd>
-  <dt>Trading Platform(s)</dt><dd>Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.</dd>
+  <dt>First Deposit</dt><dd>$200</dd>
+  <dt>Platform</dt><dd>Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.</dd>
   <dt>Broker Country</dt><dd>Australia.</dd>
   <dt>Regulation</dt><dd><a href="http://www.gravtrade.com/australian/regulator/2016/01/01/asic.html">ASIC</a></dd>
-  <dt>24/5 Hour Trading Offered</dt><dd>Yes.</dd>
-  <dt>Broker Contact Information</dt><dd>support@pepperstone.com</dd>
+  <dt>24/5 Trading</dt><dd>Yes.</dd>
+  <dt>Contact</dt><dd>support@pepperstone.com</dd>
   <dt>Head Office Address</dt><dd>21 Level 14, Aquavista Tower 401 Docklands Drive Melbourne Australia.</dd>
   <dt>Phone</dt><dd>+61 (0)3 9020 0155</dd>
   <dt>Fax</dt><dd>+61 (0)3 8679 4408</dd>
 </dl>
 
-<p class="bg-info">Pepperstone Broker Reveiw From ASIC</p>
-<br>
+<strong>Pepperstone Broker Reveiw From ASIC</strong>
+
 - [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market")
 <br>
 - [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers")
