@@ -9,7 +9,7 @@ categories:
   - bonus
 ---
 # How to get $4000 IC Markets Bonus From GravTrade?
-> Please note that the IC Markets bonus only offered under GravTrade, that you will never get this offer on IC Markets broker site.
+> Please note that this IC Markets [bonus](http://www.gravtrade.com/bonus-and-rebates/ "bonus") only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
 <div itemscope itemtype="http://schema.org/Review">
@@ -34,6 +34,15 @@ categories:
 
 Get $4000 **IC Markets Bonus** with us and this is the highest bonus ever you could get every month!
 
+## Breaking down Forex bonus
+
+Trading bonus is the amount of money that you get from you trading broker or external party (in this case GravTrade as an IB) after you comply certain of requirements. The money came from trading commission that you pay to broker every time you open and closed your trade calculated in "Round Trip". By getting bonus from GravTrade, you could earn maximum USD4000 each month.
+
+## Reduce your trading cost
+
+While getting in and out on any market instrument you need to pay sum amount of broker commission, which included inside your account chart spread for (IC Markets Standard Fixed Spread Account) or separated (IC Markets True ECN Account). This would increase your trading cost and risk "absolutely" that will eat your potential profits trade by trades. Some of smart active trader will look for another alternative way that could give an advantage to their trading journey by applying bonus or rebates against their trading account and this would maximize their monthly gains, trading performance and risk ratio.
+
+## How to register?
 Follow steps below:
 
 1. Sign up **IC Markets Standard Account** through our IB [Here](http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746 "Here").
