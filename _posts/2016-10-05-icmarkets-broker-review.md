@@ -1,21 +1,19 @@
 ---
 categories:
   - icmarkets
-  - forex
   - broker
   - reviews
 layout: post
 tags:
   - icmarkets
-  - forex
   - broker
   - reviews
-title: 'IC Markets Forex Broker Review'
+title: 'IC Markets Broker Review'
 ---
-# IC Markets Forex Broker Review
+# IC Markets Broker Review
 
 <div align="center">
-<img alt="IC Markets Forex Broker Review" src="/static/img/broker-logo/icmarkets.png" title="IC Markets Forex Broker Review" >
+<img alt="IC Markets Broker Review" src="/static/img/broker-logo/icmarkets.png" title="IC Markets Broker Review" >
 </div>
 
 Business name:	IC Markets
@@ -40,7 +38,7 @@ Former identifier:
 Former State/Territory:	
 
 
-**IC Markets Forex Trading Features:**
+**IC Markets Trading Features:**
 
 - Instrument: 64 currency pairs, metals, commodities and index CFDs.
 - Account type: Standard and True ECN Account.
