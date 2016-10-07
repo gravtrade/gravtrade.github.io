@@ -3,20 +3,16 @@ layout: post
 title: 'Get USD4 Pepperstone Rebate From GravTrade Now!'
 tags:
   - pepperstone
-  - forex
-  - broker
   - rebate
 categories:
   - pepperstone
-  - forex
-  - broker
   - rebate
 ---
 # How to get Pepperstone Rebate From GravTrade by Trading Through Edge Standard Pepperstone Broker Account?
 > Please note that the Pepperstone Rebate only offered under GravTrade, that you will never get this offer on pepperstone broker site.
 
 <div align="center">
-<img alt="Edge Standard Account Pepperstone Rebate" src="/static/img/general-image/pepperstone-edge-standard-account.PNG" title="Edge Standard Account Pepperstone Rebate">
+<img alt="Pepperstone Rebate" src="/static/img/general-image/pepperstone-edge-standard-account.PNG" title="Pepperstone Rebate">
 </div>
 
 If you looking for **Edge Razor Account Pepperstone Rebate**, go [Here](http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html "Edge Razor Account Pepperstone Rebate").
