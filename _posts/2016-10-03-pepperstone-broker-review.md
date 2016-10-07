@@ -40,7 +40,7 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 </dl>
 
 <p class="bg-info">
-**Pepperstone Broker Reveiw From ASIC.**
+Pepperstone Broker Reveiw From ASIC
 <br>
 - [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market")
 <br>
