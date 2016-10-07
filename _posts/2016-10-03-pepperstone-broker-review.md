@@ -26,7 +26,7 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
   <dt>Instrument</dt><dd>70+ currency pairs, metals, commodities and index CFDs.</dd>
   <dt>Account type</dt><dd>Pepperstone Edge Razor, Pepperstone Edge Standard and Active Trader Account.</dd>
   <dt>Leverage</dt><dd>500:1 and below.</dd>
-  <dt>Spread on Majors</dt><dd>0.0 to 0.2 pips (raw spread on Edge Razor Account) and 1.0 pip (fixed spread on Edge Standard Account).</dd>
+  <dt>Spread on Majors</dt><dd>0.0 to 0.2 pips (raw spread on Edge Razor Account)</dd><dd>1.0 pip (fixed spread on Edge Standard Account)</dd>
   <dt>Commission</dt><dd>0.7 pip on Edge Razor Account and Zero commission on Edge Standard Account.</dd>
   <dt>First Deposit</dt><dd>$200</dd>
   <dt>Platform</dt><dd>Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.</dd>
