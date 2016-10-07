@@ -18,7 +18,7 @@ title: 'Pepperstone Broker Review'
 
 You might want to read this forex broker reviews article if you want to know why forex trader choose pepperstone broker as their forex broker : <a href="http://www.gravtrade.com/forex/broker/reviews/2016/10/07/forex-broker-reviews.html">Pepperstone vs Top 10 Best Forex Broker Reviews</a>
 
-Grouped in the Financial services industry, pepperstone broker is an Australian forex broker founded by CEO Owen Kerr and director Joe Davenport specializing to provide services in currency trading or online retail foreign exchange "forex trading". Pepperstone broker was founded in 2010, headquartered in Melbourne (Australia) and has regional offices in Shanghai (China) and Dallas (United States). With 103 number of employees, they obtained a valid license to conduct trading operations and offers advice to retail trader under ASICs regulation (Australian Securities and Investments Commission). Pepperstone broker getting popular amongst worldwide retail traders when they offer the best service in the business and industrial standards recommended by ASICS such as client / customer support, fast and optimal trade execution speed with less slippage, tight spreads on major pairs / instrument especially on news releases, multi account type and market insights. With their good reputation in performing their best service compared to their other competitor, this will lead the company growing faster and stable for the long run and this give an indication to publics that they are one of best place to deal with.
+Grouped in the Financial services industry, pepperstone broker is an Australian forex broker founded by CEO Owen Kerr and director Joe Davenport specializing to provide services in currency trading or online retail foreign exchange "forex trading". Pepperstone broker was founded in 2010, headquartered in Melbourne (Australia) and has regional offices in Shanghai (China) and Dallas (United States). With 103 number of employees, they obtained a valid license to conduct trading operations and offers advice to retail trader under <a href="http://www.gravtrade.com/australian/regulator/2016/01/01/asic.html">ASICs</a> regulation (Australian Securities and Investments Commission). Pepperstone broker getting popular amongst worldwide retail traders when they offer the best service in the business and industrial standards recommended by ASIC such as client / customer support, fast and optimal trade execution speed with less slippage, tight spreads on major pairs / instrument especially on news releases, multi account type and market insights. With their good reputation in performing their best service compared to their other competitor, this will lead the company growing faster and stable for the long run and this give an indication to publics that they are one of best place to deal with.
 
 **Pepperstone Trading Features:**
 
@@ -30,7 +30,7 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 - Minimum Deposit for first time client: $200.
 - Trading Platform(s): Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.
 - Country: Australia
-- Regulation: ASICs.
+- Regulation: <a href="http://www.gravtrade.com/australian/regulator/2016/01/01/asic.html">ASIC</a>
 - 24/5 Hour Trading Offered: Yes
 - Forex Broker Contact Information:
 - Head Office Address: 21 Level 14, Aquavista Tower 401 Docklands Drive Melbourne Australia
