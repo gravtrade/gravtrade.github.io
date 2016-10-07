@@ -12,14 +12,14 @@ categories:
 ---
 # Best Forex Broker Reviews 2016
 
-Professional trader measuring the best forex broker service based on how good the forex broker provides their services to their client, not based on how good they are in marketing advertising. Therefore, they will look for best forex broker reviews on the internet. Before you begin your journey as a Forex Trader, should you well informed on finding a good reputation Forex Broker for your trading advantage. There are many factors why you need to find the best Forex Broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some extra investigations to give you an advantage for your trading performance (Lowering your trading cost and risk) and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
+Professional trader measuring the best forex broker service based on how good the forex broker provides their services to their client, not based on how good they are in marketing advertising. Therefore, they will look for best forex broker reviews on the internet. Before you begin your journey as a forex trader, should you well informed on finding a good reputation forex broker for your trading advantage. There are many factors why you need to find the best forex broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some extra investigations to give you an advantage for your trading performance (Lowering your trading cost and risk) and we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
 
 <div align="center">
 <img src="/static/img/general-image/best-forex-broker-reviews.jpg" alt="Forex broker reviews" title="Forex broker reviews"/>
 </div><br><br>
 
 
-### Our top Forex Broker review based on requirements below:
+## Our top Forex Broker review based on requirements below:
 
 1. Average tight spread and when news releases.
 2. Low commission per trade entry and exit cycle (Round Trip).
@@ -32,11 +32,11 @@ Professional trader measuring the best forex broker service based on how good th
 9. Server connection from client application to broker trading server / Data Center.
 10. Regulation.
 
-### Tight spreads increase transparency
+### No.1 Average tight spreads and when news releases.
 
-A spread is the difference between the bid price and the sell price for a currency pair. Most Forex Broker provides some of the **tightest spreads** across major Forex Currencies (EUR/USD, USD/JPY, GBP/USD, USD/CHF, AUD/USD, USD/CAD and NZD/USD) and Metals (XAG/USD or Gold).
+A spread is the difference between the bid price for buyers and the ask price for sellers of a certain currency pair. Most Forex Broker provides some of the **tightest spreads** across major forex currencies (EUR/USD, USD/JPY, GBP/USD, USD/CHF, AUD/USD, USD/CAD and NZD/USD) and Metals (XAG/USD or Gold).
 
-Spreads should be in variable floats (Non-Fixed spread) and they are fed direct from broker liquidity providers through the **ECN** (Electronic Communications Network). There are many kinds of ECN technology itself because of the way your forex broker sets their business model. In other words, we want to measure all this stuff just to eliminate layers of "middleman".
+Spreads should be in variable floats (Non-Fixed spread) because the bid and ask price offered from multiple banks, hedge funds, institutionals and market makers (liquidity providers) and they are fed direct from broker into clients platform and called as **ECN** (Electronic Communications Network). There are many kinds of ECN technology itself because of the way your forex broker or their liquidity provider sets their business model. In other words, we want to measure all this stuff just to eliminate layers of "middleman".
 
 > Spreads are tighter during higher volumes of liquidity or may become wider when markets lack of liquidity.
 
