@@ -414,7 +414,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Demo Account" width="225"></a>
 
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html"><img alt="Register Pepperstone broker with us and you will get rebates every lot traded." height="73" src="/static/img/button/get-rebate-now.PNG" title="Register Pepperstone broker with us and you will get rebates every lot traded." width="221"></a>
+<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/18/pepperstone-rebate-edge-standard.html"><img alt="Pepperstone Rebate" height="73" src="/static/img/button/get-rebate-now.PNG" title="Pepperstone Rebate" width="221"></a>
 
 <a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone broker Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open Pepperstone broker Live Account" width="218"></a>
 
@@ -424,18 +424,18 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 
 <a href="http://www.gravtrade.com/pepperstone/broker/reviews/2016/10/03/pepperstone-broker-review.html">Pepperstone Broker Review</a>
 <br>
-<a href="http://www.gravtrade.com/icmarkets/forex/broker/reviews/2016/10/05/icmarkets-forex-broker-review.html">IC Markets Broker Review</a>
+<a href="http://www.gravtrade.com/icmarkets/broker/reviews/2016/10/05/ic-markets-broker-review.html">IC Markets Broker Review</a>
 <br>
 
 #### Bonus and Rebates
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/bonus/2016/09/18/pepperstone-broker-bonus.html">How to get USD4000 Pepperstone Bonus From GravTrade by Trading Through Pepperstone Broker Account?</a>
+<a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">How to get USD4000 Pepperstone Bonus From GravTrade?</a>
 <br>
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/18/pepperstone-broker-rebate-edge-standard.html">How to get USD4 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Standard Account?</a>
+<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/18/pepperstone-rebate-edge-standard.html">How to get USD4 Pepperstone Rebate Edge Standard Account From GravTrade?</a>
 <br>
-<a href="http://www.gravtrade.com/pepperstone/forex/broker/rebate/2016/09/16/pepperstone-broker-rebate.html">How to get USD1 Pepperstone Rebate From GravTrade by Trading Through Pepperstone Edge Razor Account?</a>
+<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/16/pepperstone-rebate-razor.html">How to get USD1 Pepperstone Rebate Edge Razor Account From GravTrade?</a>
 <br>
-<a href="http://www.gravtrade.com/icmarkets/forex/broker/bonus/2016/10/04/icmarkets-broker-bonus.html">How to get USD4000 IC Markets Bonus From GravTrade by Trading Through IC Markets Broker Account?</a>
+<a href="http://www.gravtrade.com/icmarkets/bonus/2016/10/04/ic-markets-bonus.html">How to get USD4000 IC Markets Bonus From GravTrade?</a>
 <br>
-<a href="http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-standard-account-rebate.html">How to get USD4 IC Markets Rebate From GravTrade by Trading Through IC Markets Standard Account?</a>
+<a href="http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-rebate-standard-account.html">How to get USD4 IC Markets Rebate Standard Account From GravTrade?</a>
 <br>
-<a href="http://www.gravtrade.com/icmarkets/forex/broker/rebate/2016/10/04/icmarkets-broker-ecn-account-rebate.html">How to get USD2 IC Markets Rebate From GravTrade by Trading Through IC Markets True ECN Account?</a>
+<a href="http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-rebate-true-ecn.html">How to get USD2 IC Markets Rebate True ECN Account From GravTrade?</a>
