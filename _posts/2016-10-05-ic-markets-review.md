@@ -1,19 +1,17 @@
 ---
 categories:
   - icmarkets
-  - broker
-  - reviews
+  - review
 layout: post
 tags:
   - icmarkets
-  - broker
-  - reviews
-title: 'IC Markets Broker Review'
+  - review
+title: 'IC Markets Review'
 ---
-# IC Markets Broker Review
+# IC Markets Review
 
 <div align="center">
-<img alt="IC Markets Broker Review" src="/static/img/broker-logo/icmarkets.png" title="IC Markets Broker Review" >
+<img alt="IC Markets Review" src="/static/img/broker-logo/icmarkets.png" title="IC Markets Review" >
 </div>
 
 Business name:	IC Markets
