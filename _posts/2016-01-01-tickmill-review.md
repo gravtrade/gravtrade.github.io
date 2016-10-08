@@ -11,7 +11,7 @@ title: 'Tickmill Review'
 # Tickmill Review
 
 <div align="center">
-<img alt="Tickmill Review" src="/static/img/broker-logo/globalprime.jpg" title="Tickmill Review" >
+<img alt="Tickmill Review" src="/static/img/broker-logo/tickmill.jpg" title="Tickmill Review" >
 </div>
 
 <strong>Tickmill Trading Features</strong>
