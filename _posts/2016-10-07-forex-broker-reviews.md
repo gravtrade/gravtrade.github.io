@@ -412,11 +412,14 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 </div>
 
 
-<a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open Pepperstone Demo Account" width="225"></a>
+<div align="center">
 
-<a href="http://www.gravtrade.com/pepperstone/rebate/2016/09/18/pepperstone-rebate-edge-standard.html"><img alt="Pepperstone Rebate" height="73" src="/static/img/button/get-rebate-now.PNG" title="Pepperstone Rebate" width="221"></a>
+<p>
+  <a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">
+  <button type="button" class="btn btn-primary btn-lg btn-block">Get $4000 Pepperstone Bonus Now!</button></a>
+</p>
 
-<a href="https://pepperstone.com/?a_aid=pro"><img alt="Open Pepperstone broker Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open Pepperstone broker Live Account" width="218"></a>
+</div>
 
 </div>
 
