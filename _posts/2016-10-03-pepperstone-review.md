@@ -1,11 +1,11 @@
 ---
 categories:
   - pepperstone
-  - reviews
+  - review
 layout: post
 tags:
   - pepperstone
-  - reviews
+  - review
 title: 'Pepperstone Review'
 ---
 # Pepperstone Review
