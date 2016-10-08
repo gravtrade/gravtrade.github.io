@@ -12,7 +12,9 @@ categories:
 ---
 # Best Forex Broker Review 2016
 
-Professional trader measuring the best forex broker service based on how good the forex broker provides their services to their client, not based on how good they are in marketing advertising. Therefore, they will look for best forex broker reviews on the internet. Before you begin your journey as a forex trader, should you well informed on finding a good reputation forex broker for your trading advantage. There are many factors why you need to find the best forex broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some extra investigations to give you an advantage for your trading performance (Lowering your trading cost and risk) and in this forex broker review article, we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
+Summary: You will find the best forex broker review on the planet based on our observation to give you in depth insight before you decide which broker to trade with.
+
+Professional trader measuring the best forex broker service based on how good the forex broker provides their services to their client, not based on how good they are in marketing advertising. Before you begin your journey as a forex trader, should you well informed on finding a good reputation forex broker for your trading advantage. There are many factors why you need to find the best forex broker. Depending on your trading strategy, especially when you applying scalping strategy, automated strategy (EA) or API (Application Programming Interface), you should do some investigations to give you a proper overview of your trading performance (Lowering your trading cost and risk) and in this forex broker review lesson, we gona teach you how to do it on your own (this would help you to build your trust with your forex broker) using couple of free tools.
 
 <div align="center">
 <img src="/static/img/general-image/best-forex-broker-review.jpg" alt="Forex broker review" title="Forex broker review"/>
