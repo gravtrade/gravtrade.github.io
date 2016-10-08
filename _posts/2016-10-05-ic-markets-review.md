@@ -35,40 +35,31 @@ Former State/Territory registration details
 Former identifier:	
 Former State/Territory:	
 
+<strong>IC Markets Trading Features</strong>
 
-**IC Markets Trading Features:**
-
-- Instrument: 64 currency pairs, metals, commodities and index CFDs.
-- Account type: Standard and True ECN Account.
-- Leverage: 500:1 and below.
-- Spread on Majors: 0.0 to 0.2 pips (raw spread on True ECN Account) and 1.0 pip (fixed spread on Standard Account).
-- Commission: 0.7 pip on True ECN Account and Zero commission on Standard Account.
-- Minimum Deposit for first time client: $200.
-- Trading Platform(s): Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.
-- Country: Australia
-- Regulation: ASICs.
-- 24/5 Hour Trading Offered: Yes
-- Forex Broker Contact Information:
-- Head Office Address: International Capital Markets Pty Ltd, Level 6 309 Kent Street, Sydney,  NSW  2000
-- Phone: +61 (0)2 8014 4280
-
+<dl class="dl-horizontal">
+  <dt>Instrument</dt><dd>64+ currency pairs, metals, commodities and index CFDs.</dd>
+  <dt>Account type</dt><dd>Standard and True ECN Account.</dd>
+  <dt>Leverage</dt><dd>500:1 and below.</dd>
+  <dt>Spread on Majors</dt><dd>0.0 to 0.2 pips (raw spread on True ECN Account)</dd><dd>1.0 pip (fixed spread on Standard Account)</dd>
+  <dt>Scalping Allowed</dt><dd>Yes.</dd>
+  <dt>Commission</dt><dd>0.7 pip on True ECN Account and Zero commission on Standard Account.</dd>
+  <dt>First Deposit</dt><dd>$200</dd>
+  <dt>Platform</dt><dd>Metatrader 4 (MT4), Metatrader 5 (MT5 ) and cTrader.</dd>
+  <dt>Broker Country</dt><dd>Australia.</dd>
+  <dt>Regulation</dt><dd><a href="http://www.gravtrade.com/australian/regulator/2016/01/01/asic.html">ASIC</a></dd>
+  <dt>24/5 Trading</dt><dd>Yes.</dd>
+  <dt>Contact</dt><dd>support@icmarkets.com</dd>
+  <dt>Head Office Address</dt><dd>International Capital Markets Pty Ltd, Level 6 309 Kent Street, Sydney,  NSW  2000.</dd>
+  <dt>Phone</dt><dd>+61 (0)2 8014 4280</dd>
+</dl>
 
 <div align="center">
 
-<a href="http://www.icmarkets.com/forex-trading/open-a-demo-account/?camp=7746"><img alt="Open IC Markets Demo Account" height="72" src="/static/img/button/try-demo-now.PNG" title="Open IC Markets Demo Account" width="225"></a>
-
-<a href="http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-rebate-standard-account.html"><img alt="IC Markets Rebate" height="73" src="/static/img/button/get-rebate-now.PNG" title="IC Markets Rebate" width="221"></a>
-
-<a href="http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746"><img alt="Open IC Markets Live Account" height="70" src="/static/img/button/open-live-account-now.PNG" title="Open IC Markets Live Account" width="218"></a>
-
-<br>
-<a href="http://www.gravtrade.com/icmarkets/bonus/2016/10/04/ic-markets-bonus.html">How to get $4000 IC Markets Bonus From GravTrade?</a>
-
-<br>
-<a href="http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-rebate-standard-account.html">How to get USD4 IC Markets Rebate From GravTrade?</a>
-
-<br>
-<a href="http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-rebate-true-ecn.html">How to get USD2 IC Markets Rebate From GravTrade?</a>
+<p>
+  <a href="http://www.gravtrade.com/icmarkets/bonus/2016/10/04/ic-markets-bonus.html">
+  <button type="button" class="btn btn-primary btn-lg btn-block">Get $4000 IC Markets Bonus Now!</button></a>
+</p>
 
 </div>
 
