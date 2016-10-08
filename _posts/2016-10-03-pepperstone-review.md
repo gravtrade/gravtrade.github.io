@@ -1,19 +1,17 @@
 ---
 categories:
   - pepperstone
-  - broker
   - reviews
 layout: post
 tags:
   - pepperstone
-  - broker
   - reviews
-title: 'Pepperstone Broker Review'
+title: 'Pepperstone Review'
 ---
-# Pepperstone Broker Review
+# Pepperstone Review
 
 <div align="center">
-<img alt="Pepperstone Broker Review" src="/static/img/broker-logo/pepperstone.jpg" title="Pepperstone Broker Review" >
+<img alt="Pepperstone Review" src="/static/img/broker-logo/pepperstone.jpg" title="Pepperstone Review" >
 </div>
 
 You might want to read this forex broker reviews article if you want to know why forex trader choose pepperstone broker as their forex broker : <a href="http://www.gravtrade.com/forex/broker/reviews/2016/10/07/forex-broker-reviews.html">Pepperstone vs Top 10 Best Forex Broker Reviews</a>
@@ -40,7 +38,7 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
   <dt>Fax</dt><dd>+61 (0)3 8679 4408</dd>
 </dl>
 
-<strong>Pepperstone Broker Reveiw From ASIC</strong>
+<strong>Pepperstone Review From ASIC</strong>
 
 - [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market")
 - [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers")
