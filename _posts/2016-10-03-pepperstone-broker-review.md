@@ -51,7 +51,7 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 
 <p>
   <a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">
-  <button type="button" class="btn btn-primary btn-lg">Get $4000 Bonus Now!</button></a>
+  <button type="button" class="btn btn-default btn-lg">Get $4000 Bonus Now!</button></a>
 </p>
 
 </div>
