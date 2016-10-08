@@ -43,7 +43,6 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 <strong>Pepperstone Broker Reveiw From ASIC</strong>
 
 - [ASIC concerns see Pepperstone exit the Japanese market](http://asic.gov.au/about-asic/media-centre/find-a-media-release/2014-releases/14-267mr-asic-concerns-see-pepperstone-exit-the-japanese-market/ "ASIC concerns see Pepperstone exit the Japanese market")
-<br>
 - [ASIC keeps watch on forex brokers](http://www.smh.com.au/business/asic-keeps-watch-on-forex-brokers-20141013-115d26.html "ASIC keeps watch on forex brokers")
 
 
@@ -51,7 +50,7 @@ Grouped in the Financial services industry, pepperstone broker is an Australian 
 
 <p>
   <a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">
-  <button type="button" class="btn btn-default btn-lg">Get $4000 Bonus Now!</button></a>
+  <button type="button" class="btn btn-primary btn-lg btn-block">Get $4000 Bonus Now!</button></a>
 </p>
 
 </div>
