@@ -46,7 +46,7 @@ While getting in and out on any market instrument you need to pay sum amount of 
 Follow steps below:
 
 1. Sign up **IC Markets Standard Account** through our IB [Here](http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746 "Here").
-2. If you already have **IC Markets Standard Account**, you need to email IC Markets broker support team and ask them to put you under our IB id (7745) or provide them this link (http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746) into your mail.
+2. If you already have **IC Markets Standard Account**, you need to email IC Markets broker support team and ask them to put you under our IB id (7745) or provide them this link (http://icmarkets.com/?camp=7745) into your mail.
 3. [Email](http://www.gravtrade.com/contact "Email") us to claim your bonus.
 
 [*Term and condition applied](http://www.gravtrade.com/term-and-condition/ "Term and condition applied")
