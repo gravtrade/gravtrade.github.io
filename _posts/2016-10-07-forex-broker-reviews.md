@@ -4,11 +4,11 @@ title: 'Best Forex Broker Reviews 2016'
 tags:
   - forex
   - broker
-  - reviews
+  - review
 categories:
   - forex
   - broker
-  - reviews
+  - review
 ---
 # Best Forex Broker Reviews 2016
 
