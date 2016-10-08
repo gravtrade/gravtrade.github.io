@@ -26,7 +26,7 @@ If you trade 1500 standard lot monthly and the commission was $10 per lot, your 
 Follow steps below:
 
 1. Sign up **IC Markets Standard Account** through our IB [Here](http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746 "Here") and you will get $4 for every 1 Standard Lot traded.
-2. If you already have **IC Markets Standard Account**, you need to email IC Markets broker support team and ask them to put you under our IB id (7745) or provide them this link (http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746) into your mail.
+2. If you already have **IC Markets Standard Account**, you need to email IC Markets broker support team and ask them to put you under our IB id (7745) or provide them this link (http://icmarkets.com/?camp=7745) into your mail.
 3. [Email](http://www.gravtrade.com/contact "Email") us to claim your rebate.
 
 [*Term and condition applied](http://www.gravtrade.com/term-and-condition/ "Term and condition applied")
