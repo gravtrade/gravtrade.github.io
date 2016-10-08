@@ -150,67 +150,56 @@ FXCM  0.2
 Pepperstone  0.2
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
-    <span class="sr-only">20% Complete (success)</span>
   </div>
 </div>
 Tickmill  0.5
 <div class="progress">
   <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
-    <span class="sr-only">50% Complete (warning)</span>
   </div>
 </div>
 Vipro Markets  0.4
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-    <span class="sr-only">40% Complete (danger)</span>
   </div>
 </div>
 Darwinex  0.4
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-    <span class="sr-only">40% Complete (danger)</span>
   </div>
 </div>
 GBEbrokers  0.3
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
-    <span class="sr-only">30% Complete (danger)</span>
   </div>
 </div>
 Tradeview Markets  0.2
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
-    <span class="sr-only">20% Complete (success)</span>
   </div>
 </div>
 JFD Brokers  0.3
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
-    <span class="sr-only">30% Complete (danger)</span>
   </div>
 </div>
 ADS Securities London  0.4
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-    <span class="sr-only">40% Complete (danger)</span>
   </div>
 </div>
 XM  0.1
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
-    <span class="sr-only">10% Complete (success)</span>
   </div>
 </div>
 IC Markets  0.1
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
-    <span class="sr-only">10% Complete (success)</span>
   </div>
 </div>
 GDMFX  0.1
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
-    <span class="sr-only">10% Complete (success)</span>
   </div>
 </div>
 </div></div>
@@ -223,73 +212,61 @@ Highest Spread Within 48 Hours (PIPs)</div>
 FXCM  0.2
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%">
-    <span class="sr-only">2% Complete (success)</span>
   </div>
 </div>
 Pepperstone  3.9
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="39" aria-valuemin="0" aria-valuemax="100" style="width: 39%">
-    <span class="sr-only">39% Complete (success)</span>
   </div>
 </div>
 Tickmill  6.0
 <div class="progress">
   <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-    <span class="sr-only">60% Complete (warning)</span>
   </div>
 </div>
 Vipro Markets  5.9
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="59" aria-valuemin="0" aria-valuemax="100" style="width: 59%">
-    <span class="sr-only">59% Complete (danger)</span>
   </div>
 </div>
 Darwinex  5.1
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="51" aria-valuemin="0" aria-valuemax="100" style="width: 51%">
-    <span class="sr-only">51% Complete (danger)</span>
   </div>
 </div>
 GBEbrokers  5.0
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
-    <span class="sr-only">50% Complete (danger)</span>
   </div>
 </div>
 Tradeview Markets  5.8
 <div class="progress">
   <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100" style="width: 58%">
-    <span class="sr-only">58% Complete (success)</span>
   </div>
 </div>
 JFD Brokers  4.3
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100" style="width: 43%">
-    <span class="sr-only">43% Complete (danger)</span>
   </div>
 </div>
 ADS Securities London  6.4
 <div class="progress">
   <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="64" aria-valuemin="0" aria-valuemax="100" style="width: 64%">
-    <span class="sr-only">64% Complete (danger)</span>
   </div>
 </div>
 XM  3.5
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
-    <span class="sr-only">35% Complete (success)</span>
   </div>
 </div>
 IC Markets  3.7
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="37" aria-valuemin="0" aria-valuemax="100" style="width: 37%">
-    <span class="sr-only">37% Complete (success)</span>
   </div>
 </div>
 GDMFX  4.3
 <div class="progress">
   <div class="progress-bar progress-bar-info active" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100" style="width: 43%">
-    <span class="sr-only">43% Complete (success)</span>
   </div>
 </div>
 </div></div>
@@ -302,73 +279,61 @@ Spread on news release (PIPs)</div>
 FXCM  0.2
 <div class="progress">
   <div class="progress-bar progress-bar-danger active" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%">
-    <span class="sr-only">2% Complete (success)</span>
   </div>
 </div>
 Pepperstone  0.8
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100" style="width: 8%">
-    <span class="sr-only">8% Complete (success)</span>
   </div>
 </div>
 Tickmill  1.1
 <div class="progress">
   <div class="progress-bar progress-bar-info active" role="progressbar" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100" style="width: 11%">
-    <span class="sr-only">11% Complete (warning)</span>
   </div>
 </div>
 Vipro Markets  1.1
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100" style="width: 11%">
-    <span class="sr-only">11% Complete (danger)</span>
   </div>
 </div>
 Darwinex  1.3
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100" style="width: 13%">
-    <span class="sr-only">13% Complete (danger)</span>
   </div>
 </div>
 GBEbrokers  1.3
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100" style="width: 13%">
-    <span class="sr-only">13% Complete (danger)</span>
   </div>
 </div>
 Tradeview Markets  1.3
 <div class="progress">
   <div class="progress-bar progress-bar-info active" role="progressbar" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100" style="width: 13%">
-    <span class="sr-only">13% Complete (success)</span>
   </div>
 </div>
 JFD Brokers  2.4
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="24" aria-valuemin="0" aria-valuemax="100" style="width: 24%">
-    <span class="sr-only">24% Complete (danger)</span>
   </div>
 </div>
 ADS Securities London  2.6
 <div class="progress">
   <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="26" aria-valuemin="0" aria-valuemax="100" style="width: 26%">
-    <span class="sr-only">26% Complete (danger)</span>
   </div>
 </div>
 XM  2.9
 <div class="progress">
   <div class="progress-bar progress-bar-info active" role="progressbar" aria-valuenow="29" aria-valuemin="0" aria-valuemax="100" style="width: 29%">
-    <span class="sr-only">29% Complete (success)</span>
   </div>
 </div>
 IC Markets  3.0
 <div class="progress">
   <div class="progress-bar progress-bar-info active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
-    <span class="sr-only">30% Complete (success)</span>
   </div>
 </div>
 GDMFX  4.3
 <div class="progress">
   <div class="progress-bar progress-bar-warning active" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100" style="width: 43%">
-    <span class="sr-only">43% Complete (success)</span>
   </div>
 </div>
 </div></div>
