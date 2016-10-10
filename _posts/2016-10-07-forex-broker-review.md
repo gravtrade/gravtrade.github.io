@@ -382,7 +382,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 
 <p>
   <a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">
-  <button type="button" class="btn btn-primary btn-lg btn-block">Get $4000 Pepperstone Bonus Now!</button></a>
+  <button type="button" class="btn btn-primary btn-lg btn-block">Get $4000 Pepperstone Bonus!</button></a>
 </p>
 
 </div>
