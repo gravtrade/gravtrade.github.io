@@ -8,7 +8,7 @@ categories:
   - pepperstone
   - bonus
 ---
-# How to get $4000 Pepperstone bonus From GravTrade?
+# Pepperstone Bonus $4000 From GravTrade
 > Please note that this [bonus](http://www.gravtrade.com/bonus-and-rebates/ "bonus") only offered under GravTrade, that you will never get this offer on Pepperstone broker site.
 
 <div align="center">
