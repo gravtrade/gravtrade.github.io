@@ -29,7 +29,7 @@ blogs:
 - jekyll_repo: /
   source_dir: /
   pop_server: pop.gmail.com
-  pop_user: h798506@gmail.com
+  pop_user: h798506
   pop_password: Mqy9kn7p
   secret: 1234
   markup: markdown
