@@ -25,8 +25,8 @@ paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist,jekyll-sitemap]
 
-jekyll_repo: /
-  source_dir: /
+jekyll_repo: https://github.com/gravtrade/gravtrade.github.io
+  source_dir: https://github.com/gravtrade/gravtrade.github.io
   pop_server: pop.gmail.com
   pop_user: h798506@gmail.com
   pop_password: Mqy9kn7p
