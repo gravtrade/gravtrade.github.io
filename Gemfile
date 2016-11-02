@@ -7,12 +7,8 @@ group :jekyll_plugins do
   gem 'jekyll-watch'
   gem 'kramdown'
   gem 'rouge'
-  
-  
-source "http://rubygems.org"
-
-gem 'mail'
-gem 'nokogiri'
-#gem 'grit'  
+  gem 'mail'
+  gem 'nokogiri'
+  #gem 'grit'  
   
 end
