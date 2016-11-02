@@ -24,3 +24,13 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist,jekyll-sitemap]
+
+jekyll_repo: /home/username/workspace/jekyll_test_site
+  source_dir: /home/username/workspace/jekyll_test_site/source
+  pop_server: mail.example.com
+  pop_user: jekyllmail@example.com
+  pop_password: password_here
+  secret: jekyllmail
+  markup: markdown
+  site_url: http://blog.example.com
+  commit_after_save: false
