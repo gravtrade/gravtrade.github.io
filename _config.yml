@@ -27,7 +27,7 @@ gems: [jekyll-paginate, jekyll-gist,jekyll-sitemap]
 
 blogs: 
 - jekyll_repo: /
-  source_dir: https://github.com/gravtrade/JekyllMail
+  source_dir: /
   pop_server: pop.gmail.com
   pop_user: h798506@gmail.com
   pop_password: Mqy9kn7p
