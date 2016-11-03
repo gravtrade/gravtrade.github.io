@@ -1,7 +1,7 @@
 [
 	{
 		"name": "EURUSD",
-		"image": "http://eurofutures.net16.net/wp-content/eurusdchart/EURUSD.gif",
+		"image": "eurofutures.net16.net/wp-content/eurusdchart/EURUSD.gif",
 		"url": "#",
 		"date": "Nov 2016",
 		"tags": ["MT4","API"]
