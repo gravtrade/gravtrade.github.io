@@ -16,6 +16,11 @@
     "icon": "fa-gears"
   },
   {
+    "text": "Chart",
+    "url": "/charting/",
+    "icon": "fa-area-chart"
+  },
+  {
     "text": "Contact Us",
     "url": "/contact",
     "icon": "fa-send"
