@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Charting
-permalink: /about/
+permalink: /charting/
 ---
 
 **EURUSD Chart**
