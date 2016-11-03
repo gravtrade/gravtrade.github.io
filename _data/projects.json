@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
+		"name": "EURUSD",
+		"image": "http://eurofutures.net16.net/wp-content/eurusdchart/EURUSD.gif",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "Nov 2016",
+		"tags": ["MT4","API"]
 	},
 	{
 		"name": "Cool project 2",
