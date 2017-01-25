@@ -6,9 +6,11 @@ layout: post
 tags:
   - trading
   - strategy
-title: 'How To Trade For Living - Make Millions With Easy Step'
+title: 'How To Trade For Living - What You Need To Know'
 ---
-# Successfull Trader
+# What is FOREX?
+
+FOREX is a short term of Foreign Currency Exchange. It represent a currency value of each country bank note. 
 
 ## Follow these rule below;
 
