@@ -1,11 +1,11 @@
 ---
 categories:
+  - forex
   - trading
-  - strategy
 layout: post
 tags:
+  - forex
   - trading
-  - strategy
 title: 'What is FOREX - What You Need To Know'
 ---
 # What is FOREX?
