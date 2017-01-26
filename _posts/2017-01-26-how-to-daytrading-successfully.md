@@ -6,11 +6,13 @@ layout: post
 tags:
   - trading
   - strategy
-title: 'How To Trade For Living - What You Need To Know'
+title: 'What is FOREX? - What You Need To Know'
 ---
 # What is FOREX?
 
-FOREX is a short term of Foreign Currency Exchange. It represent a currency value of each country bank note, which a non-centralized market because each exchange or banks offering their own price to other market participants. Therefore you will find that the currency value are slightly differ between your broker to other broker.
+FOREX or FX is a short term of Foreign Currency Exchange. It represent a currency value of each country bank note, which a non-centralized market because each large financial institution (banks, exchange)  offering their own price to other market participants. Therefore you will find that the currency value are slightly differ between your broker to other broker.
+
+Forex exchange is the largest financial market in the world with around $5.3 TRILLION a day trade volume that makes it the most exciting market compared to other financial market.
 
 ## How Trader Make Profit Out of FOREX Trading
 
