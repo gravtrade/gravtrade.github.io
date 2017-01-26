@@ -6,7 +6,7 @@ layout: post
 tags:
   - trading
   - strategy
-title: 'What is FOREX? - What You Need To Know'
+title: 'What is FOREX - What You Need To Know'
 ---
 # What is FOREX?
 
