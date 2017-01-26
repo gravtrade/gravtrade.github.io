@@ -13,7 +13,6 @@ title: 'What is FOREX - What You Need To Know'
 <div align="center">
 <img alt="What is FOREX" src="/static/img/general-image/what-is-forex.jpg" title="What is FOREX" >
 </div>
-</br>
 
 In this post we will explain what is FOREX or FX means and what you need to know about it. FOREX or FX is a short term of Foreign Currency Exchange. It represent a currency value of each country bank note, which a non-centralized market because each large financial institution (banks, exchange)  offering their own price to other market participants. Therefore you will find that the currency value are slightly differ between your broker to other broker.
 
