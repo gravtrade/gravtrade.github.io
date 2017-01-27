@@ -6,7 +6,7 @@ layout: post
 tags:
   - forex
   - trading
-title: 'What is FOREX - What You Need To Know'
+title: 'What is FOREX - How it makes you money'
 ---
 # What is FOREX?
 
