@@ -379,8 +379,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 </div>
 
 
-<p>
-### Bonus and Rebate Sources
+## Bonus and Rebate Sources
 
 USD4000 <a href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html">Pepperstone Bonus</a>
 <br>
@@ -396,7 +395,6 @@ USD2 <a href="http://www.gravtrade.com/icmarkets/rebate/2016/10/04/ic-markets-re
 <br>
 USD30 <a href="http://www.gravtrade.com/tickmill/bonus/2016/10/25/tickmill-no-deposit-bonus.html">Tickmill No Deposit Bonus</a>
 
-</p>
 
 
 
