@@ -376,7 +376,7 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
     <meta itemprop="name" content="www.GravTrade.com">
   </div>
 </div>
-
+</div>
 
 
 <p>
