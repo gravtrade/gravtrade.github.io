@@ -378,7 +378,6 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 </div>
 
 
-<div align="center">
 
 <p>
 ### Bonus and Rebate Sources
@@ -399,9 +398,7 @@ USD30 <a href="http://www.gravtrade.com/tickmill/bonus/2016/10/25/tickmill-no-de
 
 </p>
 
-</div>
 
-</div>
 
 ## Breaking Down Forex Broker Review
 
