@@ -9,13 +9,12 @@ categories:
   - rebate
 ---
 # Pepperstone Rebate USD1 From GravTrade - Edge Razor Account.
-> Please note that this Pepperstone [rebate](http://www.gravtrade.com/bonus-and-rebates/ "rebate") only offered under GravTrade, that you will never get this offer on Pepperstone broker site.
+> Please note that this [Pepperstone rebate](http://www.gravtrade.com/bonus-and-rebates/ "Pepperstone rebate") only offered under GravTrade, that you will never get this offer on Pepperstone broker site.
 
 <div align="center">
 <img alt="Pepperstone Rebate" src="/static/img/general-image/pepperstone-edge-razor-account.PNG" title="Pepperstone Rebate">
 </div>
 
-If you looking for **Pepperstone Rebate USD4 Edge Standard Account**, go [Here](http://www.gravtrade.com/pepperstone/rebate/2016/09/18/pepperstone-rebate-edge-standard.html "EPepperstone Rebate USD4 Edge Standard Account").
 
 As a Forex Trader, reducing your trading cost is a part of the game. To get in and out in market, you need to pay sum ammount of commission to your Forex Broker (this is how they run their business) and this would reduce your profits if you closing position on profit or adding to your risk if you on loosing side. By applying to our **Pepperstone Rebate**, you could get back sum of the ammount that you paid to broker!
 
