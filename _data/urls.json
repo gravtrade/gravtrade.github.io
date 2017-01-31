@@ -11,7 +11,7 @@
     "icon": "fa-info"
   },
   {
-    "text": "Our Projects",
+    "text": "Projects",
     "url": "/projects",
     "icon": "fa-gears"
   },
@@ -21,7 +21,7 @@
     "icon": "fa-area-chart"
   },
   {
-    "text": "Contact Us",
+    "text": "Contact",
     "url": "/contact",
     "icon": "fa-send"
   },
@@ -31,7 +31,7 @@
     "icon": "fa-euro"
   },
   {
-    "text": "XML Feed",
+    "text": "Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
