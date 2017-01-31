@@ -9,7 +9,7 @@ categories:
   - rebate
 ---
 # IC Markets Rebate USD4 From GravTrade - Standard Account.
-> Please note that this IC Markets [rebate](http://www.gravtrade.com/bonus-and-rebates/ "rebate") only offered under GravTrade, that you will never get this offer on IC Markets broker site.
+> Please note that this [IC Markets rebate](http://www.gravtrade.com/bonus-and-rebates/ "IC Markets rebate") only offered under GravTrade, that you will never get this offer on IC Markets broker site.
 
 <div align="center">
 <img alt="IC Markets Rebate" src="/static/img/general-image/ic-markets-rebate.PNG" title="IC Markets Rebate">
