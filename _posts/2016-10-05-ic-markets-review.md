@@ -57,8 +57,8 @@ Former State/Territory:
 <div align="center">
 
 <p>
-  <a href="http://www.gravtrade.com/icmarkets/bonus/2016/10/04/ic-markets-bonus.html">
-  <button type="button" class="btn btn-primary btn-lg btn-block">Get $4000 IC Markets Bonus Now!</button></a>
+  Get $4000 <a href="http://www.gravtrade.com/icmarkets/bonus/2016/10/04/ic-markets-bonus.html">
+  <button type="button" class="btn btn-primary btn-lg btn-block">IC Markets Bonus</button></a> Now!
 </p>
 
 </div>
