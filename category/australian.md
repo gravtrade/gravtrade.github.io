@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: australian broker
-title: Australian Broker
+categories: australian
+title: Australian
 permalink: /category/australian
 ---
