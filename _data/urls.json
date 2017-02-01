@@ -26,11 +26,6 @@
     "icon": "fa-send"
   },
   {
-    "text": "Bonus",
-    "url": "/bonus-and-rebates/",
-    "icon": "fa-euro"
-  },
-  {
     "text": "Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
