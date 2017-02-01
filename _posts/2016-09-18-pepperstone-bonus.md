@@ -9,7 +9,7 @@ categories:
   - bonus
 ---
 # Pepperstone Bonus $4000 From GravTrade
-> Please note that this [Pepperstone bonus](http://www.gravtrade.com/bonus-and-rebates/ "Pepperstone bonus") only offered under GravTrade, that you will never get this offer on Pepperstone broker site.
+> Please note that this [Pepperstone bonus](http://www.gravtrade.com/bonus-and-rebates/ "Pepperstone bonus") only offered under GravTrade, that you will never get this offer on [Pepperstone broker](http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html "Pepperstone broker") site.
 
 <div align="center">
 <div itemscope itemtype="http://schema.org/Review">
@@ -36,7 +36,7 @@ Get $4000 **Pepperstone Bonus** with us and this is the highest bonus ever you c
 
 ## Breaking down Forex bonus
 
-Trading bonus is the amount of money that you get from you trading broker or external party (in this case GravTrade as an IB) after you comply certain of requirements. The money came from trading commission that you pay to broker every time you open and closed your trade calculated in "Round Trip". By getting bonus from GravTrade, you could earn maximum USD4000 each month.
+Trading bonus is the amount of money that you get from your [forex broker](http://www.gravtrade.com/category/review "Forex Broker") or external party (in this case GravTrade as an IB) after you comply certain of requirements. The money came from trading commission that you pay to broker every time you open and closed your trade calculated in "Round Trip". By getting bonus from GravTrade, you could earn maximum USD4000 each month.
 
 ## Reduce your trading cost
 
