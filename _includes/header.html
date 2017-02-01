@@ -31,23 +31,15 @@
             </p>
                 
                 <hr /><p><font color="#ffffff">Search by categories</font></p>
-    {% for category in site.categories %}
-        {% capture category_slug %}{{ category | first }}{% endcapture %}
-        {% for c_slug in category_slug %}
-            {% if c_slug == page.categories %}
-                <button class="btn btn-sm btn-primary btn-raised">{{ c_slug }}</button>
-            {% else %}
-                <a href="{{ site.url }}/category/{{ c_slug }}" class="btn btn-sm btn-default btn-raised">{{ c_slug }}</a>
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
+    
                 <p><a href="{{ site.url }}/pepperstone/bonus/2016/09/18/pepperstone-bonus.html" class="btn btn-sm btn-default btn-raised">Pepperstone bonus</a>
                    <a href="{{ site.url }}/forex/broker/review/2016/10/07/forex-broker-review.html" class="btn btn-sm btn-default btn-raised">Best forex broker review 2017</a>
                    <a href="{{ site.url }}/icmarkets/bonus/2016/10/04/ic-markets-bonus.html" class="btn btn-sm btn-default btn-raised">IC Markets Bonus</a>
                    <a href="{{ site.url }}/forex/trading/2017/01/26/what-is-forex.html" class="btn btn-sm btn-default btn-raised">What is forex</a>
                    <a href="{{ site.url }}/tickmill/bonus/2016/10/25/tickmill-no-deposit-bonus.html" class="btn btn-sm btn-default btn-raised">Forex no deposit bonus</a>
                    <a href="{{ site.url }}/bonus-and-rebates/" class="btn btn-sm btn-default btn-raised">Forex bonus</a>
-                   <a href="{{ site.url }}/category/review" class="btn btn-sm btn-default btn-raised">Forex broker reviews</a></p>
+                   <a href="{{ site.url }}/category/review" class="btn btn-sm btn-default btn-raised">Forex broker reviews</a>
+                   <a href="{{ site.url }}/category/review" class="btn btn-sm btn-default btn-raised">Forex broker</a></p>
     <hr />
                 
           </div>
