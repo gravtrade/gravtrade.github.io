@@ -1,10 +1,14 @@
 ---
 categories:
   - globalprime
+  - forex
+  - broker
   - review
 layout: post
 tags:
   - globalprime
+  - forex
+  - broker
   - review
 title: 'Global Prime Review'
 ---
