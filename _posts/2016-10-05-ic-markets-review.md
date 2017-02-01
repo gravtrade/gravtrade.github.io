@@ -1,10 +1,14 @@
 ---
 categories:
   - icmarkets
+  - forex
+  - broker
   - review
 layout: post
 tags:
   - icmarkets
+  - forex
+  - broker
   - review
 title: 'IC Markets Review'
 ---
