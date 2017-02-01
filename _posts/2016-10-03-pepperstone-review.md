@@ -1,10 +1,14 @@
 ---
 categories:
   - pepperstone
+  - forex
+  - broker
   - review
 layout: post
 tags:
   - pepperstone
+  - forex
+  - broker
   - review
 title: 'Pepperstone Review'
 ---
