@@ -1,10 +1,14 @@
 ---
 categories:
   - tickmill
+  - forex
+  - broker
   - review
 layout: post
 tags:
   - tickmill
+  - forex
+  - broker
   - review
 title: 'Tickmill Review'
 ---
