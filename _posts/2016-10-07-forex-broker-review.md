@@ -400,12 +400,12 @@ USD30 <a href="http://www.gravtrade.com/tickmill/bonus/2016/10/25/tickmill-no-de
 
 ## Breaking Down Forex Broker Review
 
-<a href="http://www.gravtrade.com/pepperstone/review/2016/10/03/pepperstone-review.html">Pepperstone Review</a>
+<a href="http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html">Pepperstone Review</a>
 <br>
-<a href="http://www.gravtrade.com/icmarkets/review/2016/10/05/ic-markets-review.html">IC Markets Review</a>
+<a href="http://www.gravtrade.com/icmarkets/forex/broker/review/2016/10/05/ic-markets-review.html">IC Markets Review</a>
 <br>
-<a href="http://www.gravtrade.com/globalprime/review/2016/01/01/globalprime-review.html">Global Prime Review</a>
+<a href="http://www.gravtrade.com/globalprime/forex/broker/review/2016/01/01/globalprime-review.html">Global Prime Review</a>
 <br>
-<a href="http://www.gravtrade.com/tickmill/review/2016/01/01/tickmill-review.html">Tickmill Review</a>
+<a href="http://www.gravtrade.com/tickmill/forex/broker/review/2016/01/01/tickmill-review.html">Tickmill Review</a>
 <br>
 
