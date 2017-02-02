@@ -23,7 +23,7 @@ If you trade 3000 standard lot monthly and the commission was USD7 per lot, your
 Follow steps below:
 
 1. Sign up **Pepperstone Edge Razor Account** through our <a href="https://pepperstone.com/?a_aid=pro" rel="nofollow">Pepperstone rebate</a> campaign and you will get USD1 for every 1 Standard Lot traded.
-2. If you already have **Pepperstone Edge Razor Account**, you need to email [Pepperstone broker](http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html "Pepperstone broker") support team and ask them to put you under our IB id (pro) or provide them this link (https://pepperstone.com/?a_aid=pro) into your mail.
+2. If you already have **Pepperstone Edge Razor Account**, you need to email [Pepperstone broker](http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html "Pepperstone broker") support team and ask them to put you under our IB id (pro) or provide them this link https://pepperstone.com/?a_aid=pro into your mail.
 3. <a href="http://www.gravtrade.com/contact" rel="nofollow">Email</a> us to claim your rebate.
 
 <small><a href="http://www.gravtrade.com/term-and-condition/" rel="nofollow">*Term and condition applied</a></small>
