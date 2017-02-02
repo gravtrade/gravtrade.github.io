@@ -11,16 +11,6 @@
     "icon": "fa-info"
   },
   {
-    "text": "Tools",
-    "url": "/projects",
-    "icon": "fa-gears"
-  },
-  {
-    "text": "Chart",
-    "url": "/charting/",
-    "icon": "fa-area-chart"
-  },
-  {
     "text": "Mail",
     "url": "/contact",
     "icon": "fa-send"
