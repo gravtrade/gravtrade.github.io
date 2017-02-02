@@ -33,7 +33,7 @@ title: 'Global Prime Review'
   <dt>First Deposit</dt><dd>$500</dd>
   <dt>Platform</dt><dd>Metatrader 4 (MT4), FIX API.</dd>
   <dt>Broker Country</dt><dd>Australia.</dd>
-  <dt>Regulation</dt><dd><a href="http://www.gravtrade.com/australian/regulator/2016/01/01/asic.html">ASIC</a>, AFSL no.385620, ABN 74 146 086 017.</dd>
+  <dt>Regulation</dt><dd><a href="http://www.gravtrade.com/australian/regulator/2016/01/01/asic.html" rel="nofollow">ASIC</a>, AFSL no.385620, ABN 74 146 086 017.</dd>
   <dt>24/5 Trading</dt><dd>Yes.</dd>
   <dt>Contact</dt><dd>forex@globalprime.com.au</dd>
   <dt>Head Office Address</dt><dd>Level 27, 25 Bligh Street, Sydney NSW 2000, Australia.</dd>
