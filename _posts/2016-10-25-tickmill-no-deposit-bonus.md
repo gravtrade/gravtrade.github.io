@@ -48,5 +48,5 @@ While getting in and out on any market instrument you need to pay sum amount of 
 ## How to register?
 Follow steps below:
 
-- Sign up **Tickmill Account** through our IB [Here](https://secure.tickmill.com/redirect/index.php?cii=5339&cis=1&lp=https://tickmill.com/promotions/welcome-account/ "Here").
+- Sign up **Tickmill Account** through our <a href="https://secure.tickmill.com/redirect/index.php?cii=5339&cis=1&lp=https://tickmill.com/promotions/welcome-account/" rel="nofollow">Tickmill no deposit bonus</a> campaign.
 
