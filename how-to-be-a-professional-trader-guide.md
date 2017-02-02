@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'How to be a professional trader - Learn how pros make millions of money'
 tags:
   
