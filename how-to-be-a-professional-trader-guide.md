@@ -17,7 +17,9 @@ Whats included?
 <div align="center">
 <img alt="Pepperstone Rebate" src="/static/img/general-image/How-To-Be-a-Pro-Trader-in-1-Day.jpg" title="How to be a professional trader">
 
-
+<br><br>
+75$ only! (Limited Offer!)
+<br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7SAXUHDCGSYLG">
