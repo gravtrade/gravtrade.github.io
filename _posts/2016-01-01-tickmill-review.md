@@ -33,7 +33,7 @@ title: 'Tickmill Review'
   <dt>First Deposit</dt><dd>$25</dd>
   <dt>Platform</dt><dd>Metatrader 4 (MT4), Web Trader.</dd>
   <dt>Broker Country</dt><dd>Seychelles.</dd>
-  <dt>Regulation</dt><dd><a href="http://www.gravtrade.com/fsa/regulator/2016/01/01/fsa.html">FSA</a> SD008.</dd>
+  <dt>Regulation</dt><dd><a href="http://www.gravtrade.com/fsa/regulator/2016/01/01/fsa.html" rel="nofollow">FSA</a> SD008.</dd>
   <dt>24/5 Trading</dt><dd>Yes.</dd>
   <dt>Contact</dt><dd>support@tickmill.com</dd>
   <dt>Head Office Address</dt><dd>Office 3, F28 Eden Plaza, Eden Island, Mahe, Seychelles.</dd>
