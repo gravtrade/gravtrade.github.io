@@ -12,7 +12,13 @@ categories:
 ---
 # Best Forex Broker Review 2017 UPDATED
 
-<div id="adBottom">
+<div id="adMobileBottom">
+<div class="alert alert-success">
+  mapet hensem! 
+</div>
+</div>
+
+<div id="adDesktopBottom">
 <div class="alert alert-success">
   mapet hensem! 
 </div>
