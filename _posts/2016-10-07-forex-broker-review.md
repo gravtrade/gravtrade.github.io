@@ -50,7 +50,7 @@ Spreads should be in variable floats (Non-Fixed spread) because the bid and ask 
 **Now lets pick some list of lowest spread forex broker on Myfxbook**
 
 <div align="center">
-<img src="/static/img/general-image/broker-raw-spread.png" alt="Forex broker reviews 2016" title="Forex broker reviews 2016"/>
+<img src="/static/img/general-image/broker-raw-spread.png" alt="Best Forex broker review 2017" title="Best Forex broker review 2017"/>
 </div><br><br>
 
 **Look at their average spread one by one**
@@ -58,84 +58,84 @@ Spreads should be in variable floats (Non-Fixed spread) because the bid and ask 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">IC Markets</span>
-<img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="IC Markets" title="IC Markets"/>
+<img src="/static/img/general-image/icmarkets-average-spread.PNG" alt="IC Markets broker review" title="IC Markets broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Tradeview Markets</span>
-<img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Tradeview Markets" title="Tradeview Markets"/>
+<img src="/static/img/general-image/tradeview-markets-average-spread.PNG" alt="Tradeview Markets broker review" title="Tradeview Markets broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">GDMFX</span>
-<img src="/static/img/general-image/gdmfx-average-spread.PNG" alt="GDMFX" title="GDMFX"/>
+<img src="/static/img/general-image/gdmfx-average-spread.PNG" alt="GDMFX broker review" title="GDMFX broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">GBEbrokers</span>
-<img src="/static/img/general-image/gbebrokers-average-spread.PNG" alt="GBEbrokers" title="GBEbrokers"/>
+<img src="/static/img/general-image/gbebrokers-average-spread.PNG" alt="GBEbrokers broker review" title="GBEbrokers broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Pepperstone</span>
-<img src="/static/img/general-image/pepperstone-average-spread.PNG" alt="Pepperstone" title="Pepperstone"/>
+<img src="/static/img/general-image/pepperstone-average-spread.PNG" alt="Pepperstone broker review" title="Pepperstone broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">XM</span>
-<img src="/static/img/general-image/xm-average-spread.PNG" alt="XM" title="XM"/>
+<img src="/static/img/general-image/xm-average-spread.PNG" alt="XM broker review" title="XM broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">JFD Brokers</span>
-<img src="/static/img/general-image/jfdbrokers-average-spread.PNG" alt="JFD Brokers" title="JFD Brokers"/>
+<img src="/static/img/general-image/jfdbrokers-average-spread.PNG" alt="JFD broker review" title="JFD broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Darwinex</span>
-<img src="/static/img/general-image/darwinex-average-spread.PNG" alt="Darwinex" title="Darwinex"/>
+<img src="/static/img/general-image/darwinex-average-spread.PNG" alt="Darwinex broker review" title="Darwinex broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">ADS Securities London</span>
-<img src="/static/img/general-image/ads-securities-average-spread.PNG" alt="ADS Securities London" title="ADS Securities London"/>
+<img src="/static/img/general-image/ads-securities-average-spread.PNG" alt="ADS Securities broker review" title="ADS Securities broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Vipro Markets</span>
-<img src="/static/img/general-image/vipro-average-spread.PNG" alt="Vipro Markets" title="Vipro Markets"/>
+<img src="/static/img/general-image/vipro-average-spread.PNG" alt="Vipro Markets broker review" title="Vipro Markets broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">Tickmill</span>
-<img src="/static/img/general-image/tickmill-average-spread.PNG" alt="Tickmill" title="Tickmill"/>
+<img src="/static/img/general-image/tickmill-average-spread.PNG" alt="Tickmill broker review" title="Tickmill broker review"/>
 </div></div>
 <br>
 
 <div class="panel panel-primary">
 <div class="panel-body">
 <span class="label label-primary">FXCM</span>
-<img src="/static/img/general-image/fxcm-average-spread.PNG" alt="FXCM" title="FXCM"/>
+<img src="/static/img/general-image/fxcm-average-spread.PNG" alt="FXCM broker review" title="FXCM broker review"/>
 </div></div>
 <br><br>
 
@@ -365,8 +365,8 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 <div align="center">
 <div itemscope itemtype="http://schema.org/Review">
   <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/FinancialProduct">
-    <img itemprop="image" src="/static/img/broker-logo/pepperstone.jpg" alt="Trade with top tier banks and institutionals"/>
-    <br><span itemprop="name">Pepperstone Forex Broker</span>
+    <img itemprop="image" src="/static/img/broker-logo/pepperstone.jpg" alt="Best forex broker review"/>
+    <br><span itemprop="name">Best forex broker review</span>
   </div>
   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
     <span itemprop="ratingValue">5</span>
