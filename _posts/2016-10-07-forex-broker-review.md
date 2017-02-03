@@ -10,7 +10,7 @@ categories:
   - broker
   - review
 ---
-# Best Forex Broker Review 2016
+# Best Forex Broker Review 2017 UPDATED
 
 Summary: You will find the best forex broker review on the planet based on our observation to give you in depth insight before you decide which broker to trade with.
 
