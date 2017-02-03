@@ -20,7 +20,7 @@ categories:
 
 <div id="adDesktopBottom">
 <div class="alert alert-success">
-  mapet hensem! 
+  mapet hensem! ! !
 </div>
 </div>
 
