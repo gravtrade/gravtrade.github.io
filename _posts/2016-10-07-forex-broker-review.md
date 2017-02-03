@@ -21,7 +21,7 @@ categories:
 <div id="adDesktopBottom">
 <div class="alert alert-info">
 <button type="button" class="close" data-dismiss="alert">&times;</button>
-<h4>ProTips!</h4>
+<h4><span class="label label-success">ProTips!</span></h4>
   Learn how to trade successfully by following professional trader strategy
 </div>
 </div>
