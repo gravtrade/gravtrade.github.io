@@ -12,7 +12,11 @@ categories:
 ---
 # Best Forex Broker Review 2017 UPDATED
 
-<div id="adBottom"> your ads code here </div>
+<div id="adBottom">
+<div class="alert alert-success">
+  mapet hensem! 
+</div>
+</div>
 
 Summary: You will find the best forex broker review on the planet based on our observation to give you in depth insight before you decide which broker to trade with.
 
