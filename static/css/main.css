@@ -175,16 +175,7 @@ footer {
 }
 
 
-@media only screen and (min-width: 310px) and (max-width:500px) {
-#adMobileBottom {
-left:0;
-position: fixed;
-text-align:center;
-bottom: 0px;
-width:100%;
-z-index:999;
-}
-}
+
 
 @media only screen and (min-width: 310px) and (max-width:500px) {
 #adMobileBottom {
