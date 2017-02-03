@@ -14,13 +14,7 @@ categories:
 
 
 
-<div id="adDesktopBottom">
-<div class="alert alert-info">
-<button type="button" class="close" data-dismiss="alert">&times;</button>
-<h4><span class="label label-success">ProTips!</span></h4>
-  Learn how to trade successfully by following professional trader strategy
-</div>
-</div>
+
 
 Summary: You will find the best forex broker review on the planet based on our observation to give you in depth insight before you decide which broker to trade with.
 
@@ -404,3 +398,13 @@ Regulators act as a third party ensures that the Forex Broker remains committed 
 <a href="http://www.gravtrade.com/tickmill/forex/broker/review/2016/01/01/tickmill-review.html">Tickmill Review</a>
 <br>
 
+
+
+
+<div id="adDesktopBottom">
+<div class="alert alert-info">
+<button type="button" class="close" data-dismiss="alert">&times;</button>
+<h4><span class="label label-success">ProTips!</span></h4>
+  Learn how to trade successfully by following professional trader strategy
+</div>
+</div>
