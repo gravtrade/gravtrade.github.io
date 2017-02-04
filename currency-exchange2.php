@@ -1,21 +1,13 @@
+<php $json = file_get_contents('http://apilayer.net/api/live?access_key=6569f27ce6a4c309c0027288f3ded2c6&currencies=USD,AUD,CAD,PLN,MXN&format=1');
 
-<!DOCTYPE html>
-<html>
+$data = json_decode($json,true);
 
-<body>
+$Geonames = $data['quotes'][0];
 
-<h2>Request JSON using the script tag</h2>
-<p>The PHP file returns a call to a function that will handle the JSON data.</p>
+echo "<pre>";
 
-<p id="demo"></p>
+print_r($Geonames);
 
-<script>
-function myFunc(myObj) {
-  document.getElementById("demo").innerHTML = myObj.quotes;
-}
-</script>
-
-<script src="http://www.gravtrade.com/currency-exchange1.php"></script>
-
-</body>
-</html>
+exit;
+     
+     ?>
