@@ -17,14 +17,14 @@
  
 <script>
 (function() {
-  var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
-  $.getJSON( flickerAPI, {
+  var quotes = "http://apilayer.net/api/live?access_key=6569f27ce6a4c309c0027288f3ded2c6&currencies=USD,AUD,CAD,PLN,MXN&format=1";
+  $.getJSON( quotes, {
     tags: "mount rainier",
     tagmode: "any",
     format: "json"
   })
     .done(function( data ) {
-      $.each( data.items, function( i, item ) {
+      $.each( data.USDAUD, function( i, USDAUD ) {
         $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
         if ( i === 3 ) {
           return false;
