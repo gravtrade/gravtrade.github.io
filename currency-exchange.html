@@ -1,38 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>jQuery.getJSON demo</title>
-  <style>
-  img {
-    height: 100px;
-    float: left;
-  }
-  </style>
-  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-</head>
-<body>
- 
-<div id="images"></div>
- 
-<script>
-(function() {
-  var quotes = "http://apilayer.net/api/live?access_key=6569f27ce6a4c309c0027288f3ded2c6&currencies=USD,AUD,CAD,PLN,MXN&format=1";
-  $.getJSON( quotes, {
-    tags: "mount rainier",
-    tagmode: "any",
-    format: "json"
-  })
-    .done(function( data ) {
-      $.each( data.USDAUD, function( i, USDAUD ) {
-        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
-        if ( i === 3 ) {
-          return false;
-        }
-      });
-    });
-})();
-</script>
- 
-</body>
-</html>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myArr = JSON.parse(this.responseText);
+        document.getElementById("demo").innerHTML = myArr[0];
+    }
+};
+xmlhttp.open("GET", "http://apilayer.net/api/live?access_key=6569f27ce6a4c309c0027288f3ded2c6&currencies=USD,AUD,CAD,PLN,MXN&format=1", true);
+xmlhttp.send();
