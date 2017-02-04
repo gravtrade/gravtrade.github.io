@@ -1,4 +1,4 @@
-<?php include 'currency-exchange1.php';?>
+
 <!DOCTYPE html>
 <html>
 
@@ -15,7 +15,7 @@ function myFunc(myObj) {
 }
 </script>
 
-<script src="currency-exchange1.php"></script>
+<script src="http://www.gravtrade.com/currency-exchange1.php"></script>
 
 </body>
 </html>
