@@ -2,9 +2,9 @@ $json = file_get_contents('http://apilayer.net/api/live?access_key=6569f27ce6a4c
 
 $array = json_decode($json);
 
-$urlquotes=array();
+$quotes=array();
 foreach ($array as $value) { 
-    $urlquotes[]=$value->urlquotes;
+    $quotes[]=$value->quotes;
 }
 
-print_r($urlquotes);
+print_r($quotes);
