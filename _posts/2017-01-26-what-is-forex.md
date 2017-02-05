@@ -17,7 +17,7 @@ title: 'What is FOREX - How it makes you money'
 <br>
 In this post we will explain what is <span class="label label-info">FOREX</span> or FX means and what you need to know about it. FOREX or FX is a short term of <span class="label label-success">Foreign Currency Exchange</span>. It represent a currency value of each country bank note, which a non-centralized market because each large financial institution (banks, exchange)  offering their own price to other market participants. Therefore you will find that the currency value are slightly differ between your broker to other broker.
 
-<div class="alert alert-block">
+<div class="alert alert-block" role="alert">
 Forex exchange is the largest financial market in the world with around $5.3 TRILLION a day trade volume that makes it the most exciting market compared to other financial market.
 </div>
 
