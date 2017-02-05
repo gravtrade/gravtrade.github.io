@@ -34,7 +34,7 @@ To make money trough forex market, you need <a href="http://www.gravtrade.com/ho
 <li>Swing Trader</li>
 
 ### What do you need to be a forex trader
-<br><span class="badge badge-info">1</span>Proper mindset - Trading is a serious business.</br>
+<span class="badge badge-info">1</span>Proper mindset - Trading is a serious business.
 <br><span class="badge badge-info">2</span>Discipline - Honest to yourself, plan your trade and trade your plan.</br>
 <br><span class="badge badge-info">3</span>Never mixed things up - Stick to one trading strategy, choose trading strategy that suits you.</br>
 <br><span class="badge badge-info">4</span>Timing your trade - Comply your trading setups, enter/exit properly.</br>
