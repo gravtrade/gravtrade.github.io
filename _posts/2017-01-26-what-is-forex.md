@@ -15,13 +15,16 @@ title: 'What is FOREX - How it makes you money'
 </div>
 
 <br>
-In this post we will explain what is FOREX or FX means and what you need to know about it. FOREX or FX is a short term of Foreign Currency Exchange. It represent a currency value of each country bank note, which a non-centralized market because each large financial institution (banks, exchange)  offering their own price to other market participants. Therefore you will find that the currency value are slightly differ between your broker to other broker.
+In this post we will explain what is <span class="label label-info">FOREX</span> or FX means and what you need to know about it. FOREX or FX is a short term of <span class="label label-success">Foreign Currency Exchange</span>. It represent a currency value of each country bank note, which a non-centralized market because each large financial institution (banks, exchange)  offering their own price to other market participants. Therefore you will find that the currency value are slightly differ between your broker to other broker.
 
+<div class="alert alert-block">
 Forex exchange is the largest financial market in the world with around $5.3 TRILLION a day trade volume that makes it the most exciting market compared to other financial market.
+</div>
+
 
 ## How Trader Make Profit Out of FOREX Trading
 
-Summary - Trader is a person/institutional firm who make money out of price fluctuation.
+> Summary - Trader is a person/institutional firm who make money out of price fluctuation.
 
 Example - Alex is a trader of its own trading account. He think that EURO currency versus DOLLAR will climb from 1.13456 to 1.13556 (10pips) and decided to buy with 0.1 standard lot (1dollar/pip move). If the price goes to his prediction, he will earn 10 dollar but if the price fall to 10pips he will loose 10 dollar.
 
