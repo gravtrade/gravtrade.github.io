@@ -2,3 +2,5 @@ _site/
 _posts/
 category/
 *~
+
+particles.min.js
