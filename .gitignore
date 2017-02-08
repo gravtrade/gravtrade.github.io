@@ -3,7 +3,4 @@ _posts/
 category/
 *~
 
-.DS_Store
-node_modules/*
-Gruntfile.js
-package.json
+
