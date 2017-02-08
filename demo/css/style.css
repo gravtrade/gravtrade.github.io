@@ -69,18 +69,20 @@ body {
 }
 
 #particles {
-/*  width: 100%;
-  height: 100%; */
+  width: 100%;
+  height: 100%; 
   overflow: hidden;
 }
 
 #intro {
-  position: absolute;
+  width: 100%;
+  height: 100%;
+/*  position: absolute;
   left: 0;
   top: 50%;
   padding: 0 20px;
   width: 100%;
-  text-align: center;
+  text-align: center; */
 }
 h1 {
   text-transform: uppercase;
