@@ -28,10 +28,17 @@ Example - Alex is a trader of its own trading account. He think that EURO curren
 
 To make money trough forex market, you need <a href="http://www.gravtrade.com/how-to-be-a-professional-trader-guide">best trading strategy</a> and you need to discipline yourself in order to achieve you goals.
 
-### Types of Forex Trader
-<li>Scalper</li>
-<li>Day Trader</li>
-<li>Swing Trader</li>
+### Types of Forex Trading Strategy
+<li>Scalping Trading</li>
+<li>Day Trading Strategy</li>
+<li>Swing Trading Strategy</li>
+<li>Mean Reversion Trading Strategy</li>
+<li>Market Making Trading Strategy</li>
+<li>Price Action Trading Strategy</li>
+<li>Pullback Trading Strategy</li>
+<li>Hedging Trading Strategy</li>
+<li>Martingale Trading Strategy</li>
+<li>News Trading Strategy</li>
 
 ### What do you need to be a forex trader
 <span class="badge badge-info">1</span>Proper mindset - Trading is a serious business.
