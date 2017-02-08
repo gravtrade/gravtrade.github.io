@@ -3,4 +3,7 @@ _posts/
 category/
 *~
 
-particles.min.js
+.DS_Store
+node_modules/*
+Gruntfile.js
+package.json
