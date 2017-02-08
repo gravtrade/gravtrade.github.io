@@ -3,10 +3,8 @@
   <head>
     {% include meta.html %}
       <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
-   <!--   {% include css.html %}  -->
+      {% include css.html %}  
     
-  <link rel="stylesheet" href="css/style.css" />
-  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
   <!-- remember, jQuery is completely optional -->
   <!-- <script type='text/javascript' src='js/jquery-1.11.1.min.js'></script> -->
   <script type='text/javascript' src='../jquery.particleground.js'></script>
@@ -15,7 +13,11 @@
   </head>
 
   <body class="home overflow-hidden">
+    <div id="particles">
+  <div id="intro">
     {% include header.html %}
+    </div>
+</div>
     {% include main.html %}
     {% include js.html %}
     {% include analytics.html %}
