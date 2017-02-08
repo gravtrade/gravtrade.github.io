@@ -1,6 +1,6 @@
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: #111111;
+    background-color: transparent;
     padding: 50px 0 15px 0;
     width: 100%;
 }
