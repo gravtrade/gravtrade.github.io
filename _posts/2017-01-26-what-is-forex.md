@@ -30,6 +30,7 @@ To make money trough forex market, you need <a href="http://www.gravtrade.com/ho
 
 ### Types of Forex Trading Strategy
 <li>Scalping Trading</li>
+  - Scalp trader normally get in and out the forex market within short period of time to make profit from short price movement. They trade aggressively with tight risk management.
 <li>Day Trading Strategy</li>
 <li>Swing Trading Strategy</li>
 <li>Mean Reversion Trading Strategy</li>
