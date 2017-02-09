@@ -17,6 +17,10 @@ title: 'What is FOREX - How it makes you money'
 <br>
 In this post we will explain what is <span class="label label-info">FOREX</span> or FX means and what you need to know about it. FOREX or FX is a short term of <b>Foreign Currency Exchange</b>. It represent a currency value of each country bank note, which a non-centralized market because each large financial institution (banks, exchange)  offering their own price to other market participants. Some people may refer to currency exchange rate when they travel to other country or when they want to send money to receiver from different country. As a forex trader you will find that the currency value are slightly differ between your broker to other broker due to commission markups.
 
+<div align="center">
+<img alt="Foreign currency exchange" src="/static/img/general-image/foreign-currency-exchange.jpg" title="Foreign currency exchange" >
+</div>
+
 Forex exchange is the largest financial market in the world with around $5.3 TRILLION a day trade volume that makes it the most exciting market compared to other financial market and operated 24 hours on every weekdays.
 
 
@@ -30,7 +34,8 @@ To make money trough forex market, you need <a href="http://www.gravtrade.com/ho
 
 ### Types of Forex Trading Strategy
 <li>Scalping Trading</li>
-  - Scalping is a trading strategy that trader normally get in and out the forex market within short period of time to make profit on small price movement. They trade aggressively with tight risk management.
+  - Scalping technique is a trading strategy that trader normally get in and out the forex market within short period of time to make profit on small or sudden price movement. They trade aggressively with tight risk management.
+  
 <li>Day Trading Strategy</li>
 <li>Swing Trading Strategy</li>
 <li>Mean Reversion Trading Strategy</li>
