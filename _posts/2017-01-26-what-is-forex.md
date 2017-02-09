@@ -35,8 +35,7 @@ Example - Alex is a trader of its own trading account. He think that EURO curren
 To make money trough forex market, you need <a href="http://www.gravtrade.com/how-to-be-a-professional-trader-guide">best trading strategy</a> and you need to discipline yourself in order to achieve you goals.
 
 ### Types of Forex Trading Strategy
-<li>Scalping Trading</li>
-  - Scalping technique is a trading strategy that trader normally get in and out the forex market within short period of time to make profit on small or sudden price movement. They trade aggressively with tight risk management.
+<li>Scalping Trading</li> - Scalping technique is a trading strategy that trader normally get in and out the forex market within short period of time to make profit on small or sudden price movement. They trade aggressively with tight risk management.
   
 <li>Day Trading Strategy</li>
 <li>Swing Trading Strategy</li>
