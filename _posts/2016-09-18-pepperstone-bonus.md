@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pepperbonus
 title: 'Pepperstone Bonus $4000 From GravTrade'
 tags:
   - pepperstone
