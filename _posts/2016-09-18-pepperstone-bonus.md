@@ -45,11 +45,16 @@ While getting in and out on any market instrument you need to pay sum amount of 
 ## How to register?
 Follow steps below:
 
-1. like us <div class="fb-like" data-href="https://www.facebook.com/gravtrade/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-2. Share this good news to your facebook <div class="fb-share-button" data-href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.gravtrade.com%2Fpepperstone%2Fbonus%2F2016%2F09%2F18%2Fpepperstone-bonus.html&amp;src=sdkpreparse">Share</a></div>
-3. Bookmark us on facebook <div class="fb-save" data-uri="http://www.gravtrade.com" data-size="large"></div>
-4. Sign up **Pepperstone Edge Standard Account** through our <a href="https://pepperstone.com/?a_aid=pro" rel="nofollow">Pepperstone bonus</a> campaign.
-5. If you already have **Pepperstone Edge Standard Account**, you need to email [Pepperstone broker](http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html "Pepperstone broker") support team and ask them to put you under our IB id (pro) or provide them this link https://pepperstone.com/?a_aid=pro into your mail.
-6. <a href="http://www.gravtrade.com/contact" rel="nofollow">Email</a> us to claim your bonus.
+1 ) like us <div class="fb-like" data-href="https://www.facebook.com/gravtrade/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+<br>
+2 ) Share this good news to your facebook <div class="fb-share-button" data-href="http://www.gravtrade.com/pepperstone/bonus/2016/09/18/pepperstone-bonus.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.gravtrade.com%2Fpepperstone%2Fbonus%2F2016%2F09%2F18%2Fpepperstone-bonus.html&amp;src=sdkpreparse">Share</a></div>
+<br>
+3 ) Bookmark us on facebook <div class="fb-save" data-uri="http://www.gravtrade.com" data-size="large"></div>
+<br>
+4 ) Sign up **Pepperstone Edge Standard Account** through our <a href="https://pepperstone.com/?a_aid=pro" rel="nofollow">Pepperstone bonus</a> campaign.
+<br>
+5 ) If you already have **Pepperstone Edge Standard Account**, you need to email [Pepperstone broker](http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html "Pepperstone broker") support team and ask them to put you under our IB id (pro) or provide them this link https://pepperstone.com/?a_aid=pro into your mail.
+<br>
+6 ) <a href="http://www.gravtrade.com/contact" rel="nofollow">Email</a> us to claim your bonus.
 
 <small><a href="http://www.gravtrade.com/term-and-condition/" rel="nofollow">*Term and condition applied</a></small>
