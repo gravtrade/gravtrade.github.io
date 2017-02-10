@@ -44,17 +44,3 @@ While getting in and out on any market instrument you need to pay sum amount of 
 
 ## How to register?
 Follow steps below:
-
-1 ) like us https://www.facebook.com/gravtrade/
-<br>
-2 ) Share this good news to your facebook
-<br>
-3 ) Bookmark us on facebook 
-<br>
-4 ) Sign up **Pepperstone Edge Standard Account** through our <a href="https://pepperstone.com/?a_aid=pro" rel="nofollow">Pepperstone bonus</a> campaign.
-<br>
-5 ) If you already have **Pepperstone Edge Standard Account**, you need to email [Pepperstone broker](http://www.gravtrade.com/pepperstone/forex/broker/review/2016/10/03/pepperstone-review.html "Pepperstone broker") support team and ask them to put you under our IB id (pro) or provide them this link https://pepperstone.com/?a_aid=pro into your mail.
-<br>
-6 ) <a href="http://www.gravtrade.com/contact" rel="nofollow">Email</a> us to claim your bonus.
-
-<small><a href="http://www.gravtrade.com/term-and-condition/" rel="nofollow">*Term and condition applied</a></small>
