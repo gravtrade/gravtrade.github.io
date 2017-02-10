@@ -34,7 +34,11 @@ In this post we will explain what is <span class="label label-info">FOREX</span>
 Example - Alex is a trader of its own trading account. He think that EURO currency versus DOLLAR will climb from 1.13456 to 1.13556 (10pips) and decided to buy with 0.1 standard lot (1dollar/pip move). If the price goes to his prediction, he will earn 10 dollar but if the price fall to 10pips he will loose 10 dollar.
 
 ## How much is the forex market worth?
+<div align="center">
+<img alt="Foreign exchange market" src="/static/img/general-image/foreign-exchange-market.png" title="Foreign exchange market" >
+</div>
 
+<br>
 Forex exchange is the largest financial market in the world with around $5.3 TRILLION a day trade volume that makes it the most exciting market compared to other financial market and operated 24 hours on every weekdays. To make money trough forex market, you need <a href="http://www.gravtrade.com/how-to-be-a-professional-trader-guide">best trading strategy</a> and you need to discipline yourself in order to achieve you goals.
 
 ### Types of Forex Trading Strategy
