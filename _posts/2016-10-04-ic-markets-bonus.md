@@ -50,14 +50,7 @@ Follow steps below:
 2 ) Share this good news to your facebook <a href="https://www.facebook.com/dialog/share
     ?app_id=946372735391329&display=popup
     &href={{ site.url }}{{ page.url }}
-    &redirect_uri={{ site.url }}{{ page.url }}">
-
-    <!-- use the facebook logo for the link --> 
-    <img 
-        alt="..." 
-        class="footer-icon" 
-        src="http://tomhohenstein.com/assets/img/social-icons/facebook.png">
-</a>
+    &redirect_uri={{ site.url }}{{ page.url }}">Share</a>
 <br>
 3 ) Bookmark us on facebook <div class="fb-save" data-uri="http://www.gravtrade.com" data-size="large"></div>
 <br>
