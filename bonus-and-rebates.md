@@ -6,7 +6,7 @@ permalink: /bonus-and-rebates/
 
 # Forex Bonus and Rebates - Latest Updates
 
-GravTrade offere you couple of **bonus and rebates** if you trade through our preferred broker and this is the highest offer that you will never get through our competitors! As a trader, reducing your risk is a rule number 1 but reducing your trading cost is a brilliant way! Normally once you opened and live trading account, most of trading broker never offer you bonus and rebates because you need to apply it manually (if they really offer you the bonus and rebates).
+GravTrade offered you couple of **bonus and rebates** if you trade through our preferred broker and this is the highest offer that you will never get through our competitors! As a trader, reducing your risk is a rule number 1 but reducing your trading cost is a brilliant way! Normally once you opened and live trading account, most of trading broker never offer you bonus and rebates because you need to apply it manually (if they really offer you the bonus and rebates).
 
 
 ## Bonus offer
