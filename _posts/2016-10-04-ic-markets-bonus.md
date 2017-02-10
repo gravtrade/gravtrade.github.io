@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: icbonus
 title: 'IC Markets Bonus $4000 From GravTrade'
 tags:
   - icmarkets
@@ -44,18 +44,3 @@ While getting in and out on any market instrument you need to pay sum amount of 
 
 ## How to register?
 Follow steps below:
-
-1 ) like us https://www.facebook.com/gravtrade/
-<br>
-2 ) Share this good news to your facebook 
-<br>
-3 ) Bookmark us on facebook 
-<br>
-4 ) Sign up **IC Markets Standard Account** through our <a href="http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746" rel="nofollow">IC Markets bonus</a> campaign.
-<br>
-5 ) If you already have **IC Markets Standard Account**, you need to email IC Markets broker support team and ask them to put you under our IB id (7745) or provide them this link http://icmarkets.com/?camp=7745 into your mail.
-<br>
-6 ) <a href="http://www.gravtrade.com/contact" rel="nofollow">Email</a> us to claim your bonus.
-
-
-<small><a href="http://www.gravtrade.com/term-and-condition/" rel="nofollow">*Term and condition applied</a></small>
