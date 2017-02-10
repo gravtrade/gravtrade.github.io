@@ -45,11 +45,11 @@ While getting in and out on any market instrument you need to pay sum amount of 
 ## How to register?
 Follow steps below:
 
-1 ) like us 
+1 ) like us https://www.facebook.com/gravtrade/
 <br>
-2 ) Share this good news to your facebook <a href="https://www.facebook.com/sharer/sharer.php?app_id=146485415802294&sdk=joey&u=http%3A%2F%2Fwww.gravtrade.com%2Ficmarkets%2Fbonus%2F2016%2F10%2F04%2Fic-markets-bonus.html&display=popup&ref=plugin&src=share_button">Share</a>
+2 ) Share this good news to your facebook 
 <br>
-3 ) Bookmark us on facebook <div class="fb-save" data-uri="http://www.gravtrade.com" data-size="large"></div>
+3 ) Bookmark us on facebook 
 <br>
 4 ) Sign up **IC Markets Standard Account** through our <a href="http://www.icmarkets.com/forex-trading/open-a-live-account/?camp=7746" rel="nofollow">IC Markets bonus</a> campaign.
 <br>
