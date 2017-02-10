@@ -47,10 +47,7 @@ Follow steps below:
 
 1 ) like us 
 <br>
-2 ) Share this good news to your facebook <a href="https://www.facebook.com/dialog/share
-    ?app_id=146485415802294&display=popup
-    &href={{ site.url }}{{ page.url }}
-    &redirect_uri={{ site.url }}{{ page.url }}">Share</a>
+2 ) Share this good news to your facebook <a href="https://www.facebook.com/sharer/sharer.php?app_id=146485415802294&sdk=joey&u=http%3A%2F%2Fwww.gravtrade.com%2Ficmarkets%2Fbonus%2F2016%2F10%2F04%2Fic-markets-bonus.html&display=popup&ref=plugin&src=share_button">Share</a>
 <br>
 3 ) Bookmark us on facebook <div class="fb-save" data-uri="http://www.gravtrade.com" data-size="large"></div>
 <br>
