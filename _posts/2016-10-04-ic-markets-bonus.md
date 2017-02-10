@@ -45,14 +45,19 @@ While getting in and out on any market instrument you need to pay sum amount of 
 ## How to register?
 Follow steps below:
 
-1 ) like us <div
-  class="fb-like"
-  data-share="true"
-  data-width="450"
-  data-show-faces="true">
-</div>
+1 ) like us 
 <br>
-2 ) Share this good news to your facebook <div class="fb-share-button" data-href="http://www.gravtrade.com/icmarkets/bonus/2016/10/04/ic-markets-bonus.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.gravtrade.com%2Ficmarkets%2Fbonus%2F2016%2F10%2F04%2Fic-markets-bonus.html&amp;src=sdkpreparse">Share</a></div>
+2 ) Share this good news to your facebook <a href="https://www.facebook.com/dialog/share
+    ?app_id=946372735391329&display=popup
+    &href={{ site.url }}{{ page.url }}
+    &redirect_uri={{ site.url }}{{ page.url }}">
+
+    <!-- use the facebook logo for the link --> 
+    <img 
+        alt="..." 
+        class="footer-icon" 
+        src="http://tomhohenstein.com/assets/img/social-icons/facebook.png">
+</a>
 <br>
 3 ) Bookmark us on facebook <div class="fb-save" data-uri="http://www.gravtrade.com" data-size="large"></div>
 <br>
