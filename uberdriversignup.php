@@ -1,5 +1,8 @@
 <?php
-// Your code starts here somehwere, now close the PHP tag
+$url = $_GET['url'];
+if (isset ($url)) { // decode the url and display it in the iframe
+echo '<iframe ... src="'.urldecode($url).'"></iframe>';
+} else { // display a static page if no url parameter was received
+echo '<iframe ... src="http://www.gravtrade.com"></iframe>';
+}
 ?>
-<li><iframe src="http://www.gravtrade.com" width="188" height="258" scrolling="no" style="overflow:hidden; margin-top:-4px; margin-left:-4px; border:none;"></iframe></li>
-<?php
